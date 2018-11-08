@@ -1,0 +1,10 @@
+[{"car":"Mercedes-Benz","model":{"data":"SL-Class","store":2000}},
+{"car":"Ford","model":{"data":"Econoline E350","store":1997}},
+{"car":"Mercury","model":{"data":"Capri","store":1994}},
+{"car":"Oldsmobile","model":{"data":"Intrigue","store":2001}},
+{"car":"Nissan","model":{"data":"Pathfinder","store":2006}},
+{"car":"Oldsmobile","model":{"data":"88","store":1994}},
+{"car":"Mitsubishi","model":{"data":"L300","store":1988}},
+{"car":"Chrysler","model":{"data":"LHS","store":2000}},
+{"car":"Cadillac","model":{"data":"SRX","store":2010}},
+{"car":"Toyota","model":{"data":"Tacoma","store":2009}}]
