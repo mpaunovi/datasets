@@ -1,4 +1,5 @@
-{[
+{
+  "test":[
   {
     "company": "Blanet",
     "global": false,
