@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Eclipto",
+    "global": false,
+    "founded": "05/08/15",
+    "workHourBalance": 97,
+    "lastQuarterProfit": 31962,
+    "yearlyProfit": 1128717854,
+    "fiveYearProfit": 3266802039641370600,
+    "monthlyExpenses": 6928.11,
+    "map": {
+      "https://data.company.io/entities/namespace/5": [
+        {
+          "xdm:id": "71641402540-52129483154",
+          "xdm:authenticatedState": "loggedOut",
+          "xdm:primary": false
+        }
+      ]
+    }
+  }
+]
