@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Cogentry",
+    "global": true,
+    "founded": "11/19/14",
+    "workHourBalance": 24,
+    "lastQuarterProfit": 32765,
+    "yearlyProfit": 1201118568,
+    "fiveYearProfit": 1338660174007738400,
+    "monthlyExpenses": 6068.47,
+    "map": {
+      "https://data.company.io/entities/namespace/5": [
+        {
+          "xdm:id": "57043394702-44373897413",
+          "xdm:authenticatedState": "authenticated",
+          "xdm:primary": false
+        }
+      ]
+    }
+  }
+]
