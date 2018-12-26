@@ -1,0 +1,40 @@
+[
+  {
+    "company": "Strozen",
+    "global": false,
+    "founded": "03/02/17",
+    "workHourBalance": 6,
+    "lastQuarterProfit": 4489,
+    "yearlyProfit": 1363677831,
+    "fiveYearProfit": 8091404342334073000,
+    "monthlyExpenses": 2030.72,
+    "type": {
+      "https://data.company.io/entities/namespace/5": [
+        {
+          "id": "55174820924-48838579124",
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ]
+    }
+  },
+  {
+    "company": "Netropic",
+    "global": false,
+    "founded": "12/23/14",
+    "workHourBalance": 179,
+    "lastQuarterProfit": 10972,
+    "yearlyProfit": 319381952,
+    "fiveYearProfit": 3348348460637071400,
+    "monthlyExpenses": 5341.78,
+    "type": {
+      "https://data.company.io/entities/namespace/5": [
+        {
+          "id": "93011384197-65981682889",
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ]
+    }
+  }
+]
