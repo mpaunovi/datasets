@@ -1,0 +1,3402 @@
+[
+  {
+    "company": "Venoflex",
+    "global": false,
+    "founded": "07/27/18",
+    "workHourBalance": 36,
+    "lastQuarterProfit": 4631,
+    "yearlyProfit": 1310899356,
+    "fiveYearProfit": 7238772723605707000,
+    "monthlyExpenses": 6416.47,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "25367539244-12765890854",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Supremia",
+    "global": true,
+    "founded": "06/21/15",
+    "workHourBalance": 144,
+    "lastQuarterProfit": 4189,
+    "yearlyProfit": 329237911,
+    "fiveYearProfit": 3508978552213068000,
+    "monthlyExpenses": 6307.89,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "98346161189-57105050286",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Applidec",
+    "global": false,
+    "founded": "05/31/16",
+    "workHourBalance": 93,
+    "lastQuarterProfit": 19822,
+    "yearlyProfit": 246669818,
+    "fiveYearProfit": 3220742094339909600,
+    "monthlyExpenses": 7899.92,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "92057372438-10749861781",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Kozgene",
+    "global": true,
+    "founded": "12/27/14",
+    "workHourBalance": 181,
+    "lastQuarterProfit": 10519,
+    "yearlyProfit": 2105873692,
+    "fiveYearProfit": 1137987622804672500,
+    "monthlyExpenses": 9544.4,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "24299733516-20665533493",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Tropolis",
+    "global": false,
+    "founded": "02/25/15",
+    "workHourBalance": 217,
+    "lastQuarterProfit": 30549,
+    "yearlyProfit": 854381138,
+    "fiveYearProfit": 5436918000633061000,
+    "monthlyExpenses": 3229.88,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "47641678860-19327299328",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Ontagene",
+    "global": false,
+    "founded": "12/12/17",
+    "workHourBalance": 116,
+    "lastQuarterProfit": 20972,
+    "yearlyProfit": 1547997039,
+    "fiveYearProfit": 9132025599315978000,
+    "monthlyExpenses": 7518.04,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "52071834587-39825956127",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Pharmex",
+    "global": false,
+    "founded": "04/29/18",
+    "workHourBalance": 62,
+    "lastQuarterProfit": 25009,
+    "yearlyProfit": 898758294,
+    "fiveYearProfit": 8441151161158586000,
+    "monthlyExpenses": 5860.64,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "93461499181-31225922356",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Exoteric",
+    "global": false,
+    "founded": "11/24/15",
+    "workHourBalance": 189,
+    "lastQuarterProfit": 22777,
+    "yearlyProfit": 2064008698,
+    "fiveYearProfit": 7912591020963647000,
+    "monthlyExpenses": 6149.85,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "48587268913-50827776085",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Electonic",
+    "global": true,
+    "founded": "11/13/16",
+    "workHourBalance": 185,
+    "lastQuarterProfit": 7654,
+    "yearlyProfit": 772373982,
+    "fiveYearProfit": 7450327799937839000,
+    "monthlyExpenses": 7489.83,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "25832300438-77096071865",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Fangold",
+    "global": false,
+    "founded": "03/22/16",
+    "workHourBalance": 113,
+    "lastQuarterProfit": 25386,
+    "yearlyProfit": 1537260288,
+    "fiveYearProfit": 1606265943491186700,
+    "monthlyExpenses": 8322.8,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "98987015560-23138822654",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Solgan",
+    "global": true,
+    "founded": "05/09/18",
+    "workHourBalance": 2,
+    "lastQuarterProfit": 3233,
+    "yearlyProfit": 1201654932,
+    "fiveYearProfit": 2484359521817598000,
+    "monthlyExpenses": 4655.29,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "20500657807-41827190098",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Myopium",
+    "global": true,
+    "founded": "11/07/17",
+    "workHourBalance": 103,
+    "lastQuarterProfit": 8908,
+    "yearlyProfit": 1883503810,
+    "fiveYearProfit": 3678080537822329000,
+    "monthlyExpenses": 2400.05,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "39114285315-70431272789",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Zidant",
+    "global": true,
+    "founded": "06/02/17",
+    "workHourBalance": 99,
+    "lastQuarterProfit": 4083,
+    "yearlyProfit": 1871499171,
+    "fiveYearProfit": 2252123063613083600,
+    "monthlyExpenses": 9229.81,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "83618741285-64554239080",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Comveyer",
+    "global": true,
+    "founded": "10/12/15",
+    "workHourBalance": 249,
+    "lastQuarterProfit": 6403,
+    "yearlyProfit": 948825786,
+    "fiveYearProfit": 2667060105830453000,
+    "monthlyExpenses": 9945.77,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "67328356293-75439429439",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Emergent",
+    "global": true,
+    "founded": "07/08/16",
+    "workHourBalance": 206,
+    "lastQuarterProfit": 22315,
+    "yearlyProfit": 1098843618,
+    "fiveYearProfit": 2098713808642267100,
+    "monthlyExpenses": 8939.94,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "14750469359-45110926682",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Terrago",
+    "global": false,
+    "founded": "09/17/18",
+    "workHourBalance": 31,
+    "lastQuarterProfit": 13430,
+    "yearlyProfit": 1764600485,
+    "fiveYearProfit": 5632677289795740000,
+    "monthlyExpenses": 1304.79,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "81559226938-15693587565",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Equitax",
+    "global": true,
+    "founded": "08/11/18",
+    "workHourBalance": 210,
+    "lastQuarterProfit": 4157,
+    "yearlyProfit": 1324418671,
+    "fiveYearProfit": 5901825604966822000,
+    "monthlyExpenses": 8437.73,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "20316113037-33508977798",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Poochies",
+    "global": true,
+    "founded": "06/21/14",
+    "workHourBalance": 175,
+    "lastQuarterProfit": 27189,
+    "yearlyProfit": 1209968619,
+    "fiveYearProfit": 674689295489413100,
+    "monthlyExpenses": 8078.26,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "18450468644-34385695700",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Anixang",
+    "global": false,
+    "founded": "12/14/18",
+    "workHourBalance": 35,
+    "lastQuarterProfit": 3827,
+    "yearlyProfit": 1858500067,
+    "fiveYearProfit": 2604041043138007000,
+    "monthlyExpenses": 5129.38,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "21888635177-75033750903",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Geekfarm",
+    "global": false,
+    "founded": "08/22/14",
+    "workHourBalance": 28,
+    "lastQuarterProfit": 28342,
+    "yearlyProfit": 1652907524,
+    "fiveYearProfit": 7184043907459609000,
+    "monthlyExpenses": 7204.65,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "32362598835-41374328949",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Assurity",
+    "global": false,
+    "founded": "10/01/16",
+    "workHourBalance": 219,
+    "lastQuarterProfit": 8147,
+    "yearlyProfit": 1576841823,
+    "fiveYearProfit": 5931877468139694000,
+    "monthlyExpenses": 8201.06,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "22842205412-97545275223",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Applica",
+    "global": true,
+    "founded": "07/23/15",
+    "workHourBalance": 227,
+    "lastQuarterProfit": 18302,
+    "yearlyProfit": 1553219796,
+    "fiveYearProfit": 2972063929396027400,
+    "monthlyExpenses": 3593.13,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "67690729782-68987948423",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Slumberia",
+    "global": false,
+    "founded": "05/11/15",
+    "workHourBalance": 207,
+    "lastQuarterProfit": 25715,
+    "yearlyProfit": 696756564,
+    "fiveYearProfit": 7157007458927866000,
+    "monthlyExpenses": 3850.65,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "32632016643-87992853160",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Bullzone",
+    "global": false,
+    "founded": "06/23/17",
+    "workHourBalance": 90,
+    "lastQuarterProfit": 14995,
+    "yearlyProfit": 2116794323,
+    "fiveYearProfit": 3640873242378092500,
+    "monthlyExpenses": 2190.99,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "71621026141-11127928468",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Konnect",
+    "global": true,
+    "founded": "11/06/14",
+    "workHourBalance": 189,
+    "lastQuarterProfit": 29691,
+    "yearlyProfit": 1194402260,
+    "fiveYearProfit": 1075145849946064900,
+    "monthlyExpenses": 3199.31,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "58034325893-18812855674",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Comdom",
+    "global": false,
+    "founded": "05/24/15",
+    "workHourBalance": 188,
+    "lastQuarterProfit": 2894,
+    "yearlyProfit": 1478790426,
+    "fiveYearProfit": 4022738977789655000,
+    "monthlyExpenses": 3980.24,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "57185052853-26768730763",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Podunk",
+    "global": false,
+    "founded": "05/09/18",
+    "workHourBalance": 7,
+    "lastQuarterProfit": 10036,
+    "yearlyProfit": 946303801,
+    "fiveYearProfit": 6920569171702835000,
+    "monthlyExpenses": 4323.49,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "94675304744-21232519441",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Aeora",
+    "global": true,
+    "founded": "09/16/18",
+    "workHourBalance": 202,
+    "lastQuarterProfit": 27491,
+    "yearlyProfit": 797108803,
+    "fiveYearProfit": 4112465940369135600,
+    "monthlyExpenses": 5057.74,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "97210963687-75648880899",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Idetica",
+    "global": true,
+    "founded": "03/12/16",
+    "workHourBalance": 218,
+    "lastQuarterProfit": 8002,
+    "yearlyProfit": 791298234,
+    "fiveYearProfit": 6466061666269626000,
+    "monthlyExpenses": 3422.61,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "31438958825-39873887991",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Centuria",
+    "global": true,
+    "founded": "12/06/17",
+    "workHourBalance": 225,
+    "lastQuarterProfit": 24377,
+    "yearlyProfit": 1040152612,
+    "fiveYearProfit": 3606727587111958500,
+    "monthlyExpenses": 9685.45,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "51483215234-71643323427",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Portico",
+    "global": false,
+    "founded": "12/01/18",
+    "workHourBalance": 204,
+    "lastQuarterProfit": 1619,
+    "yearlyProfit": 2043963443,
+    "fiveYearProfit": 662804221104781300,
+    "monthlyExpenses": 6323.7,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "16936252472-28966293606",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zedalis",
+    "global": false,
+    "founded": "04/14/15",
+    "workHourBalance": 190,
+    "lastQuarterProfit": 18331,
+    "yearlyProfit": 1039158845,
+    "fiveYearProfit": 1826608158527762400,
+    "monthlyExpenses": 2904.64,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "53648557954-80073960983",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Entogrok",
+    "global": false,
+    "founded": "07/28/17",
+    "workHourBalance": 61,
+    "lastQuarterProfit": 21084,
+    "yearlyProfit": 1031220963,
+    "fiveYearProfit": 1239890659230699500,
+    "monthlyExpenses": 4055.44,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "42682611254-99142164831",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Comtrek",
+    "global": false,
+    "founded": "08/01/18",
+    "workHourBalance": 233,
+    "lastQuarterProfit": 13329,
+    "yearlyProfit": 1213262353,
+    "fiveYearProfit": 1649086938260256800,
+    "monthlyExpenses": 7057.78,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "52866956869-23591932707",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Plasmox",
+    "global": true,
+    "founded": "05/06/14",
+    "workHourBalance": 48,
+    "lastQuarterProfit": 25040,
+    "yearlyProfit": 231160552,
+    "fiveYearProfit": 5788914944189198000,
+    "monthlyExpenses": 6010.67,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "45008785406-92809888402",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Exospeed",
+    "global": true,
+    "founded": "05/11/18",
+    "workHourBalance": 240,
+    "lastQuarterProfit": 19314,
+    "yearlyProfit": 1594862808,
+    "fiveYearProfit": 1974596569376532500,
+    "monthlyExpenses": 9146.16,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "88777939961-20498349584",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Minga",
+    "global": true,
+    "founded": "01/14/15",
+    "workHourBalance": 94,
+    "lastQuarterProfit": 17199,
+    "yearlyProfit": 37010140,
+    "fiveYearProfit": 2152080403552143400,
+    "monthlyExpenses": 8471.43,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "76015776381-22163177415",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Medcom",
+    "global": true,
+    "founded": "06/08/16",
+    "workHourBalance": 14,
+    "lastQuarterProfit": 30506,
+    "yearlyProfit": 1866310718,
+    "fiveYearProfit": 5081928162755158000,
+    "monthlyExpenses": 5477.07,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "51375794145-81684458002",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Gluid",
+    "global": true,
+    "founded": "03/02/18",
+    "workHourBalance": 22,
+    "lastQuarterProfit": 17449,
+    "yearlyProfit": 1211047694,
+    "fiveYearProfit": 7268531423280695000,
+    "monthlyExpenses": 4372.14,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "23051679495-17088525173",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Essensia",
+    "global": true,
+    "founded": "04/14/15",
+    "workHourBalance": 243,
+    "lastQuarterProfit": 31306,
+    "yearlyProfit": 149493782,
+    "fiveYearProfit": 1312162404330602500,
+    "monthlyExpenses": 2468.52,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "67750177352-94669222125",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Unia",
+    "global": false,
+    "founded": "09/09/14",
+    "workHourBalance": 71,
+    "lastQuarterProfit": 30811,
+    "yearlyProfit": 819141846,
+    "fiveYearProfit": 7552090450614325000,
+    "monthlyExpenses": 2182.82,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "39482032969-75506976888",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Cedward",
+    "global": false,
+    "founded": "02/20/17",
+    "workHourBalance": 15,
+    "lastQuarterProfit": 397,
+    "yearlyProfit": 958226558,
+    "fiveYearProfit": 5763141800287859000,
+    "monthlyExpenses": 5073.43,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "95293883181-31728990827",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Prosure",
+    "global": false,
+    "founded": "08/23/18",
+    "workHourBalance": 179,
+    "lastQuarterProfit": 31854,
+    "yearlyProfit": 504184183,
+    "fiveYearProfit": 7125956854392670000,
+    "monthlyExpenses": 4570.11,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "48679919542-66893683659",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Exposa",
+    "global": true,
+    "founded": "05/19/15",
+    "workHourBalance": 2,
+    "lastQuarterProfit": 30473,
+    "yearlyProfit": 192969467,
+    "fiveYearProfit": 2079231191628621800,
+    "monthlyExpenses": 7131.83,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "88187318554-51533695718",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Kegular",
+    "global": true,
+    "founded": "12/12/15",
+    "workHourBalance": 79,
+    "lastQuarterProfit": 15258,
+    "yearlyProfit": 796775014,
+    "fiveYearProfit": 6050194184199836000,
+    "monthlyExpenses": 4151.89,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "22956730942-56464571674",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Rockyard",
+    "global": true,
+    "founded": "09/06/17",
+    "workHourBalance": 60,
+    "lastQuarterProfit": 13889,
+    "yearlyProfit": 1360701938,
+    "fiveYearProfit": 1705444659942951000,
+    "monthlyExpenses": 5689.78,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "92049634894-24976749995",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Harmoney",
+    "global": false,
+    "founded": "03/09/16",
+    "workHourBalance": 179,
+    "lastQuarterProfit": 697,
+    "yearlyProfit": 1545134094,
+    "fiveYearProfit": 7790361376028873000,
+    "monthlyExpenses": 3257.34,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "17464743810-76130119794",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Providco",
+    "global": true,
+    "founded": "05/15/18",
+    "workHourBalance": 187,
+    "lastQuarterProfit": 21406,
+    "yearlyProfit": 1894728445,
+    "fiveYearProfit": 3785306479076643000,
+    "monthlyExpenses": 6321.6,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "64010392015-52715320827",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Orboid",
+    "global": false,
+    "founded": "06/23/16",
+    "workHourBalance": 127,
+    "lastQuarterProfit": 31327,
+    "yearlyProfit": 1759893338,
+    "fiveYearProfit": 2606501634205485000,
+    "monthlyExpenses": 5460.8,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "73818845289-90046227496",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Digirang",
+    "global": true,
+    "founded": "01/16/17",
+    "workHourBalance": 55,
+    "lastQuarterProfit": 32715,
+    "yearlyProfit": 2102836018,
+    "fiveYearProfit": 6818176847792773000,
+    "monthlyExpenses": 5347,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "83025983957-55876397983",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Twiggery",
+    "global": true,
+    "founded": "02/27/18",
+    "workHourBalance": 9,
+    "lastQuarterProfit": 22471,
+    "yearlyProfit": 1398988800,
+    "fiveYearProfit": 545554607590760450,
+    "monthlyExpenses": 9367.61,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "51432582424-44459626417",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Codax",
+    "global": false,
+    "founded": "12/23/15",
+    "workHourBalance": 243,
+    "lastQuarterProfit": 16913,
+    "yearlyProfit": 1988800154,
+    "fiveYearProfit": 6243784330373642000,
+    "monthlyExpenses": 5514.94,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "30367698349-94782924122",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Enthaze",
+    "global": true,
+    "founded": "05/11/16",
+    "workHourBalance": 247,
+    "lastQuarterProfit": 15263,
+    "yearlyProfit": 989505013,
+    "fiveYearProfit": 5215650581820883000,
+    "monthlyExpenses": 4673.91,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "26873507004-23278902138",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Xanide",
+    "global": false,
+    "founded": "05/24/14",
+    "workHourBalance": 221,
+    "lastQuarterProfit": 28821,
+    "yearlyProfit": 772203872,
+    "fiveYearProfit": 6894616315471204000,
+    "monthlyExpenses": 6147.42,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "11081414964-48790439333",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Pearlesex",
+    "global": true,
+    "founded": "05/02/15",
+    "workHourBalance": 180,
+    "lastQuarterProfit": 31781,
+    "yearlyProfit": 156899422,
+    "fiveYearProfit": 5081121854948055000,
+    "monthlyExpenses": 4599.75,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "48525765535-18450549611",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zeam",
+    "global": false,
+    "founded": "02/12/16",
+    "workHourBalance": 99,
+    "lastQuarterProfit": 15951,
+    "yearlyProfit": 1757612750,
+    "fiveYearProfit": 6213861382996607000,
+    "monthlyExpenses": 1864.46,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "13293503128-52356987853",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zanilla",
+    "global": false,
+    "founded": "03/27/15",
+    "workHourBalance": 89,
+    "lastQuarterProfit": 23050,
+    "yearlyProfit": 1029770135,
+    "fiveYearProfit": 7681524801961576000,
+    "monthlyExpenses": 6936.69,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "45038781242-42808014486",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Farmage",
+    "global": true,
+    "founded": "09/16/16",
+    "workHourBalance": 99,
+    "lastQuarterProfit": 32582,
+    "yearlyProfit": 124750995,
+    "fiveYearProfit": 2633722570506129400,
+    "monthlyExpenses": 4134.72,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "91734654581-70107639996",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Roboid",
+    "global": false,
+    "founded": "11/19/17",
+    "workHourBalance": 23,
+    "lastQuarterProfit": 25114,
+    "yearlyProfit": 1557917034,
+    "fiveYearProfit": 7463272391410020000,
+    "monthlyExpenses": 2794.86,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "78458055496-70115281593",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Pharmacon",
+    "global": false,
+    "founded": "01/08/17",
+    "workHourBalance": 117,
+    "lastQuarterProfit": 18661,
+    "yearlyProfit": 1762938678,
+    "fiveYearProfit": 1278224463619526700,
+    "monthlyExpenses": 5187.28,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "41611346574-74454443934",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Zaphire",
+    "global": false,
+    "founded": "10/08/16",
+    "workHourBalance": 249,
+    "lastQuarterProfit": 30927,
+    "yearlyProfit": 939966328,
+    "fiveYearProfit": 5845547216106721000,
+    "monthlyExpenses": 1427.7,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "49881067102-48438534217",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Zappix",
+    "global": false,
+    "founded": "11/03/18",
+    "workHourBalance": 51,
+    "lastQuarterProfit": 22902,
+    "yearlyProfit": 1010259705,
+    "fiveYearProfit": 6862385723414458000,
+    "monthlyExpenses": 5525.85,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "27555144469-95965145177",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Gology",
+    "global": false,
+    "founded": "06/29/15",
+    "workHourBalance": 166,
+    "lastQuarterProfit": 8692,
+    "yearlyProfit": 1871944506,
+    "fiveYearProfit": 7390676720753693000,
+    "monthlyExpenses": 1878.1,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "27190533947-32524594853",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Snacktion",
+    "global": true,
+    "founded": "04/08/18",
+    "workHourBalance": 101,
+    "lastQuarterProfit": 28721,
+    "yearlyProfit": 1219609364,
+    "fiveYearProfit": 1131197828009748500,
+    "monthlyExpenses": 2231.73,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "31621962866-95530537795",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Dogtown",
+    "global": true,
+    "founded": "03/14/15",
+    "workHourBalance": 144,
+    "lastQuarterProfit": 1222,
+    "yearlyProfit": 801722822,
+    "fiveYearProfit": 2076706365422764000,
+    "monthlyExpenses": 2741.71,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "19375158132-91924209387",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Eweville",
+    "global": false,
+    "founded": "08/02/14",
+    "workHourBalance": 75,
+    "lastQuarterProfit": 17255,
+    "yearlyProfit": 1676877322,
+    "fiveYearProfit": 4750747588869263000,
+    "monthlyExpenses": 7686.09,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "52179445747-92749861742",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Medalert",
+    "global": true,
+    "founded": "12/19/17",
+    "workHourBalance": 58,
+    "lastQuarterProfit": 12642,
+    "yearlyProfit": 1300885181,
+    "fiveYearProfit": 7312127477852715000,
+    "monthlyExpenses": 9530.38,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "27707751218-69140148977",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Fortean",
+    "global": true,
+    "founded": "10/01/17",
+    "workHourBalance": 79,
+    "lastQuarterProfit": 13294,
+    "yearlyProfit": 1814079472,
+    "fiveYearProfit": 7027522506882626000,
+    "monthlyExpenses": 8024.16,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "28097585391-11765772697",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Mantro",
+    "global": false,
+    "founded": "04/15/15",
+    "workHourBalance": 63,
+    "lastQuarterProfit": 32072,
+    "yearlyProfit": 1592771704,
+    "fiveYearProfit": 9219367309184795000,
+    "monthlyExpenses": 8442.35,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "70799128440-78904841704",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Omnigog",
+    "global": false,
+    "founded": "05/07/15",
+    "workHourBalance": 175,
+    "lastQuarterProfit": 32097,
+    "yearlyProfit": 1035004206,
+    "fiveYearProfit": 6260500651901905000,
+    "monthlyExpenses": 9536.25,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "65919613541-30407816275",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Asimiline",
+    "global": false,
+    "founded": "04/13/16",
+    "workHourBalance": 91,
+    "lastQuarterProfit": 5399,
+    "yearlyProfit": 220298347,
+    "fiveYearProfit": 349294201933305860,
+    "monthlyExpenses": 2036.74,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "24470391483-19959118850",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Mangelica",
+    "global": true,
+    "founded": "03/03/18",
+    "workHourBalance": 90,
+    "lastQuarterProfit": 16005,
+    "yearlyProfit": 1262376625,
+    "fiveYearProfit": 2846068967271059500,
+    "monthlyExpenses": 8456.06,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "84633305984-93017168420",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Accel",
+    "global": false,
+    "founded": "04/17/18",
+    "workHourBalance": 179,
+    "lastQuarterProfit": 20700,
+    "yearlyProfit": 556537168,
+    "fiveYearProfit": 3000571289497221000,
+    "monthlyExpenses": 4231.9,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "73027209765-88823643092",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Aquoavo",
+    "global": false,
+    "founded": "10/26/17",
+    "workHourBalance": 43,
+    "lastQuarterProfit": 16969,
+    "yearlyProfit": 1775165564,
+    "fiveYearProfit": 8390068391165485000,
+    "monthlyExpenses": 9785.04,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "61282393374-75904824052",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Boink",
+    "global": false,
+    "founded": "03/02/18",
+    "workHourBalance": 233,
+    "lastQuarterProfit": 29094,
+    "yearlyProfit": 1626517963,
+    "fiveYearProfit": 8381777017942497000,
+    "monthlyExpenses": 4279.34,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "41292301807-55359239202",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Tubesys",
+    "global": false,
+    "founded": "02/05/16",
+    "workHourBalance": 165,
+    "lastQuarterProfit": 32129,
+    "yearlyProfit": 1259713736,
+    "fiveYearProfit": 5082915674942376000,
+    "monthlyExpenses": 2294.82,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "72853481711-16634964546",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Geekol",
+    "global": false,
+    "founded": "02/07/14",
+    "workHourBalance": 171,
+    "lastQuarterProfit": 6875,
+    "yearlyProfit": 1593148707,
+    "fiveYearProfit": 5086794911793379000,
+    "monthlyExpenses": 3244.74,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "49829996683-78988696189",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Inear",
+    "global": true,
+    "founded": "03/26/17",
+    "workHourBalance": 24,
+    "lastQuarterProfit": 18175,
+    "yearlyProfit": 342406589,
+    "fiveYearProfit": 7312964466857171000,
+    "monthlyExpenses": 3826.82,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "31683864449-61798316181",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Senmei",
+    "global": false,
+    "founded": "12/16/17",
+    "workHourBalance": 175,
+    "lastQuarterProfit": 10659,
+    "yearlyProfit": 1149255541,
+    "fiveYearProfit": 2678339475772055600,
+    "monthlyExpenses": 4992.65,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "44091717253-12249355090",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Imperium",
+    "global": true,
+    "founded": "07/14/18",
+    "workHourBalance": 34,
+    "lastQuarterProfit": 741,
+    "yearlyProfit": 1255825842,
+    "fiveYearProfit": 7612502028915204000,
+    "monthlyExpenses": 6883.81,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "46993017228-48288358110",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Homelux",
+    "global": true,
+    "founded": "04/14/14",
+    "workHourBalance": 41,
+    "lastQuarterProfit": 2493,
+    "yearlyProfit": 885693011,
+    "fiveYearProfit": 811779795965409300,
+    "monthlyExpenses": 2983.63,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "83959628207-38667650937",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zepitope",
+    "global": false,
+    "founded": "11/07/14",
+    "workHourBalance": 139,
+    "lastQuarterProfit": 18716,
+    "yearlyProfit": 188776719,
+    "fiveYearProfit": 6082408355672259000,
+    "monthlyExpenses": 8803.9,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "21966636256-87814479134",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Qot",
+    "global": false,
+    "founded": "03/28/17",
+    "workHourBalance": 140,
+    "lastQuarterProfit": 21688,
+    "yearlyProfit": 1083126692,
+    "fiveYearProfit": 5708305612807418000,
+    "monthlyExpenses": 5073.62,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "37280282534-68442497684",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Terascape",
+    "global": false,
+    "founded": "12/05/16",
+    "workHourBalance": 43,
+    "lastQuarterProfit": 24081,
+    "yearlyProfit": 298386100,
+    "fiveYearProfit": 4194934741167728600,
+    "monthlyExpenses": 5717.35,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "57968888636-85707344825",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Eclipto",
+    "global": true,
+    "founded": "01/29/18",
+    "workHourBalance": 18,
+    "lastQuarterProfit": 31333,
+    "yearlyProfit": 125603560,
+    "fiveYearProfit": 6254126968840260000,
+    "monthlyExpenses": 3629.19,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "57655262237-76269739866",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Endipin",
+    "global": false,
+    "founded": "02/03/16",
+    "workHourBalance": 181,
+    "lastQuarterProfit": 2399,
+    "yearlyProfit": 805640391,
+    "fiveYearProfit": 3511139835066675000,
+    "monthlyExpenses": 8344.79,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "32230894583-85573719750",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Skinserve",
+    "global": false,
+    "founded": "12/26/18",
+    "workHourBalance": 232,
+    "lastQuarterProfit": 15399,
+    "yearlyProfit": 1482059552,
+    "fiveYearProfit": 7875739196961776000,
+    "monthlyExpenses": 1257.44,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "72440886270-63800254678",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zenco",
+    "global": true,
+    "founded": "03/03/18",
+    "workHourBalance": 182,
+    "lastQuarterProfit": 16836,
+    "yearlyProfit": 417135876,
+    "fiveYearProfit": 1047097561143541800,
+    "monthlyExpenses": 6138.71,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "74959671460-64660584025",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Makingway",
+    "global": true,
+    "founded": "09/17/15",
+    "workHourBalance": 246,
+    "lastQuarterProfit": 24861,
+    "yearlyProfit": 476069388,
+    "fiveYearProfit": 8395049540291365000,
+    "monthlyExpenses": 2107.72,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "18697448224-52167270143",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Bristo",
+    "global": false,
+    "founded": "07/04/14",
+    "workHourBalance": 23,
+    "lastQuarterProfit": 17725,
+    "yearlyProfit": 1771555918,
+    "fiveYearProfit": 6922968970727668000,
+    "monthlyExpenses": 2982.06,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "56711726914-64025935296",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Accuprint",
+    "global": true,
+    "founded": "09/10/17",
+    "workHourBalance": 5,
+    "lastQuarterProfit": 16448,
+    "yearlyProfit": 616880076,
+    "fiveYearProfit": 1791138495343921200,
+    "monthlyExpenses": 2902.04,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "29864281679-32780583804",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Zytrac",
+    "global": false,
+    "founded": "04/03/14",
+    "workHourBalance": 213,
+    "lastQuarterProfit": 27827,
+    "yearlyProfit": 1498754238,
+    "fiveYearProfit": 3814981001846632400,
+    "monthlyExpenses": 2589.62,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "35728532662-88000201621",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Zillactic",
+    "global": true,
+    "founded": "10/27/14",
+    "workHourBalance": 51,
+    "lastQuarterProfit": 4,
+    "yearlyProfit": 832953680,
+    "fiveYearProfit": 6044580311412679000,
+    "monthlyExpenses": 7009.1,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "53655091492-70144089966",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Xsports",
+    "global": true,
+    "founded": "12/22/17",
+    "workHourBalance": 154,
+    "lastQuarterProfit": 6717,
+    "yearlyProfit": 342184070,
+    "fiveYearProfit": 182045151237089280,
+    "monthlyExpenses": 4254.38,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "79702400709-75515488558",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Waretel",
+    "global": true,
+    "founded": "03/17/17",
+    "workHourBalance": 62,
+    "lastQuarterProfit": 29287,
+    "yearlyProfit": 198088141,
+    "fiveYearProfit": 6691170691485030000,
+    "monthlyExpenses": 2187.91,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "99278189624-71931942462",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Cujo",
+    "global": false,
+    "founded": "04/09/15",
+    "workHourBalance": 49,
+    "lastQuarterProfit": 3781,
+    "yearlyProfit": 1261284245,
+    "fiveYearProfit": 145450578564132860,
+    "monthlyExpenses": 6883.73,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "55777316301-40180070355",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Biospan",
+    "global": true,
+    "founded": "08/03/16",
+    "workHourBalance": 93,
+    "lastQuarterProfit": 24595,
+    "yearlyProfit": 1133081370,
+    "fiveYearProfit": 8845243059014392000,
+    "monthlyExpenses": 3659.12,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "81764642010-34340711649",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Hairport",
+    "global": false,
+    "founded": "08/13/15",
+    "workHourBalance": 229,
+    "lastQuarterProfit": 27532,
+    "yearlyProfit": 1535071364,
+    "fiveYearProfit": 780956120892307500,
+    "monthlyExpenses": 5148.37,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "49506611305-71977875704",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Exoblue",
+    "global": false,
+    "founded": "02/18/16",
+    "workHourBalance": 168,
+    "lastQuarterProfit": 1571,
+    "yearlyProfit": 795774970,
+    "fiveYearProfit": 4999423126105524000,
+    "monthlyExpenses": 9496.68,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "41847199434-93482138481",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Earthwax",
+    "global": true,
+    "founded": "11/16/17",
+    "workHourBalance": 34,
+    "lastQuarterProfit": 30575,
+    "yearlyProfit": 1235564383,
+    "fiveYearProfit": 4196519266550436000,
+    "monthlyExpenses": 3126.38,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "63144279535-24641776804",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Kraggle",
+    "global": false,
+    "founded": "01/16/16",
+    "workHourBalance": 231,
+    "lastQuarterProfit": 7257,
+    "yearlyProfit": 1475175536,
+    "fiveYearProfit": 7393000025006055000,
+    "monthlyExpenses": 6281.26,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "14565531125-52899185302",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Biflex",
+    "global": false,
+    "founded": "03/29/15",
+    "workHourBalance": 100,
+    "lastQuarterProfit": 25805,
+    "yearlyProfit": 942236125,
+    "fiveYearProfit": 1757431387189227500,
+    "monthlyExpenses": 5146.47,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "42577221275-77479417678",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Tetratrex",
+    "global": false,
+    "founded": "05/11/17",
+    "workHourBalance": 169,
+    "lastQuarterProfit": 31418,
+    "yearlyProfit": 1020389669,
+    "fiveYearProfit": 3441518482065357000,
+    "monthlyExpenses": 7321.4,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "49935330806-80611995901",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Earwax",
+    "global": false,
+    "founded": "01/13/18",
+    "workHourBalance": 108,
+    "lastQuarterProfit": 4606,
+    "yearlyProfit": 2030362045,
+    "fiveYearProfit": 8988846380750137000,
+    "monthlyExpenses": 3001.18,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "84463337238-17834485661",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Comtest",
+    "global": false,
+    "founded": "01/16/18",
+    "workHourBalance": 201,
+    "lastQuarterProfit": 2524,
+    "yearlyProfit": 1496087912,
+    "fiveYearProfit": 3522394076965609500,
+    "monthlyExpenses": 6881.65,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "66437565787-18551108969",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Collaire",
+    "global": false,
+    "founded": "02/07/17",
+    "workHourBalance": 147,
+    "lastQuarterProfit": 17495,
+    "yearlyProfit": 1920254463,
+    "fiveYearProfit": 3350266015201790000,
+    "monthlyExpenses": 7920.98,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "49089655502-91441953995",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Gazak",
+    "global": true,
+    "founded": "11/15/18",
+    "workHourBalance": 1,
+    "lastQuarterProfit": 26707,
+    "yearlyProfit": 232890058,
+    "fiveYearProfit": 4870889615441455000,
+    "monthlyExpenses": 2391.69,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "87760495441-71022179203",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Xeronk",
+    "global": false,
+    "founded": "09/13/14",
+    "workHourBalance": 0,
+    "lastQuarterProfit": 24023,
+    "yearlyProfit": 289928601,
+    "fiveYearProfit": 63622797512255490,
+    "monthlyExpenses": 4765,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "93363684147-99820146883",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Pasturia",
+    "global": false,
+    "founded": "01/09/17",
+    "workHourBalance": 157,
+    "lastQuarterProfit": 3989,
+    "yearlyProfit": 557354944,
+    "fiveYearProfit": 5824512201942823000,
+    "monthlyExpenses": 9195.93,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "72705207847-35035471909",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Organica",
+    "global": false,
+    "founded": "06/19/16",
+    "workHourBalance": 109,
+    "lastQuarterProfit": 13511,
+    "yearlyProfit": 1617973700,
+    "fiveYearProfit": 7381985165565047000,
+    "monthlyExpenses": 4239.16,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "23226538152-42130097419",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Daido",
+    "global": true,
+    "founded": "10/19/16",
+    "workHourBalance": 187,
+    "lastQuarterProfit": 2677,
+    "yearlyProfit": 1205836064,
+    "fiveYearProfit": 273633933221081100,
+    "monthlyExpenses": 6416.79,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "25612083976-75569679089",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Panzent",
+    "global": true,
+    "founded": "01/15/15",
+    "workHourBalance": 15,
+    "lastQuarterProfit": 24165,
+    "yearlyProfit": 1765920609,
+    "fiveYearProfit": 237348726985984000,
+    "monthlyExpenses": 2978.42,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "39228240091-60118479828",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Kengen",
+    "global": true,
+    "founded": "05/29/14",
+    "workHourBalance": 177,
+    "lastQuarterProfit": 27164,
+    "yearlyProfit": 1865526203,
+    "fiveYearProfit": 6142477372014578000,
+    "monthlyExpenses": 6227.94,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "60007498528-20655966005",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Ziore",
+    "global": true,
+    "founded": "07/14/15",
+    "workHourBalance": 221,
+    "lastQuarterProfit": 30445,
+    "yearlyProfit": 189168678,
+    "fiveYearProfit": 1964927119080718300,
+    "monthlyExpenses": 6522.02,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "48323303440-79133671347",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Voratak",
+    "global": true,
+    "founded": "07/21/15",
+    "workHourBalance": 123,
+    "lastQuarterProfit": 11281,
+    "yearlyProfit": 981114711,
+    "fiveYearProfit": 7730331979071877000,
+    "monthlyExpenses": 8923.84,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "68694818140-30882021657",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Everest",
+    "global": false,
+    "founded": "06/26/17",
+    "workHourBalance": 11,
+    "lastQuarterProfit": 17317,
+    "yearlyProfit": 737496027,
+    "fiveYearProfit": 6352532199913900000,
+    "monthlyExpenses": 7178.38,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "61339642988-32669531611",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Cosmetex",
+    "global": false,
+    "founded": "03/26/18",
+    "workHourBalance": 255,
+    "lastQuarterProfit": 29273,
+    "yearlyProfit": 2039705064,
+    "fiveYearProfit": 3440863674590245000,
+    "monthlyExpenses": 1108.92,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "39507700853-39838749344",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Deepends",
+    "global": true,
+    "founded": "11/17/16",
+    "workHourBalance": 105,
+    "lastQuarterProfit": 3372,
+    "yearlyProfit": 1385619926,
+    "fiveYearProfit": 1352880454354651100,
+    "monthlyExpenses": 6140.67,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "68505824361-75907911102",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Marketoid",
+    "global": false,
+    "founded": "01/24/16",
+    "workHourBalance": 26,
+    "lastQuarterProfit": 8370,
+    "yearlyProfit": 3314267,
+    "fiveYearProfit": 5066703296093473000,
+    "monthlyExpenses": 7788.01,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "37929416368-55708140679",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Neteria",
+    "global": true,
+    "founded": "08/09/18",
+    "workHourBalance": 248,
+    "lastQuarterProfit": 12121,
+    "yearlyProfit": 278806919,
+    "fiveYearProfit": 5580681103768918000,
+    "monthlyExpenses": 5189.45,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "80278459170-52201391528",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Bovis",
+    "global": true,
+    "founded": "10/31/14",
+    "workHourBalance": 120,
+    "lastQuarterProfit": 16955,
+    "yearlyProfit": 994854794,
+    "fiveYearProfit": 8678411202578993000,
+    "monthlyExpenses": 2731.87,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "62506540990-23595726007",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Evidends",
+    "global": true,
+    "founded": "12/10/15",
+    "workHourBalance": 64,
+    "lastQuarterProfit": 28493,
+    "yearlyProfit": 642164434,
+    "fiveYearProfit": 2522505984901048300,
+    "monthlyExpenses": 1961.05,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "18954504009-49176435281",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Gynko",
+    "global": false,
+    "founded": "04/24/18",
+    "workHourBalance": 95,
+    "lastQuarterProfit": 13534,
+    "yearlyProfit": 821056087,
+    "fiveYearProfit": 1903017393237078000,
+    "monthlyExpenses": 1442.68,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "26427050600-76739997416",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Slax",
+    "global": true,
+    "founded": "11/21/18",
+    "workHourBalance": 0,
+    "lastQuarterProfit": 8142,
+    "yearlyProfit": 1122317242,
+    "fiveYearProfit": 6837410946372467000,
+    "monthlyExpenses": 3770.24,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "60114752547-42797876025",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Insectus",
+    "global": false,
+    "founded": "07/31/14",
+    "workHourBalance": 14,
+    "lastQuarterProfit": 24053,
+    "yearlyProfit": 848069328,
+    "fiveYearProfit": 6845570254317488000,
+    "monthlyExpenses": 7801.68,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "27767406392-93459777922",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Plutorque",
+    "global": true,
+    "founded": "11/24/14",
+    "workHourBalance": 142,
+    "lastQuarterProfit": 6071,
+    "yearlyProfit": 1040266205,
+    "fiveYearProfit": 6183032140213189000,
+    "monthlyExpenses": 9363.33,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "39431419093-46617601562",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Multiflex",
+    "global": true,
+    "founded": "06/04/16",
+    "workHourBalance": 0,
+    "lastQuarterProfit": 28164,
+    "yearlyProfit": 808438972,
+    "fiveYearProfit": 26811302892892160,
+    "monthlyExpenses": 2584.16,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "24395040494-13409399310",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Talkalot",
+    "global": false,
+    "founded": "12/03/15",
+    "workHourBalance": 91,
+    "lastQuarterProfit": 29018,
+    "yearlyProfit": 1319020068,
+    "fiveYearProfit": 5969715757380381000,
+    "monthlyExpenses": 6106.25,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "10745763681-84327125860",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zilidium",
+    "global": false,
+    "founded": "12/16/17",
+    "workHourBalance": 195,
+    "lastQuarterProfit": 4194,
+    "yearlyProfit": 279042498,
+    "fiveYearProfit": 8368003572006308000,
+    "monthlyExpenses": 7529.71,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "33515678252-43247071300",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Quadeebo",
+    "global": false,
+    "founded": "02/21/17",
+    "workHourBalance": 188,
+    "lastQuarterProfit": 13517,
+    "yearlyProfit": 653722008,
+    "fiveYearProfit": 7046587399872068000,
+    "monthlyExpenses": 9148.69,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "96542523384-19389620302",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Callflex",
+    "global": false,
+    "founded": "07/04/17",
+    "workHourBalance": 179,
+    "lastQuarterProfit": 23012,
+    "yearlyProfit": 1095278020,
+    "fiveYearProfit": 8501842659376804000,
+    "monthlyExpenses": 2690.93,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "79857373275-88817227835",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Rugstars",
+    "global": false,
+    "founded": "04/06/14",
+    "workHourBalance": 4,
+    "lastQuarterProfit": 32211,
+    "yearlyProfit": 876357783,
+    "fiveYearProfit": 820372585445077000,
+    "monthlyExpenses": 1337.39,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "52451540998-65386102588",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Icology",
+    "global": false,
+    "founded": "09/11/16",
+    "workHourBalance": 218,
+    "lastQuarterProfit": 9518,
+    "yearlyProfit": 1068296175,
+    "fiveYearProfit": 4501367936423158000,
+    "monthlyExpenses": 9597.35,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "57117604625-41312903802",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Maxemia",
+    "global": true,
+    "founded": "10/19/17",
+    "workHourBalance": 166,
+    "lastQuarterProfit": 14517,
+    "yearlyProfit": 1826525198,
+    "fiveYearProfit": 7989683109949637000,
+    "monthlyExpenses": 3398.47,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "71176115236-15912210728",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Solaren",
+    "global": true,
+    "founded": "08/14/18",
+    "workHourBalance": 245,
+    "lastQuarterProfit": 3505,
+    "yearlyProfit": 2145915153,
+    "fiveYearProfit": 5171952524598743000,
+    "monthlyExpenses": 8642.71,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "99506534245-12571821390",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Sentia",
+    "global": false,
+    "founded": "08/08/18",
+    "workHourBalance": 55,
+    "lastQuarterProfit": 14184,
+    "yearlyProfit": 2131142823,
+    "fiveYearProfit": 8714544861447500000,
+    "monthlyExpenses": 4765.93,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "83253223448-21930021569",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Medmex",
+    "global": true,
+    "founded": "08/12/16",
+    "workHourBalance": 226,
+    "lastQuarterProfit": 17879,
+    "yearlyProfit": 1225411323,
+    "fiveYearProfit": 1326360931580291000,
+    "monthlyExpenses": 3651.56,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "77515317413-64701432702",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Turnling",
+    "global": false,
+    "founded": "05/17/16",
+    "workHourBalance": 230,
+    "lastQuarterProfit": 10097,
+    "yearlyProfit": 1992274757,
+    "fiveYearProfit": 6912740775848632000,
+    "monthlyExpenses": 9012.25,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "56822033682-10809237401",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Realysis",
+    "global": true,
+    "founded": "01/23/17",
+    "workHourBalance": 208,
+    "lastQuarterProfit": 29245,
+    "yearlyProfit": 2025238981,
+    "fiveYearProfit": 7091992737045400000,
+    "monthlyExpenses": 7073.85,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "69474924557-61779514903",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Orbin",
+    "global": true,
+    "founded": "07/13/14",
+    "workHourBalance": 109,
+    "lastQuarterProfit": 1796,
+    "yearlyProfit": 1182246895,
+    "fiveYearProfit": 6034239821553480000,
+    "monthlyExpenses": 9409.17,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "24429913067-66711537404",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Cormoran",
+    "global": false,
+    "founded": "07/09/16",
+    "workHourBalance": 187,
+    "lastQuarterProfit": 9087,
+    "yearlyProfit": 1797727531,
+    "fiveYearProfit": 8419845060962824000,
+    "monthlyExpenses": 1878.4,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "97513850140-50557581399",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Extrawear",
+    "global": false,
+    "founded": "01/18/14",
+    "workHourBalance": 235,
+    "lastQuarterProfit": 12643,
+    "yearlyProfit": 1111697677,
+    "fiveYearProfit": 6786335687220705000,
+    "monthlyExpenses": 8231.23,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "49712904738-34062193348",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Geekus",
+    "global": true,
+    "founded": "04/08/17",
+    "workHourBalance": 185,
+    "lastQuarterProfit": 18920,
+    "yearlyProfit": 535673109,
+    "fiveYearProfit": 541760865453897700,
+    "monthlyExpenses": 6711.45,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "62733647808-32056899457",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Enormo",
+    "global": false,
+    "founded": "01/17/18",
+    "workHourBalance": 222,
+    "lastQuarterProfit": 26581,
+    "yearlyProfit": 61641238,
+    "fiveYearProfit": 457405376648732700,
+    "monthlyExpenses": 2384.57,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "35920163941-43485386079",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Bostonic",
+    "global": false,
+    "founded": "12/17/16",
+    "workHourBalance": 95,
+    "lastQuarterProfit": 31750,
+    "yearlyProfit": 1784301427,
+    "fiveYearProfit": 918699370580056000,
+    "monthlyExpenses": 4689.04,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "60491071858-78044404234",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Progenex",
+    "global": false,
+    "founded": "07/31/14",
+    "workHourBalance": 0,
+    "lastQuarterProfit": 15977,
+    "yearlyProfit": 1017198085,
+    "fiveYearProfit": 8101426958661308000,
+    "monthlyExpenses": 9931.6,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "74211007264-49692307686",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Aquazure",
+    "global": false,
+    "founded": "03/17/16",
+    "workHourBalance": 109,
+    "lastQuarterProfit": 3558,
+    "yearlyProfit": 229081965,
+    "fiveYearProfit": 5356565100763789000,
+    "monthlyExpenses": 6309.23,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "80394090601-17438637739",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Fuelworks",
+    "global": true,
+    "founded": "05/22/16",
+    "workHourBalance": 120,
+    "lastQuarterProfit": 7209,
+    "yearlyProfit": 1165876170,
+    "fiveYearProfit": 1768035054466338800,
+    "monthlyExpenses": 8896.54,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "82253884061-74593824119",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Acium",
+    "global": false,
+    "founded": "09/15/16",
+    "workHourBalance": 158,
+    "lastQuarterProfit": 15669,
+    "yearlyProfit": 2060120337,
+    "fiveYearProfit": 2435905117485179000,
+    "monthlyExpenses": 3533.6,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "74822036416-74019997687",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Cytrek",
+    "global": true,
+    "founded": "12/10/16",
+    "workHourBalance": 189,
+    "lastQuarterProfit": 5230,
+    "yearlyProfit": 1931166323,
+    "fiveYearProfit": 4399190780319154000,
+    "monthlyExpenses": 1017.5,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "41530891966-15410802420",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Grainspot",
+    "global": false,
+    "founded": "05/18/18",
+    "workHourBalance": 246,
+    "lastQuarterProfit": 18761,
+    "yearlyProfit": 1148775916,
+    "fiveYearProfit": 2387464533908484000,
+    "monthlyExpenses": 5346.26,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "15185592101-85084982704",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Geeketron",
+    "global": false,
+    "founded": "09/06/16",
+    "workHourBalance": 184,
+    "lastQuarterProfit": 306,
+    "yearlyProfit": 9488059,
+    "fiveYearProfit": 5511506112768868000,
+    "monthlyExpenses": 8500.35,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "13493590831-66445688447",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Xerex",
+    "global": false,
+    "founded": "05/20/18",
+    "workHourBalance": 175,
+    "lastQuarterProfit": 25299,
+    "yearlyProfit": 491099472,
+    "fiveYearProfit": 7787069170114388000,
+    "monthlyExpenses": 7624.89,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "10622244562-34636583146",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Mediot",
+    "global": true,
+    "founded": "10/14/16",
+    "workHourBalance": 25,
+    "lastQuarterProfit": 6698,
+    "yearlyProfit": 1735855843,
+    "fiveYearProfit": 2841979947187077000,
+    "monthlyExpenses": 9401.75,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "25104268146-58231850523",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Straloy",
+    "global": false,
+    "founded": "01/21/17",
+    "workHourBalance": 112,
+    "lastQuarterProfit": 9745,
+    "yearlyProfit": 1381741720,
+    "fiveYearProfit": 7702829083097459000,
+    "monthlyExpenses": 2286.97,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "79739539547-77958830893",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Bluplanet",
+    "global": false,
+    "founded": "06/16/14",
+    "workHourBalance": 126,
+    "lastQuarterProfit": 5400,
+    "yearlyProfit": 1464227322,
+    "fiveYearProfit": 8028614503145517000,
+    "monthlyExpenses": 2273.57,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "49532601682-92189544038",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Zoarere",
+    "global": false,
+    "founded": "12/24/17",
+    "workHourBalance": 177,
+    "lastQuarterProfit": 14987,
+    "yearlyProfit": 1431648110,
+    "fiveYearProfit": 6930129567886672000,
+    "monthlyExpenses": 6585.91,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "16025167463-87067947373",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Supportal",
+    "global": false,
+    "founded": "10/25/17",
+    "workHourBalance": 245,
+    "lastQuarterProfit": 20232,
+    "yearlyProfit": 1005978908,
+    "fiveYearProfit": 2509076379210535000,
+    "monthlyExpenses": 1933.88,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "80363961829-50616708599",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Mobildata",
+    "global": true,
+    "founded": "09/17/16",
+    "workHourBalance": 118,
+    "lastQuarterProfit": 1814,
+    "yearlyProfit": 305942620,
+    "fiveYearProfit": 2222681549871272000,
+    "monthlyExpenses": 8843.1,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "38855920091-53194722789",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Squish",
+    "global": false,
+    "founded": "09/08/16",
+    "workHourBalance": 233,
+    "lastQuarterProfit": 19572,
+    "yearlyProfit": 993313691,
+    "fiveYearProfit": 4849175877827412000,
+    "monthlyExpenses": 9649.36,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "18607996331-54565005407",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Ecolight",
+    "global": false,
+    "founded": "04/16/15",
+    "workHourBalance": 61,
+    "lastQuarterProfit": 1447,
+    "yearlyProfit": 669323129,
+    "fiveYearProfit": 4869792815407286000,
+    "monthlyExpenses": 6866.95,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "44522371757-32263943961",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Exospace",
+    "global": true,
+    "founded": "01/14/18",
+    "workHourBalance": 55,
+    "lastQuarterProfit": 9773,
+    "yearlyProfit": 152549481,
+    "fiveYearProfit": 4230746106432770000,
+    "monthlyExpenses": 8887.27,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "59439958214-21747177514",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Accidency",
+    "global": false,
+    "founded": "11/22/15",
+    "workHourBalance": 224,
+    "lastQuarterProfit": 24900,
+    "yearlyProfit": 1169143977,
+    "fiveYearProfit": 4426261298247858000,
+    "monthlyExpenses": 6381.23,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "51264515273-15920836782",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Infotrips",
+    "global": true,
+    "founded": "07/28/16",
+    "workHourBalance": 8,
+    "lastQuarterProfit": 25946,
+    "yearlyProfit": 1644981510,
+    "fiveYearProfit": 7534320827240700000,
+    "monthlyExpenses": 6959.6,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "15530709252-97647846169",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Proflex",
+    "global": false,
+    "founded": "07/17/17",
+    "workHourBalance": 41,
+    "lastQuarterProfit": 14725,
+    "yearlyProfit": 759614464,
+    "fiveYearProfit": 5773606517697157000,
+    "monthlyExpenses": 3307.47,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "41930837136-36607645563",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Namegen",
+    "global": false,
+    "founded": "04/26/14",
+    "workHourBalance": 45,
+    "lastQuarterProfit": 24623,
+    "yearlyProfit": 2135761171,
+    "fiveYearProfit": 6143332741036280000,
+    "monthlyExpenses": 4585.22,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "66623979666-44220166000",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zilencio",
+    "global": false,
+    "founded": "01/11/18",
+    "workHourBalance": 115,
+    "lastQuarterProfit": 9339,
+    "yearlyProfit": 1773697512,
+    "fiveYearProfit": 3129515539352932400,
+    "monthlyExpenses": 4895.32,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "95343961872-97801483364",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zinca",
+    "global": false,
+    "founded": "05/03/14",
+    "workHourBalance": 183,
+    "lastQuarterProfit": 19858,
+    "yearlyProfit": 1934683082,
+    "fiveYearProfit": 3229001923050297300,
+    "monthlyExpenses": 8124.89,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "38522650985-81730491014",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Realmo",
+    "global": true,
+    "founded": "10/17/14",
+    "workHourBalance": 10,
+    "lastQuarterProfit": 18061,
+    "yearlyProfit": 1906384484,
+    "fiveYearProfit": 8867074848341996000,
+    "monthlyExpenses": 4477.09,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "33631633026-76310597097",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Velity",
+    "global": false,
+    "founded": "01/18/14",
+    "workHourBalance": 146,
+    "lastQuarterProfit": 22038,
+    "yearlyProfit": 1340989089,
+    "fiveYearProfit": 1653082876236060700,
+    "monthlyExpenses": 8109.03,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "36511797992-29201877665",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Musaphics",
+    "global": true,
+    "founded": "12/11/15",
+    "workHourBalance": 162,
+    "lastQuarterProfit": 23526,
+    "yearlyProfit": 1740309,
+    "fiveYearProfit": 6199771255515318000,
+    "monthlyExpenses": 6031.48,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "29213747694-82488581184",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zenthall",
+    "global": true,
+    "founded": "02/23/15",
+    "workHourBalance": 38,
+    "lastQuarterProfit": 19041,
+    "yearlyProfit": 482305163,
+    "fiveYearProfit": 812707022712447000,
+    "monthlyExpenses": 6398.85,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "37132365498-68919693289",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Soprano",
+    "global": false,
+    "founded": "03/07/15",
+    "workHourBalance": 154,
+    "lastQuarterProfit": 21154,
+    "yearlyProfit": 1602281344,
+    "fiveYearProfit": 4144572149761366000,
+    "monthlyExpenses": 9183.59,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "81776968349-51638412362",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Xinware",
+    "global": false,
+    "founded": "04/09/17",
+    "workHourBalance": 247,
+    "lastQuarterProfit": 23888,
+    "yearlyProfit": 2121724849,
+    "fiveYearProfit": 4296500225871038500,
+    "monthlyExpenses": 8836.29,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "23695590542-21492909927",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Tripsch",
+    "global": true,
+    "founded": "05/17/17",
+    "workHourBalance": 156,
+    "lastQuarterProfit": 23994,
+    "yearlyProfit": 1524606354,
+    "fiveYearProfit": 959950704620163100,
+    "monthlyExpenses": 1221.72,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "28497577217-99003943577",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Volax",
+    "global": true,
+    "founded": "01/20/16",
+    "workHourBalance": 210,
+    "lastQuarterProfit": 20026,
+    "yearlyProfit": 1061812016,
+    "fiveYearProfit": 480694318978734100,
+    "monthlyExpenses": 8118.7,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "26509928967-28247892348",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Geeknet",
+    "global": true,
+    "founded": "08/24/14",
+    "workHourBalance": 9,
+    "lastQuarterProfit": 25604,
+    "yearlyProfit": 931347630,
+    "fiveYearProfit": 2171688963907268600,
+    "monthlyExpenses": 7376.73,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "37939850061-56010725792",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Retrotex",
+    "global": true,
+    "founded": "11/03/18",
+    "workHourBalance": 76,
+    "lastQuarterProfit": 3676,
+    "yearlyProfit": 987594533,
+    "fiveYearProfit": 1556766912318472200,
+    "monthlyExpenses": 4765.26,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "19173416104-38699637829",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Multron",
+    "global": true,
+    "founded": "05/09/17",
+    "workHourBalance": 186,
+    "lastQuarterProfit": 21199,
+    "yearlyProfit": 1048468067,
+    "fiveYearProfit": 581026788978759700,
+    "monthlyExpenses": 9768.64,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "70619503774-81240690485",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Exodoc",
+    "global": false,
+    "founded": "01/13/16",
+    "workHourBalance": 151,
+    "lastQuarterProfit": 21672,
+    "yearlyProfit": 1727937779,
+    "fiveYearProfit": 7406901489232542000,
+    "monthlyExpenses": 6389.5,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "10513947024-71666465932",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Manglo",
+    "global": true,
+    "founded": "10/24/18",
+    "workHourBalance": 69,
+    "lastQuarterProfit": 10819,
+    "yearlyProfit": 213311240,
+    "fiveYearProfit": 2148831057888919600,
+    "monthlyExpenses": 5525.42,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "98614159226-58640411712",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Ceprene",
+    "global": false,
+    "founded": "05/13/14",
+    "workHourBalance": 34,
+    "lastQuarterProfit": 31803,
+    "yearlyProfit": 796965253,
+    "fiveYearProfit": 1294097168144414700,
+    "monthlyExpenses": 9801.32,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "33842269692-67798172298",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Junipoor",
+    "global": false,
+    "founded": "06/10/15",
+    "workHourBalance": 52,
+    "lastQuarterProfit": 22100,
+    "yearlyProfit": 1761185865,
+    "fiveYearProfit": 2177125662078216200,
+    "monthlyExpenses": 1331.05,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "89479787377-99006876426",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Valreda",
+    "global": true,
+    "founded": "07/19/16",
+    "workHourBalance": 185,
+    "lastQuarterProfit": 9034,
+    "yearlyProfit": 1453212754,
+    "fiveYearProfit": 1065377247292704800,
+    "monthlyExpenses": 1968.44,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "27464712809-63015725185",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Zillacon",
+    "global": false,
+    "founded": "05/23/18",
+    "workHourBalance": 141,
+    "lastQuarterProfit": 7817,
+    "yearlyProfit": 523648398,
+    "fiveYearProfit": 1935632181865504800,
+    "monthlyExpenses": 6438.43,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "97461239204-64353699388",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Isonus",
+    "global": true,
+    "founded": "01/25/14",
+    "workHourBalance": 5,
+    "lastQuarterProfit": 18091,
+    "yearlyProfit": 750897361,
+    "fiveYearProfit": 370376945326190600,
+    "monthlyExpenses": 5685.06,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "29019112000-14844420792",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Stockpost",
+    "global": false,
+    "founded": "05/04/17",
+    "workHourBalance": 156,
+    "lastQuarterProfit": 7830,
+    "yearlyProfit": 550109664,
+    "fiveYearProfit": 971412365487198200,
+    "monthlyExpenses": 9036.63,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "75900687492-78043089590",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Elita",
+    "global": true,
+    "founded": "03/19/18",
+    "workHourBalance": 90,
+    "lastQuarterProfit": 32697,
+    "yearlyProfit": 1722989416,
+    "fiveYearProfit": 5269006643236590000,
+    "monthlyExpenses": 7123.17,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "44181367488-55059537632",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Ludak",
+    "global": true,
+    "founded": "11/24/17",
+    "workHourBalance": 25,
+    "lastQuarterProfit": 30006,
+    "yearlyProfit": 1672387380,
+    "fiveYearProfit": 2505777713489522700,
+    "monthlyExpenses": 5457.68,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "13245163887-79616699525",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Extremo",
+    "global": true,
+    "founded": "10/28/14",
+    "workHourBalance": 37,
+    "lastQuarterProfit": 20403,
+    "yearlyProfit": 226162848,
+    "fiveYearProfit": 6011047812720159000,
+    "monthlyExpenses": 9543.04,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "92544207238-70108794332",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Isostream",
+    "global": true,
+    "founded": "08/30/15",
+    "workHourBalance": 182,
+    "lastQuarterProfit": 17132,
+    "yearlyProfit": 1149614010,
+    "fiveYearProfit": 5973522055737418000,
+    "monthlyExpenses": 3133.52,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "93262360261-53252494370",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Quarex",
+    "global": true,
+    "founded": "10/06/14",
+    "workHourBalance": 155,
+    "lastQuarterProfit": 8740,
+    "yearlyProfit": 1207879248,
+    "fiveYearProfit": 2658925340580489000,
+    "monthlyExpenses": 3934.2,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "28475787192-31261563560",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Gronk",
+    "global": false,
+    "founded": "12/19/17",
+    "workHourBalance": 77,
+    "lastQuarterProfit": 18634,
+    "yearlyProfit": 1880236604,
+    "fiveYearProfit": 6839816423697361000,
+    "monthlyExpenses": 2792.63,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "89632977075-12240973148",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Sensate",
+    "global": true,
+    "founded": "03/14/18",
+    "workHourBalance": 132,
+    "lastQuarterProfit": 20429,
+    "yearlyProfit": 888632434,
+    "fiveYearProfit": 2692072568134246400,
+    "monthlyExpenses": 5767.76,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "77001071057-59646634265",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Valpreal",
+    "global": false,
+    "founded": "12/23/17",
+    "workHourBalance": 51,
+    "lastQuarterProfit": 25714,
+    "yearlyProfit": 1481670405,
+    "fiveYearProfit": 5081241209202051000,
+    "monthlyExpenses": 4565.85,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "32215297902-82399715583",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Bitrex",
+    "global": true,
+    "founded": "03/30/17",
+    "workHourBalance": 52,
+    "lastQuarterProfit": 16306,
+    "yearlyProfit": 900011296,
+    "fiveYearProfit": 1209010022104037400,
+    "monthlyExpenses": 9538.36,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "17420822347-36782347016",
+        "xdm:authenticatedState": "loggedOut",
+        "xdm:primary": true
+      }
+    ]
+  },
+  {
+    "company": "Kinetica",
+    "global": true,
+    "founded": "03/25/15",
+    "workHourBalance": 105,
+    "lastQuarterProfit": 31188,
+    "yearlyProfit": 13854875,
+    "fiveYearProfit": 7826381126708832000,
+    "monthlyExpenses": 3394.99,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "51724700070-50683126791",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Centrexin",
+    "global": true,
+    "founded": "11/14/16",
+    "workHourBalance": 39,
+    "lastQuarterProfit": 23264,
+    "yearlyProfit": 1552113451,
+    "fiveYearProfit": 1973490580080978000,
+    "monthlyExpenses": 7720.55,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "60706969390-63106372920",
+        "xdm:authenticatedState": "authenticated",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Eyewax",
+    "global": true,
+    "founded": "02/06/16",
+    "workHourBalance": 202,
+    "lastQuarterProfit": 21199,
+    "yearlyProfit": 628988965,
+    "fiveYearProfit": 7239743279171217000,
+    "monthlyExpenses": 6528.22,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "88319232331-31320058677",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  },
+  {
+    "company": "Enomen",
+    "global": true,
+    "founded": "03/03/16",
+    "workHourBalance": 126,
+    "lastQuarterProfit": 14230,
+    "yearlyProfit": 1494420387,
+    "fiveYearProfit": 3901873958781481000,
+    "monthlyExpenses": 6629.64,
+    "https://data.company.io/entities/namespace/5": [
+      {
+        "xdm:id": "29998968360-50013128750",
+        "xdm:authenticatedState": "ambiguous",
+        "xdm:primary": false
+      }
+    ]
+  }
+]
