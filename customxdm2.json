@@ -8,7 +8,7 @@
     "yearlyProfit": 794892470,
     "fiveYearProfit": 1354850444383692800,
     "monthlyExpenses": 2224.87,
-    "https://data.company.io/entities/namespace/5": [
+    "map": [
       {
         "xdm:id": "33034277544-43954652706",
         "xdm:authenticatedState": "ambiguous",
