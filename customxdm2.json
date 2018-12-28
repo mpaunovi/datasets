@@ -12,16 +12,20 @@
     {
       "EMAIL": [
         {
-          "id": "55174820924-48838579124",
-          "authenticatedState": "authenticated",
-          "primary": false
+          "xdm:id": "id12",
+          "xdm:namespace": {
+            "xdm:code": "AA12"
+          },
+          "xdm:authenticatedState": "ambiguous"
         }
       ],
       "CRM": [
         {
-          "id": "55174820924-48838579124",
-          "authenticatedState": "authenticated",
-          "primary": false
+          "xdm:id": "id34",
+          "xdm:namespace": {
+            "xdm:code": "AA34"
+          },
+          "xdm:authenticatedState": "authenticated"
         }
       ]
     }
@@ -37,18 +41,22 @@
     "monthlyExpenses": 5341.78,
     "type":
     {
-      "PHONE": [
+      "EMAIL": [
         {
-          "id": "93011384197-65981682889",
-          "authenticatedState": "authenticated",
-          "primary": false
+          "xdm:id": "id12",
+          "xdm:namespace": {
+            "xdm:code": "AA12"
+          },
+          "xdm:authenticatedState": "ambiguous"
         }
       ],
       "CRM": [
         {
-          "id": "55174820924-48838579124",
-          "authenticatedState": "authenticated",
-          "primary": false
+          "xdm:id": "id34",
+          "xdm:namespace": {
+            "xdm:code": "AA34"
+          },
+          "xdm:authenticatedState": "authenticated"
         }
       ]
     }
