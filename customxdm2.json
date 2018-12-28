@@ -12,20 +12,20 @@
     {
       "EMAIL": [
         {
-          "xdm:id": "id12",
-          "xdm:namespace": {
-            "xdm:code": "AA12"
+          "id": "id12",
+          "namespace": {
+            "code": "AA12"
           },
-          "xdm:authenticatedState": "ambiguous"
+          "authenticatedState": "ambiguous"
         }
       ],
       "CRM": [
         {
-          "xdm:id": "id34",
-          "xdm:namespace": {
-            "xdm:code": "AA34"
+          "id": "id34",
+          "namespace": {
+            "code": "AA34"
           },
-          "xdm:authenticatedState": "authenticated"
+          "authenticatedState": "authenticated"
         }
       ]
     }
@@ -43,20 +43,20 @@
     {
       "EMAIL": [
         {
-          "xdm:id": "id12",
-          "xdm:namespace": {
-            "xdm:code": "AA12"
+          "id": "id12",
+          "namespace": {
+            "code": "AA12"
           },
-          "xdm:authenticatedState": "ambiguous"
+          "authenticatedState": "ambiguous"
         }
       ],
       "CRM": [
         {
-          "xdm:id": "id34",
-          "xdm:namespace": {
-            "xdm:code": "AA34"
+          "id": "id34",
+          "namespace": {
+            "code": "AA34"
           },
-          "xdm:authenticatedState": "authenticated"
+          "authenticatedState": "authenticated"
         }
       ]
     }
