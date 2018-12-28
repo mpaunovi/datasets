@@ -13,18 +13,12 @@
       "EMAIL": [
         {
           "id": "id12",
-          "namespace": {
-            "code": "AA12"
-          },
           "authenticatedState": "ambiguous"
         }
       ],
       "CRM": [
         {
           "id": "id34",
-          "namespace": {
-            "code": "AA34"
-          },
           "authenticatedState": "authenticated"
         }
       ]
@@ -44,18 +38,12 @@
       "EMAIL": [
         {
           "id": "id12",
-          "namespace": {
-            "code": "AA12"
-          },
           "authenticatedState": "ambiguous"
         }
       ],
       "CRM": [
         {
           "id": "id34",
-          "namespace": {
-            "code": "AA34"
-          },
           "authenticatedState": "authenticated"
         }
       ]
