@@ -9,40 +9,8 @@
     "fiveYearProfit": 8091404342334073000,
     "monthlyExpenses": 2030.72,
     "type":
-    {
-      "EMAIL": [
         {
           "id": "id12"
         }
-      ],
-      "CRM": [
-        {
-          "id": "id34"
-        }
-      ]
-    }
-  },
-  {
-    "company": "Netropic",
-    "global": false,
-    "founded": "12/23/14",
-    "workHourBalance": 179,
-    "lastQuarterProfit": 10972,
-    "yearlyProfit": 319381952,
-    "fiveYearProfit": 3348348460637071400,
-    "monthlyExpenses": 5341.78,
-    "type":
-    {
-      "EMAIL": [
-        {
-          "id": "id12"
-        }
-      ],
-      "CRM": [
-        {
-          "id": "id34"
-        }
-      ]
-    }
   }
 ]
