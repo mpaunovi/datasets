@@ -12,14 +12,12 @@
     {
       "EMAIL": [
         {
-          "id": "id12",
-          "authenticatedState": "ambiguous"
+          "id": "id12"
         }
       ],
       "CRM": [
         {
-          "id": "id34",
-          "authenticatedState": "authenticated"
+          "id": "id34"
         }
       ]
     }
@@ -37,14 +35,12 @@
     {
       "EMAIL": [
         {
-          "id": "id12",
-          "authenticatedState": "ambiguous"
+          "id": "id12"
         }
       ],
       "CRM": [
         {
-          "id": "id34",
-          "authenticatedState": "authenticated"
+          "id": "id34"
         }
       ]
     }
