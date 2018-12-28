@@ -8,9 +8,47 @@
     "yearlyProfit": 1363677831,
     "fiveYearProfit": 8091404342334073000,
     "monthlyExpenses": 2030.72,
-    "type":
+    "type": {
+      "EMAIL": [
         {
-          "id": "id12"
+          "xdm:id": "92312748749128"
+        },
+        {
+          "xdm:id": "92312748749239"
         }
+      ],
+      "CRM": [
+        {
+          "xdm:id": "2394509340-30453470347",
+          "xdm:authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Netropic",
+    "global": false,
+    "founded": "12/23/14",
+    "workHourBalance": 179,
+    "lastQuarterProfit": 10972,
+    "yearlyProfit": 319381952,
+    "fiveYearProfit": 3348348460637071400,
+    "monthlyExpenses": 5341.78,
+    "type": {
+      "EMAIL": [
+        {
+          "xdm:id": "92312748749128"
+        },
+        {
+          "xdm:id": "92312748749239"
+        }
+      ],
+      "CRM": [
+        {
+          "xdm:id": "2394509340-30453470347",
+          "xdm:authenticatedState": "authenticated"
+        }
+      ]
+    }
   }
 ]
