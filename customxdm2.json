@@ -8,13 +8,15 @@
     "yearlyProfit": 1363677831,
     "fiveYearProfit": 8091404342334073000,
     "monthlyExpenses": 2030.72,
-    "type": [
-      {
-        "id": "55174820924-48838579124",
-        "authenticatedState": "authenticated",
-        "primary": false
-      }
-    ]  
+    "type": {
+      "XDM" : [
+        {
+          "id": "55174820924-48838579124",
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ]
+    } 
   },
   {
     "company": "Netropic",
@@ -25,12 +27,14 @@
     "yearlyProfit": 319381952,
     "fiveYearProfit": 3348348460637071400,
     "monthlyExpenses": 5341.78,
-    "type": [
-      {
-        "id": "93011384197-65981682889",
-        "authenticatedState": "authenticated",
-        "primary": false
-      }
-    ]  
+    "type": {
+      "MAPS" : [
+        {
+          "id": "93011384197-65981682889",
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ]  
+    }
   }
 ]
