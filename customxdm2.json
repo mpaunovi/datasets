@@ -9,7 +9,7 @@
     "fiveYearProfit": 8091404342334073000,
     "monthlyExpenses": 2030.72,
     "type": {
-      "EMAIL" : [
+      "EMAIL": [
         {
           "id": "55174820924-48838579124",
           "authenticatedState": "authenticated",
@@ -28,7 +28,7 @@
     "fiveYearProfit": 3348348460637071400,
     "monthlyExpenses": 5341.78,
     "type": {
-      "CRM" : [
+      "CRM": [
         {
           "id": "93011384197-65981682889",
           "authenticatedState": "authenticated",
