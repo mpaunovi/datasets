@@ -1,5 +1,5 @@
  {
-    "data": {
+   "xdm:identityMap": {
       "EMAIL": [
         {
           "xdm:id": "92312748749128"
