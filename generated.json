@@ -1,0 +1,2002 @@
+[
+  {
+    "company": "Hatology",
+    "global": true,
+    "founded": "10/12/17",
+    "workHourBalance": 249,
+    "lastQuarterProfit": 1050,
+    "yearlyProfit": 2046390786,
+    "fiveYearProfit": 1049327610022883300,
+    "monthlyExpenses": 5888.33
+  },
+  {
+    "company": "Plasmosis",
+    "global": true,
+    "founded": "09/03/18",
+    "workHourBalance": 72,
+    "lastQuarterProfit": 9,
+    "yearlyProfit": 1045836852,
+    "fiveYearProfit": 8070918497883544000,
+    "monthlyExpenses": 1092.31
+  },
+  {
+    "company": "Buzzmaker",
+    "global": false,
+    "founded": "09/13/17",
+    "workHourBalance": 222,
+    "lastQuarterProfit": 14160,
+    "yearlyProfit": 487744138,
+    "fiveYearProfit": 1775507206745065500,
+    "monthlyExpenses": 5543.1
+  },
+  {
+    "company": "Parcoe",
+    "global": true,
+    "founded": "01/21/18",
+    "workHourBalance": 110,
+    "lastQuarterProfit": 4539,
+    "yearlyProfit": 2089809332,
+    "fiveYearProfit": 2243677601827039200,
+    "monthlyExpenses": 9435.92
+  },
+  {
+    "company": "Adornica",
+    "global": false,
+    "founded": "11/01/17",
+    "workHourBalance": 50,
+    "lastQuarterProfit": 24337,
+    "yearlyProfit": 1889268077,
+    "fiveYearProfit": 1682226890326478800,
+    "monthlyExpenses": 3149.88
+  },
+  {
+    "company": "Earthpure",
+    "global": false,
+    "founded": "10/29/18",
+    "workHourBalance": 154,
+    "lastQuarterProfit": 15206,
+    "yearlyProfit": 1179144800,
+    "fiveYearProfit": 8324460933906678000,
+    "monthlyExpenses": 1993.41
+  },
+  {
+    "company": "Kraggle",
+    "global": false,
+    "founded": "01/14/16",
+    "workHourBalance": 209,
+    "lastQuarterProfit": 17915,
+    "yearlyProfit": 1909349133,
+    "fiveYearProfit": 5361034174468631000,
+    "monthlyExpenses": 4641.2
+  },
+  {
+    "company": "Bleeko",
+    "global": false,
+    "founded": "05/30/16",
+    "workHourBalance": 194,
+    "lastQuarterProfit": 20897,
+    "yearlyProfit": 1132577766,
+    "fiveYearProfit": 418516112540147700,
+    "monthlyExpenses": 8048.28
+  },
+  {
+    "company": "Qualitern",
+    "global": false,
+    "founded": "08/04/14",
+    "workHourBalance": 237,
+    "lastQuarterProfit": 6546,
+    "yearlyProfit": 512410851,
+    "fiveYearProfit": 30854559377082370,
+    "monthlyExpenses": 5088.01
+  },
+  {
+    "company": "Xth",
+    "global": false,
+    "founded": "06/13/17",
+    "workHourBalance": 220,
+    "lastQuarterProfit": 25815,
+    "yearlyProfit": 1518928544,
+    "fiveYearProfit": 2534768180171387000,
+    "monthlyExpenses": 2949.34
+  },
+  {
+    "company": "Rugstars",
+    "global": false,
+    "founded": "12/31/18",
+    "workHourBalance": 150,
+    "lastQuarterProfit": 25557,
+    "yearlyProfit": 208218441,
+    "fiveYearProfit": 8535755278550176000,
+    "monthlyExpenses": 1909.77
+  },
+  {
+    "company": "Zogak",
+    "global": true,
+    "founded": "09/29/16",
+    "workHourBalance": 114,
+    "lastQuarterProfit": 7920,
+    "yearlyProfit": 570700043,
+    "fiveYearProfit": 1637251242437890000,
+    "monthlyExpenses": 1510.94
+  },
+  {
+    "company": "Uxmox",
+    "global": false,
+    "founded": "06/28/14",
+    "workHourBalance": 72,
+    "lastQuarterProfit": 1905,
+    "yearlyProfit": 1515046130,
+    "fiveYearProfit": 1590045092611317800,
+    "monthlyExpenses": 6707.84
+  },
+  {
+    "company": "Optyk",
+    "global": true,
+    "founded": "04/21/16",
+    "workHourBalance": 196,
+    "lastQuarterProfit": 8845,
+    "yearlyProfit": 996455159,
+    "fiveYearProfit": 965804593340457000,
+    "monthlyExpenses": 1652.97
+  },
+  {
+    "company": "Eventix",
+    "global": false,
+    "founded": "04/16/15",
+    "workHourBalance": 214,
+    "lastQuarterProfit": 21320,
+    "yearlyProfit": 1352452561,
+    "fiveYearProfit": 8017687001296112000,
+    "monthlyExpenses": 7108.69
+  },
+  {
+    "company": "Spherix",
+    "global": true,
+    "founded": "04/26/16",
+    "workHourBalance": 35,
+    "lastQuarterProfit": 5776,
+    "yearlyProfit": 258037520,
+    "fiveYearProfit": 3021454046619777000,
+    "monthlyExpenses": 1891.37
+  },
+  {
+    "company": "Uncorp",
+    "global": true,
+    "founded": "01/11/16",
+    "workHourBalance": 39,
+    "lastQuarterProfit": 15197,
+    "yearlyProfit": 837701170,
+    "fiveYearProfit": 2993215100535843000,
+    "monthlyExpenses": 8830.58
+  },
+  {
+    "company": "Concility",
+    "global": false,
+    "founded": "09/06/14",
+    "workHourBalance": 221,
+    "lastQuarterProfit": 15327,
+    "yearlyProfit": 1959179843,
+    "fiveYearProfit": 1996138798732402700,
+    "monthlyExpenses": 7366.53
+  },
+  {
+    "company": "Chorizon",
+    "global": true,
+    "founded": "06/09/17",
+    "workHourBalance": 233,
+    "lastQuarterProfit": 29592,
+    "yearlyProfit": 2118476786,
+    "fiveYearProfit": 3834302099709993000,
+    "monthlyExpenses": 4276.03
+  },
+  {
+    "company": "Comtour",
+    "global": false,
+    "founded": "02/16/15",
+    "workHourBalance": 139,
+    "lastQuarterProfit": 10853,
+    "yearlyProfit": 576977051,
+    "fiveYearProfit": 1018741556414050300,
+    "monthlyExpenses": 5279.28
+  },
+  {
+    "company": "Comcur",
+    "global": true,
+    "founded": "09/13/14",
+    "workHourBalance": 198,
+    "lastQuarterProfit": 9364,
+    "yearlyProfit": 1353409582,
+    "fiveYearProfit": 4837043494656920000,
+    "monthlyExpenses": 4506.79
+  },
+  {
+    "company": "Medifax",
+    "global": true,
+    "founded": "02/17/14",
+    "workHourBalance": 145,
+    "lastQuarterProfit": 2120,
+    "yearlyProfit": 220560539,
+    "fiveYearProfit": 4868932766680107000,
+    "monthlyExpenses": 2613.57
+  },
+  {
+    "company": "Zeam",
+    "global": false,
+    "founded": "04/04/17",
+    "workHourBalance": 156,
+    "lastQuarterProfit": 10976,
+    "yearlyProfit": 987392444,
+    "fiveYearProfit": 2065659200095367200,
+    "monthlyExpenses": 5188.64
+  },
+  {
+    "company": "Gallaxia",
+    "global": true,
+    "founded": "10/24/18",
+    "workHourBalance": 91,
+    "lastQuarterProfit": 19698,
+    "yearlyProfit": 301820897,
+    "fiveYearProfit": 4275698134394679300,
+    "monthlyExpenses": 7199.82
+  },
+  {
+    "company": "Izzby",
+    "global": false,
+    "founded": "07/12/15",
+    "workHourBalance": 235,
+    "lastQuarterProfit": 30164,
+    "yearlyProfit": 1517534900,
+    "fiveYearProfit": 3248988713489559600,
+    "monthlyExpenses": 2238.69
+  },
+  {
+    "company": "Endicil",
+    "global": false,
+    "founded": "11/06/16",
+    "workHourBalance": 3,
+    "lastQuarterProfit": 26821,
+    "yearlyProfit": 636960153,
+    "fiveYearProfit": 7491531639348935000,
+    "monthlyExpenses": 4628.81
+  },
+  {
+    "company": "Endipine",
+    "global": true,
+    "founded": "06/08/15",
+    "workHourBalance": 22,
+    "lastQuarterProfit": 8431,
+    "yearlyProfit": 2113042604,
+    "fiveYearProfit": 4384054966143664000,
+    "monthlyExpenses": 8526.87
+  },
+  {
+    "company": "Kongene",
+    "global": true,
+    "founded": "08/16/18",
+    "workHourBalance": 172,
+    "lastQuarterProfit": 24489,
+    "yearlyProfit": 281089586,
+    "fiveYearProfit": 3357582797579317000,
+    "monthlyExpenses": 9474.29
+  },
+  {
+    "company": "Globoil",
+    "global": false,
+    "founded": "05/28/16",
+    "workHourBalance": 115,
+    "lastQuarterProfit": 2279,
+    "yearlyProfit": 878707466,
+    "fiveYearProfit": 4379328427353618400,
+    "monthlyExpenses": 4152.35
+  },
+  {
+    "company": "Idetica",
+    "global": false,
+    "founded": "05/12/14",
+    "workHourBalance": 147,
+    "lastQuarterProfit": 23130,
+    "yearlyProfit": 2119301339,
+    "fiveYearProfit": 7835735111087081000,
+    "monthlyExpenses": 7984.44
+  },
+  {
+    "company": "Kyagoro",
+    "global": true,
+    "founded": "12/25/16",
+    "workHourBalance": 18,
+    "lastQuarterProfit": 16188,
+    "yearlyProfit": 1300227574,
+    "fiveYearProfit": 5087755215971330000,
+    "monthlyExpenses": 5641.85
+  },
+  {
+    "company": "Futurity",
+    "global": false,
+    "founded": "05/23/14",
+    "workHourBalance": 191,
+    "lastQuarterProfit": 1507,
+    "yearlyProfit": 1391523857,
+    "fiveYearProfit": 8835647244795699000,
+    "monthlyExpenses": 5164.15
+  },
+  {
+    "company": "Zilch",
+    "global": true,
+    "founded": "11/21/17",
+    "workHourBalance": 25,
+    "lastQuarterProfit": 27778,
+    "yearlyProfit": 1907565091,
+    "fiveYearProfit": 2122866684461138000,
+    "monthlyExpenses": 9563.13
+  },
+  {
+    "company": "Zytrex",
+    "global": false,
+    "founded": "06/25/16",
+    "workHourBalance": 114,
+    "lastQuarterProfit": 15486,
+    "yearlyProfit": 419669560,
+    "fiveYearProfit": 2907229803036530700,
+    "monthlyExpenses": 4976.54
+  },
+  {
+    "company": "Orbean",
+    "global": true,
+    "founded": "01/21/18",
+    "workHourBalance": 245,
+    "lastQuarterProfit": 11581,
+    "yearlyProfit": 717778426,
+    "fiveYearProfit": 260566701462306800,
+    "monthlyExpenses": 7272.27
+  },
+  {
+    "company": "Barkarama",
+    "global": false,
+    "founded": "10/07/17",
+    "workHourBalance": 249,
+    "lastQuarterProfit": 5283,
+    "yearlyProfit": 880736696,
+    "fiveYearProfit": 6623887913466495000,
+    "monthlyExpenses": 4079.76
+  },
+  {
+    "company": "Zizzle",
+    "global": true,
+    "founded": "04/02/15",
+    "workHourBalance": 242,
+    "lastQuarterProfit": 15591,
+    "yearlyProfit": 35222415,
+    "fiveYearProfit": 6989484075087688000,
+    "monthlyExpenses": 9309.24
+  },
+  {
+    "company": "Gracker",
+    "global": true,
+    "founded": "02/12/17",
+    "workHourBalance": 87,
+    "lastQuarterProfit": 29524,
+    "yearlyProfit": 104998845,
+    "fiveYearProfit": 1980043269283219500,
+    "monthlyExpenses": 8919.95
+  },
+  {
+    "company": "Zappix",
+    "global": true,
+    "founded": "06/01/17",
+    "workHourBalance": 184,
+    "lastQuarterProfit": 19652,
+    "yearlyProfit": 1029712987,
+    "fiveYearProfit": 2285429322360793000,
+    "monthlyExpenses": 9595.43
+  },
+  {
+    "company": "Stockpost",
+    "global": true,
+    "founded": "11/14/18",
+    "workHourBalance": 131,
+    "lastQuarterProfit": 5194,
+    "yearlyProfit": 1277404211,
+    "fiveYearProfit": 4305665300714690600,
+    "monthlyExpenses": 9437.51
+  },
+  {
+    "company": "Norsup",
+    "global": false,
+    "founded": "12/12/18",
+    "workHourBalance": 48,
+    "lastQuarterProfit": 23512,
+    "yearlyProfit": 74129551,
+    "fiveYearProfit": 4822150388261069000,
+    "monthlyExpenses": 6125.96
+  },
+  {
+    "company": "Jasper",
+    "global": false,
+    "founded": "07/10/17",
+    "workHourBalance": 39,
+    "lastQuarterProfit": 2502,
+    "yearlyProfit": 229121327,
+    "fiveYearProfit": 2619660397087930400,
+    "monthlyExpenses": 4167.83
+  },
+  {
+    "company": "Deminimum",
+    "global": false,
+    "founded": "07/10/16",
+    "workHourBalance": 12,
+    "lastQuarterProfit": 11415,
+    "yearlyProfit": 1956263612,
+    "fiveYearProfit": 7591590552464269000,
+    "monthlyExpenses": 2149.47
+  },
+  {
+    "company": "Digial",
+    "global": true,
+    "founded": "05/02/14",
+    "workHourBalance": 69,
+    "lastQuarterProfit": 26695,
+    "yearlyProfit": 1056660968,
+    "fiveYearProfit": 9102921988949989000,
+    "monthlyExpenses": 1264.67
+  },
+  {
+    "company": "Maroptic",
+    "global": true,
+    "founded": "02/03/14",
+    "workHourBalance": 75,
+    "lastQuarterProfit": 31565,
+    "yearlyProfit": 1385533720,
+    "fiveYearProfit": 3607119657880180700,
+    "monthlyExpenses": 4468.62
+  },
+  {
+    "company": "Letpro",
+    "global": false,
+    "founded": "01/09/15",
+    "workHourBalance": 82,
+    "lastQuarterProfit": 23156,
+    "yearlyProfit": 712085938,
+    "fiveYearProfit": 589253502742245400,
+    "monthlyExpenses": 5782.3
+  },
+  {
+    "company": "Arctiq",
+    "global": true,
+    "founded": "08/17/17",
+    "workHourBalance": 42,
+    "lastQuarterProfit": 24825,
+    "yearlyProfit": 1923980302,
+    "fiveYearProfit": 7920430964579969000,
+    "monthlyExpenses": 6792.79
+  },
+  {
+    "company": "Ronelon",
+    "global": true,
+    "founded": "06/03/16",
+    "workHourBalance": 130,
+    "lastQuarterProfit": 11535,
+    "yearlyProfit": 927246006,
+    "fiveYearProfit": 638402999056871400,
+    "monthlyExpenses": 2211.53
+  },
+  {
+    "company": "Quiltigen",
+    "global": false,
+    "founded": "04/28/14",
+    "workHourBalance": 56,
+    "lastQuarterProfit": 16102,
+    "yearlyProfit": 1992144808,
+    "fiveYearProfit": 4267379341423038500,
+    "monthlyExpenses": 6825.88
+  },
+  {
+    "company": "Fanfare",
+    "global": true,
+    "founded": "02/17/14",
+    "workHourBalance": 156,
+    "lastQuarterProfit": 19450,
+    "yearlyProfit": 340904739,
+    "fiveYearProfit": 8751420198461858000,
+    "monthlyExpenses": 4164.71
+  },
+  {
+    "company": "Billmed",
+    "global": true,
+    "founded": "09/16/17",
+    "workHourBalance": 203,
+    "lastQuarterProfit": 11240,
+    "yearlyProfit": 1479529516,
+    "fiveYearProfit": 694771453775321100,
+    "monthlyExpenses": 5781.85
+  },
+  {
+    "company": "Buzzworks",
+    "global": true,
+    "founded": "01/25/15",
+    "workHourBalance": 62,
+    "lastQuarterProfit": 17309,
+    "yearlyProfit": 1581264901,
+    "fiveYearProfit": 5539102782121157000,
+    "monthlyExpenses": 9961.23
+  },
+  {
+    "company": "Plasmox",
+    "global": true,
+    "founded": "07/14/17",
+    "workHourBalance": 89,
+    "lastQuarterProfit": 27183,
+    "yearlyProfit": 705849049,
+    "fiveYearProfit": 3835472496437090300,
+    "monthlyExpenses": 1994.46
+  },
+  {
+    "company": "Flexigen",
+    "global": false,
+    "founded": "02/27/17",
+    "workHourBalance": 237,
+    "lastQuarterProfit": 17346,
+    "yearlyProfit": 285282888,
+    "fiveYearProfit": 5400131720907565000,
+    "monthlyExpenses": 6510.35
+  },
+  {
+    "company": "Cinaster",
+    "global": false,
+    "founded": "05/09/15",
+    "workHourBalance": 165,
+    "lastQuarterProfit": 11552,
+    "yearlyProfit": 1576926532,
+    "fiveYearProfit": 3987673102273876000,
+    "monthlyExpenses": 6387.04
+  },
+  {
+    "company": "Cosmosis",
+    "global": false,
+    "founded": "08/20/15",
+    "workHourBalance": 204,
+    "lastQuarterProfit": 11526,
+    "yearlyProfit": 2128538731,
+    "fiveYearProfit": 8300300422177110000,
+    "monthlyExpenses": 8203.32
+  },
+  {
+    "company": "Keengen",
+    "global": true,
+    "founded": "09/11/17",
+    "workHourBalance": 140,
+    "lastQuarterProfit": 29011,
+    "yearlyProfit": 2054493850,
+    "fiveYearProfit": 7510622943735841000,
+    "monthlyExpenses": 9769.44
+  },
+  {
+    "company": "Multron",
+    "global": true,
+    "founded": "10/22/16",
+    "workHourBalance": 253,
+    "lastQuarterProfit": 1548,
+    "yearlyProfit": 2057955844,
+    "fiveYearProfit": 1451686099828197400,
+    "monthlyExpenses": 5318.61
+  },
+  {
+    "company": "Duoflex",
+    "global": true,
+    "founded": "01/01/19",
+    "workHourBalance": 81,
+    "lastQuarterProfit": 21863,
+    "yearlyProfit": 1528976461,
+    "fiveYearProfit": 8472814577468903000,
+    "monthlyExpenses": 6299.13
+  },
+  {
+    "company": "Waab",
+    "global": true,
+    "founded": "04/16/18",
+    "workHourBalance": 241,
+    "lastQuarterProfit": 15868,
+    "yearlyProfit": 1180179206,
+    "fiveYearProfit": 5127400372904253000,
+    "monthlyExpenses": 4263.68
+  },
+  {
+    "company": "Quilch",
+    "global": false,
+    "founded": "12/18/18",
+    "workHourBalance": 146,
+    "lastQuarterProfit": 4719,
+    "yearlyProfit": 2075218497,
+    "fiveYearProfit": 2935411834299937000,
+    "monthlyExpenses": 3827.86
+  },
+  {
+    "company": "Corecom",
+    "global": true,
+    "founded": "07/09/15",
+    "workHourBalance": 83,
+    "lastQuarterProfit": 1743,
+    "yearlyProfit": 1781870996,
+    "fiveYearProfit": 5911672141939835000,
+    "monthlyExpenses": 7597.49
+  },
+  {
+    "company": "Tropoli",
+    "global": true,
+    "founded": "05/16/18",
+    "workHourBalance": 225,
+    "lastQuarterProfit": 4064,
+    "yearlyProfit": 781954979,
+    "fiveYearProfit": 7318384071353268000,
+    "monthlyExpenses": 4718.13
+  },
+  {
+    "company": "Geekus",
+    "global": true,
+    "founded": "12/26/18",
+    "workHourBalance": 220,
+    "lastQuarterProfit": 31621,
+    "yearlyProfit": 513984790,
+    "fiveYearProfit": 3029952360514687000,
+    "monthlyExpenses": 5465.96
+  },
+  {
+    "company": "Waterbaby",
+    "global": true,
+    "founded": "08/16/15",
+    "workHourBalance": 190,
+    "lastQuarterProfit": 22582,
+    "yearlyProfit": 761361748,
+    "fiveYearProfit": 4716473222955368000,
+    "monthlyExpenses": 7695.79
+  },
+  {
+    "company": "Geeketron",
+    "global": false,
+    "founded": "12/29/17",
+    "workHourBalance": 50,
+    "lastQuarterProfit": 20851,
+    "yearlyProfit": 1905928819,
+    "fiveYearProfit": 2303176136243312600,
+    "monthlyExpenses": 8753.43
+  },
+  {
+    "company": "Translink",
+    "global": true,
+    "founded": "09/03/17",
+    "workHourBalance": 204,
+    "lastQuarterProfit": 24632,
+    "yearlyProfit": 1499784126,
+    "fiveYearProfit": 1007124516005720000,
+    "monthlyExpenses": 5280.45
+  },
+  {
+    "company": "Geeknet",
+    "global": false,
+    "founded": "01/07/15",
+    "workHourBalance": 197,
+    "lastQuarterProfit": 6321,
+    "yearlyProfit": 1156884861,
+    "fiveYearProfit": 4979560836795822000,
+    "monthlyExpenses": 9670.39
+  },
+  {
+    "company": "Endipin",
+    "global": false,
+    "founded": "12/04/18",
+    "workHourBalance": 92,
+    "lastQuarterProfit": 12705,
+    "yearlyProfit": 1483452303,
+    "fiveYearProfit": 2471453198858475500,
+    "monthlyExpenses": 8760.93
+  },
+  {
+    "company": "Uplinx",
+    "global": false,
+    "founded": "03/19/18",
+    "workHourBalance": 53,
+    "lastQuarterProfit": 5234,
+    "yearlyProfit": 2106862566,
+    "fiveYearProfit": 3083157625251334000,
+    "monthlyExpenses": 8998.12
+  },
+  {
+    "company": "Manglo",
+    "global": false,
+    "founded": "03/16/17",
+    "workHourBalance": 17,
+    "lastQuarterProfit": 9201,
+    "yearlyProfit": 465977430,
+    "fiveYearProfit": 4649941587100865000,
+    "monthlyExpenses": 4412.88
+  },
+  {
+    "company": "Zipak",
+    "global": true,
+    "founded": "06/11/14",
+    "workHourBalance": 97,
+    "lastQuarterProfit": 16714,
+    "yearlyProfit": 56375269,
+    "fiveYearProfit": 8669792622145493000,
+    "monthlyExpenses": 9710.19
+  },
+  {
+    "company": "Undertap",
+    "global": true,
+    "founded": "01/08/17",
+    "workHourBalance": 143,
+    "lastQuarterProfit": 1700,
+    "yearlyProfit": 133513357,
+    "fiveYearProfit": 7400595955717104000,
+    "monthlyExpenses": 7292.78
+  },
+  {
+    "company": "Pearlessa",
+    "global": false,
+    "founded": "06/10/16",
+    "workHourBalance": 54,
+    "lastQuarterProfit": 9078,
+    "yearlyProfit": 2133595278,
+    "fiveYearProfit": 2813639220320045000,
+    "monthlyExpenses": 7224.61
+  },
+  {
+    "company": "Dyno",
+    "global": false,
+    "founded": "09/13/18",
+    "workHourBalance": 142,
+    "lastQuarterProfit": 13343,
+    "yearlyProfit": 1053040539,
+    "fiveYearProfit": 2502171052856787000,
+    "monthlyExpenses": 8175.56
+  },
+  {
+    "company": "Boink",
+    "global": true,
+    "founded": "02/21/17",
+    "workHourBalance": 180,
+    "lastQuarterProfit": 14006,
+    "yearlyProfit": 930672311,
+    "fiveYearProfit": 6582175460780890000,
+    "monthlyExpenses": 6060.15
+  },
+  {
+    "company": "Codax",
+    "global": false,
+    "founded": "02/09/14",
+    "workHourBalance": 191,
+    "lastQuarterProfit": 6942,
+    "yearlyProfit": 1754772056,
+    "fiveYearProfit": 336442785349617660,
+    "monthlyExpenses": 8915.15
+  },
+  {
+    "company": "Genmom",
+    "global": true,
+    "founded": "10/26/14",
+    "workHourBalance": 8,
+    "lastQuarterProfit": 13508,
+    "yearlyProfit": 437529173,
+    "fiveYearProfit": 9061940254211025000,
+    "monthlyExpenses": 2247.5
+  },
+  {
+    "company": "Orbalix",
+    "global": true,
+    "founded": "07/01/16",
+    "workHourBalance": 134,
+    "lastQuarterProfit": 6977,
+    "yearlyProfit": 261935535,
+    "fiveYearProfit": 3009707997187336000,
+    "monthlyExpenses": 2626.77
+  },
+  {
+    "company": "Bulljuice",
+    "global": false,
+    "founded": "01/24/16",
+    "workHourBalance": 150,
+    "lastQuarterProfit": 1802,
+    "yearlyProfit": 648284373,
+    "fiveYearProfit": 2986756671849996300,
+    "monthlyExpenses": 1216.78
+  },
+  {
+    "company": "Matrixity",
+    "global": true,
+    "founded": "10/21/16",
+    "workHourBalance": 83,
+    "lastQuarterProfit": 6265,
+    "yearlyProfit": 1481397715,
+    "fiveYearProfit": 5305237145523077000,
+    "monthlyExpenses": 5936.99
+  },
+  {
+    "company": "Geeky",
+    "global": false,
+    "founded": "10/24/14",
+    "workHourBalance": 199,
+    "lastQuarterProfit": 20674,
+    "yearlyProfit": 1939786881,
+    "fiveYearProfit": 6153735599280693000,
+    "monthlyExpenses": 9863.99
+  },
+  {
+    "company": "Andryx",
+    "global": true,
+    "founded": "02/01/16",
+    "workHourBalance": 10,
+    "lastQuarterProfit": 25221,
+    "yearlyProfit": 140799455,
+    "fiveYearProfit": 2442916469825026000,
+    "monthlyExpenses": 4514.31
+  },
+  {
+    "company": "Zentility",
+    "global": false,
+    "founded": "06/27/16",
+    "workHourBalance": 184,
+    "lastQuarterProfit": 24041,
+    "yearlyProfit": 2083947771,
+    "fiveYearProfit": 4772356311669498000,
+    "monthlyExpenses": 9977.78
+  },
+  {
+    "company": "Zorromop",
+    "global": true,
+    "founded": "10/09/18",
+    "workHourBalance": 178,
+    "lastQuarterProfit": 17683,
+    "yearlyProfit": 1723948789,
+    "fiveYearProfit": 8816856968888515000,
+    "monthlyExpenses": 5349.74
+  },
+  {
+    "company": "Solgan",
+    "global": false,
+    "founded": "04/09/17",
+    "workHourBalance": 173,
+    "lastQuarterProfit": 343,
+    "yearlyProfit": 765846004,
+    "fiveYearProfit": 1115462548203737100,
+    "monthlyExpenses": 9034.28
+  },
+  {
+    "company": "Exoteric",
+    "global": true,
+    "founded": "04/22/15",
+    "workHourBalance": 62,
+    "lastQuarterProfit": 14741,
+    "yearlyProfit": 1945449130,
+    "fiveYearProfit": 9055422114974386000,
+    "monthlyExpenses": 2544.59
+  },
+  {
+    "company": "Pushcart",
+    "global": true,
+    "founded": "03/12/18",
+    "workHourBalance": 171,
+    "lastQuarterProfit": 9638,
+    "yearlyProfit": 1201499247,
+    "fiveYearProfit": 2055721695231955000,
+    "monthlyExpenses": 9907.29
+  },
+  {
+    "company": "Geekola",
+    "global": true,
+    "founded": "12/08/16",
+    "workHourBalance": 94,
+    "lastQuarterProfit": 5720,
+    "yearlyProfit": 1977457817,
+    "fiveYearProfit": 4978515314635430000,
+    "monthlyExpenses": 6452.73
+  },
+  {
+    "company": "Conferia",
+    "global": false,
+    "founded": "03/15/16",
+    "workHourBalance": 211,
+    "lastQuarterProfit": 18893,
+    "yearlyProfit": 766546203,
+    "fiveYearProfit": 2816964762611691500,
+    "monthlyExpenses": 9311.9
+  },
+  {
+    "company": "Fangold",
+    "global": false,
+    "founded": "12/13/18",
+    "workHourBalance": 32,
+    "lastQuarterProfit": 17527,
+    "yearlyProfit": 1447702020,
+    "fiveYearProfit": 1350068341862611000,
+    "monthlyExpenses": 9396.53
+  },
+  {
+    "company": "Mondicil",
+    "global": false,
+    "founded": "07/09/16",
+    "workHourBalance": 15,
+    "lastQuarterProfit": 28120,
+    "yearlyProfit": 2063953442,
+    "fiveYearProfit": 8559583398823299000,
+    "monthlyExpenses": 6557.62
+  },
+  {
+    "company": "Exosis",
+    "global": true,
+    "founded": "03/31/14",
+    "workHourBalance": 13,
+    "lastQuarterProfit": 5441,
+    "yearlyProfit": 1704903148,
+    "fiveYearProfit": 4193675430930303000,
+    "monthlyExpenses": 4642.54
+  },
+  {
+    "company": "Recrisys",
+    "global": false,
+    "founded": "05/11/18",
+    "workHourBalance": 221,
+    "lastQuarterProfit": 3735,
+    "yearlyProfit": 24690114,
+    "fiveYearProfit": 5017215132390226000,
+    "monthlyExpenses": 3076.94
+  },
+  {
+    "company": "Vetron",
+    "global": true,
+    "founded": "05/17/16",
+    "workHourBalance": 223,
+    "lastQuarterProfit": 31337,
+    "yearlyProfit": 1900734665,
+    "fiveYearProfit": 7802144194974560000,
+    "monthlyExpenses": 7598.51
+  },
+  {
+    "company": "Singavera",
+    "global": true,
+    "founded": "06/16/17",
+    "workHourBalance": 113,
+    "lastQuarterProfit": 15175,
+    "yearlyProfit": 1810932944,
+    "fiveYearProfit": 1461468149802557400,
+    "monthlyExpenses": 9603.01
+  },
+  {
+    "company": "Eargo",
+    "global": false,
+    "founded": "01/03/19",
+    "workHourBalance": 180,
+    "lastQuarterProfit": 4613,
+    "yearlyProfit": 338291640,
+    "fiveYearProfit": 5282387693761901000,
+    "monthlyExpenses": 6269.39
+  },
+  {
+    "company": "Bluplanet",
+    "global": false,
+    "founded": "09/03/18",
+    "workHourBalance": 156,
+    "lastQuarterProfit": 24662,
+    "yearlyProfit": 1048319776,
+    "fiveYearProfit": 3552482344326834000,
+    "monthlyExpenses": 4872.67
+  },
+  {
+    "company": "Fleetmix",
+    "global": true,
+    "founded": "01/01/17",
+    "workHourBalance": 233,
+    "lastQuarterProfit": 3138,
+    "yearlyProfit": 2082882313,
+    "fiveYearProfit": 2280389175498055700,
+    "monthlyExpenses": 8564.67
+  },
+  {
+    "company": "Qnekt",
+    "global": true,
+    "founded": "09/09/14",
+    "workHourBalance": 127,
+    "lastQuarterProfit": 26250,
+    "yearlyProfit": 1098256944,
+    "fiveYearProfit": 3462409600511033300,
+    "monthlyExpenses": 2239.38
+  },
+  {
+    "company": "Senmao",
+    "global": false,
+    "founded": "12/31/18",
+    "workHourBalance": 249,
+    "lastQuarterProfit": 30740,
+    "yearlyProfit": 724022879,
+    "fiveYearProfit": 7504104694758152000,
+    "monthlyExpenses": 4599.49
+  },
+  {
+    "company": "Panzent",
+    "global": true,
+    "founded": "11/06/17",
+    "workHourBalance": 36,
+    "lastQuarterProfit": 22916,
+    "yearlyProfit": 892397565,
+    "fiveYearProfit": 7167769213769859000,
+    "monthlyExpenses": 4884.27
+  },
+  {
+    "company": "Egypto",
+    "global": true,
+    "founded": "05/09/17",
+    "workHourBalance": 231,
+    "lastQuarterProfit": 5064,
+    "yearlyProfit": 16524993,
+    "fiveYearProfit": 2587621870886363000,
+    "monthlyExpenses": 3303.85
+  },
+  {
+    "company": "Nspire",
+    "global": true,
+    "founded": "10/09/14",
+    "workHourBalance": 138,
+    "lastQuarterProfit": 18292,
+    "yearlyProfit": 1114659712,
+    "fiveYearProfit": 4203026677562775600,
+    "monthlyExpenses": 8369.13
+  },
+  {
+    "company": "Quarex",
+    "global": false,
+    "founded": "09/27/16",
+    "workHourBalance": 226,
+    "lastQuarterProfit": 25469,
+    "yearlyProfit": 1424800909,
+    "fiveYearProfit": 3076671279312374000,
+    "monthlyExpenses": 3340.76
+  },
+  {
+    "company": "Acusage",
+    "global": true,
+    "founded": "09/17/16",
+    "workHourBalance": 53,
+    "lastQuarterProfit": 24656,
+    "yearlyProfit": 1094867575,
+    "fiveYearProfit": 3712261477332904000,
+    "monthlyExpenses": 1132.36
+  },
+  {
+    "company": "Geoforma",
+    "global": false,
+    "founded": "09/13/15",
+    "workHourBalance": 170,
+    "lastQuarterProfit": 11930,
+    "yearlyProfit": 1270590048,
+    "fiveYearProfit": 8681403216486658000,
+    "monthlyExpenses": 1796.17
+  },
+  {
+    "company": "Ultrimax",
+    "global": true,
+    "founded": "03/08/15",
+    "workHourBalance": 3,
+    "lastQuarterProfit": 6275,
+    "yearlyProfit": 1553433483,
+    "fiveYearProfit": 2936395170889236500,
+    "monthlyExpenses": 3551.99
+  },
+  {
+    "company": "Anixang",
+    "global": false,
+    "founded": "02/18/14",
+    "workHourBalance": 129,
+    "lastQuarterProfit": 4619,
+    "yearlyProfit": 1182631209,
+    "fiveYearProfit": 2326378486890008600,
+    "monthlyExpenses": 3868.37
+  },
+  {
+    "company": "Cormoran",
+    "global": true,
+    "founded": "09/10/15",
+    "workHourBalance": 235,
+    "lastQuarterProfit": 22231,
+    "yearlyProfit": 423078516,
+    "fiveYearProfit": 7356992091206681000,
+    "monthlyExpenses": 2408.14
+  },
+  {
+    "company": "Ozean",
+    "global": true,
+    "founded": "01/04/16",
+    "workHourBalance": 198,
+    "lastQuarterProfit": 393,
+    "yearlyProfit": 179139792,
+    "fiveYearProfit": 8920109008276292000,
+    "monthlyExpenses": 5503.05
+  },
+  {
+    "company": "Corpulse",
+    "global": true,
+    "founded": "02/11/16",
+    "workHourBalance": 216,
+    "lastQuarterProfit": 17808,
+    "yearlyProfit": 591724821,
+    "fiveYearProfit": 3565298048145015000,
+    "monthlyExpenses": 8785.46
+  },
+  {
+    "company": "Retrack",
+    "global": true,
+    "founded": "01/06/19",
+    "workHourBalance": 157,
+    "lastQuarterProfit": 12116,
+    "yearlyProfit": 251207390,
+    "fiveYearProfit": 620898968059168800,
+    "monthlyExpenses": 4941.94
+  },
+  {
+    "company": "Orbixtar",
+    "global": true,
+    "founded": "10/18/15",
+    "workHourBalance": 96,
+    "lastQuarterProfit": 17773,
+    "yearlyProfit": 170999806,
+    "fiveYearProfit": 1066266257875714000,
+    "monthlyExpenses": 2968.58
+  },
+  {
+    "company": "Bleendot",
+    "global": true,
+    "founded": "02/27/16",
+    "workHourBalance": 210,
+    "lastQuarterProfit": 14482,
+    "yearlyProfit": 1184613422,
+    "fiveYearProfit": 2418223813722018000,
+    "monthlyExpenses": 2090.61
+  },
+  {
+    "company": "Sunclipse",
+    "global": true,
+    "founded": "12/22/18",
+    "workHourBalance": 204,
+    "lastQuarterProfit": 10841,
+    "yearlyProfit": 2068727662,
+    "fiveYearProfit": 98000161111963650,
+    "monthlyExpenses": 2763.67
+  },
+  {
+    "company": "Pathways",
+    "global": true,
+    "founded": "10/31/17",
+    "workHourBalance": 75,
+    "lastQuarterProfit": 28440,
+    "yearlyProfit": 1406165042,
+    "fiveYearProfit": 6668008884693105000,
+    "monthlyExpenses": 9763.71
+  },
+  {
+    "company": "Enersol",
+    "global": true,
+    "founded": "12/04/16",
+    "workHourBalance": 138,
+    "lastQuarterProfit": 32537,
+    "yearlyProfit": 2076795011,
+    "fiveYearProfit": 7576449698479446000,
+    "monthlyExpenses": 9291.48
+  },
+  {
+    "company": "Zensus",
+    "global": false,
+    "founded": "08/11/15",
+    "workHourBalance": 21,
+    "lastQuarterProfit": 10100,
+    "yearlyProfit": 1248753871,
+    "fiveYearProfit": 7147629445259233000,
+    "monthlyExpenses": 2165.88
+  },
+  {
+    "company": "Digiprint",
+    "global": true,
+    "founded": "08/08/14",
+    "workHourBalance": 50,
+    "lastQuarterProfit": 13776,
+    "yearlyProfit": 1380817149,
+    "fiveYearProfit": 5318439296568031000,
+    "monthlyExpenses": 3186.11
+  },
+  {
+    "company": "Skinserve",
+    "global": false,
+    "founded": "08/13/18",
+    "workHourBalance": 137,
+    "lastQuarterProfit": 13877,
+    "yearlyProfit": 1771817014,
+    "fiveYearProfit": 394688071187988500,
+    "monthlyExpenses": 1586.91
+  },
+  {
+    "company": "Mantrix",
+    "global": true,
+    "founded": "05/02/14",
+    "workHourBalance": 28,
+    "lastQuarterProfit": 7927,
+    "yearlyProfit": 376107533,
+    "fiveYearProfit": 1628303311339032600,
+    "monthlyExpenses": 1678.22
+  },
+  {
+    "company": "Pharmex",
+    "global": true,
+    "founded": "04/05/16",
+    "workHourBalance": 169,
+    "lastQuarterProfit": 27075,
+    "yearlyProfit": 1646065342,
+    "fiveYearProfit": 4999610889753573000,
+    "monthlyExpenses": 7596.7
+  },
+  {
+    "company": "Moreganic",
+    "global": false,
+    "founded": "07/28/18",
+    "workHourBalance": 150,
+    "lastQuarterProfit": 27566,
+    "yearlyProfit": 1536309750,
+    "fiveYearProfit": 7634207970736982000,
+    "monthlyExpenses": 8473.05
+  },
+  {
+    "company": "Gadtron",
+    "global": false,
+    "founded": "08/05/18",
+    "workHourBalance": 170,
+    "lastQuarterProfit": 32687,
+    "yearlyProfit": 1960416700,
+    "fiveYearProfit": 5623082281823263000,
+    "monthlyExpenses": 2710.88
+  },
+  {
+    "company": "Zensor",
+    "global": true,
+    "founded": "05/11/18",
+    "workHourBalance": 10,
+    "lastQuarterProfit": 26148,
+    "yearlyProfit": 127595155,
+    "fiveYearProfit": 1186568637364174800,
+    "monthlyExpenses": 2969.08
+  },
+  {
+    "company": "Zanilla",
+    "global": true,
+    "founded": "10/28/16",
+    "workHourBalance": 0,
+    "lastQuarterProfit": 12168,
+    "yearlyProfit": 1342178559,
+    "fiveYearProfit": 6473059478219874000,
+    "monthlyExpenses": 4417.67
+  },
+  {
+    "company": "Dymi",
+    "global": true,
+    "founded": "11/21/17",
+    "workHourBalance": 145,
+    "lastQuarterProfit": 20154,
+    "yearlyProfit": 1348399276,
+    "fiveYearProfit": 3817068227258394600,
+    "monthlyExpenses": 4667.52
+  },
+  {
+    "company": "Ovation",
+    "global": true,
+    "founded": "03/23/15",
+    "workHourBalance": 238,
+    "lastQuarterProfit": 4409,
+    "yearlyProfit": 968369087,
+    "fiveYearProfit": 5782944016185287000,
+    "monthlyExpenses": 6624.36
+  },
+  {
+    "company": "Suretech",
+    "global": true,
+    "founded": "06/14/18",
+    "workHourBalance": 87,
+    "lastQuarterProfit": 31480,
+    "yearlyProfit": 730529269,
+    "fiveYearProfit": 2090344884323694600,
+    "monthlyExpenses": 7694.39
+  },
+  {
+    "company": "Xixan",
+    "global": false,
+    "founded": "04/06/16",
+    "workHourBalance": 240,
+    "lastQuarterProfit": 7225,
+    "yearlyProfit": 456603902,
+    "fiveYearProfit": 2800484993823475700,
+    "monthlyExpenses": 2814.34
+  },
+  {
+    "company": "Netplode",
+    "global": true,
+    "founded": "06/03/14",
+    "workHourBalance": 64,
+    "lastQuarterProfit": 9861,
+    "yearlyProfit": 672638813,
+    "fiveYearProfit": 5362400165025487000,
+    "monthlyExpenses": 2811.68
+  },
+  {
+    "company": "Bullzone",
+    "global": true,
+    "founded": "02/16/14",
+    "workHourBalance": 157,
+    "lastQuarterProfit": 24880,
+    "yearlyProfit": 1125521881,
+    "fiveYearProfit": 213204382705877000,
+    "monthlyExpenses": 9383.07
+  },
+  {
+    "company": "Isoswitch",
+    "global": true,
+    "founded": "12/28/15",
+    "workHourBalance": 203,
+    "lastQuarterProfit": 1043,
+    "yearlyProfit": 1402040676,
+    "fiveYearProfit": 4119817143947858000,
+    "monthlyExpenses": 4555.61
+  },
+  {
+    "company": "Furnitech",
+    "global": false,
+    "founded": "11/20/14",
+    "workHourBalance": 65,
+    "lastQuarterProfit": 30124,
+    "yearlyProfit": 1264492335,
+    "fiveYearProfit": 2929287211558795300,
+    "monthlyExpenses": 1953.37
+  },
+  {
+    "company": "Emtrak",
+    "global": false,
+    "founded": "02/21/15",
+    "workHourBalance": 184,
+    "lastQuarterProfit": 16151,
+    "yearlyProfit": 697057685,
+    "fiveYearProfit": 1793282698494500900,
+    "monthlyExpenses": 7188.73
+  },
+  {
+    "company": "Comstar",
+    "global": true,
+    "founded": "03/19/14",
+    "workHourBalance": 45,
+    "lastQuarterProfit": 21855,
+    "yearlyProfit": 847521762,
+    "fiveYearProfit": 7291675267443659000,
+    "monthlyExpenses": 6255.19
+  },
+  {
+    "company": "Assitia",
+    "global": false,
+    "founded": "09/23/14",
+    "workHourBalance": 226,
+    "lastQuarterProfit": 9699,
+    "yearlyProfit": 1536442142,
+    "fiveYearProfit": 2946246603936243700,
+    "monthlyExpenses": 1990.85
+  },
+  {
+    "company": "Ewaves",
+    "global": false,
+    "founded": "09/07/16",
+    "workHourBalance": 149,
+    "lastQuarterProfit": 32538,
+    "yearlyProfit": 346525762,
+    "fiveYearProfit": 2912522222298069000,
+    "monthlyExpenses": 3358.48
+  },
+  {
+    "company": "Cytrex",
+    "global": false,
+    "founded": "03/07/17",
+    "workHourBalance": 244,
+    "lastQuarterProfit": 490,
+    "yearlyProfit": 1582048587,
+    "fiveYearProfit": 7999061859106517000,
+    "monthlyExpenses": 2017.39
+  },
+  {
+    "company": "Syntac",
+    "global": false,
+    "founded": "02/28/17",
+    "workHourBalance": 43,
+    "lastQuarterProfit": 1446,
+    "yearlyProfit": 629548651,
+    "fiveYearProfit": 8248989937784498000,
+    "monthlyExpenses": 5471.04
+  },
+  {
+    "company": "Centree",
+    "global": true,
+    "founded": "05/27/17",
+    "workHourBalance": 63,
+    "lastQuarterProfit": 7402,
+    "yearlyProfit": 1827804127,
+    "fiveYearProfit": 7782032379306617000,
+    "monthlyExpenses": 1463.23
+  },
+  {
+    "company": "Interloo",
+    "global": true,
+    "founded": "05/30/15",
+    "workHourBalance": 148,
+    "lastQuarterProfit": 4518,
+    "yearlyProfit": 855459538,
+    "fiveYearProfit": 6780726667847594000,
+    "monthlyExpenses": 3021.42
+  },
+  {
+    "company": "Isologica",
+    "global": false,
+    "founded": "06/21/18",
+    "workHourBalance": 111,
+    "lastQuarterProfit": 6485,
+    "yearlyProfit": 672598029,
+    "fiveYearProfit": 7462127839452604000,
+    "monthlyExpenses": 4039.63
+  },
+  {
+    "company": "Ronbert",
+    "global": true,
+    "founded": "08/20/14",
+    "workHourBalance": 180,
+    "lastQuarterProfit": 16490,
+    "yearlyProfit": 1155318973,
+    "fiveYearProfit": 5639171482338650000,
+    "monthlyExpenses": 5430.44
+  },
+  {
+    "company": "Sentia",
+    "global": false,
+    "founded": "10/30/14",
+    "workHourBalance": 248,
+    "lastQuarterProfit": 14322,
+    "yearlyProfit": 1677407824,
+    "fiveYearProfit": 8461794495311471000,
+    "monthlyExpenses": 6488.78
+  },
+  {
+    "company": "Opticon",
+    "global": true,
+    "founded": "02/08/16",
+    "workHourBalance": 95,
+    "lastQuarterProfit": 24721,
+    "yearlyProfit": 786992579,
+    "fiveYearProfit": 1586565252679557000,
+    "monthlyExpenses": 2402.62
+  },
+  {
+    "company": "Xyqag",
+    "global": true,
+    "founded": "12/05/15",
+    "workHourBalance": 14,
+    "lastQuarterProfit": 19472,
+    "yearlyProfit": 1059218920,
+    "fiveYearProfit": 5545637031576988000,
+    "monthlyExpenses": 2043.61
+  },
+  {
+    "company": "Fuelton",
+    "global": true,
+    "founded": "01/04/16",
+    "workHourBalance": 28,
+    "lastQuarterProfit": 15931,
+    "yearlyProfit": 496263003,
+    "fiveYearProfit": 3742954325336086500,
+    "monthlyExpenses": 8233.25
+  },
+  {
+    "company": "Zerbina",
+    "global": true,
+    "founded": "06/14/17",
+    "workHourBalance": 110,
+    "lastQuarterProfit": 26496,
+    "yearlyProfit": 993531863,
+    "fiveYearProfit": 4072088353920942000,
+    "monthlyExpenses": 9840.71
+  },
+  {
+    "company": "Sensate",
+    "global": true,
+    "founded": "08/14/14",
+    "workHourBalance": 3,
+    "lastQuarterProfit": 27185,
+    "yearlyProfit": 476942831,
+    "fiveYearProfit": 2636604305827254300,
+    "monthlyExpenses": 3975.53
+  },
+  {
+    "company": "Zillacon",
+    "global": false,
+    "founded": "04/25/16",
+    "workHourBalance": 231,
+    "lastQuarterProfit": 5344,
+    "yearlyProfit": 575909258,
+    "fiveYearProfit": 2008759754784927700,
+    "monthlyExpenses": 1779.92
+  },
+  {
+    "company": "Pasturia",
+    "global": false,
+    "founded": "01/26/17",
+    "workHourBalance": 63,
+    "lastQuarterProfit": 12653,
+    "yearlyProfit": 643202321,
+    "fiveYearProfit": 8830833034507926000,
+    "monthlyExpenses": 8692.97
+  },
+  {
+    "company": "Kindaloo",
+    "global": true,
+    "founded": "03/25/18",
+    "workHourBalance": 14,
+    "lastQuarterProfit": 20250,
+    "yearlyProfit": 669799647,
+    "fiveYearProfit": 498907645436520450,
+    "monthlyExpenses": 7376.92
+  },
+  {
+    "company": "Comvex",
+    "global": false,
+    "founded": "10/14/18",
+    "workHourBalance": 208,
+    "lastQuarterProfit": 28491,
+    "yearlyProfit": 863727720,
+    "fiveYearProfit": 2971790719839555600,
+    "monthlyExpenses": 2412.91
+  },
+  {
+    "company": "Zillan",
+    "global": false,
+    "founded": "08/22/15",
+    "workHourBalance": 150,
+    "lastQuarterProfit": 23380,
+    "yearlyProfit": 352256777,
+    "fiveYearProfit": 8992483832435415000,
+    "monthlyExpenses": 5354.84
+  },
+  {
+    "company": "Pulze",
+    "global": true,
+    "founded": "09/24/14",
+    "workHourBalance": 205,
+    "lastQuarterProfit": 23723,
+    "yearlyProfit": 1332610538,
+    "fiveYearProfit": 644425098245371900,
+    "monthlyExpenses": 6519.79
+  },
+  {
+    "company": "Cedward",
+    "global": true,
+    "founded": "07/09/16",
+    "workHourBalance": 55,
+    "lastQuarterProfit": 28825,
+    "yearlyProfit": 2641878,
+    "fiveYearProfit": 4764727477248293000,
+    "monthlyExpenses": 1394.98
+  },
+  {
+    "company": "Combogen",
+    "global": true,
+    "founded": "07/08/15",
+    "workHourBalance": 179,
+    "lastQuarterProfit": 5926,
+    "yearlyProfit": 1247628809,
+    "fiveYearProfit": 5605186177021946000,
+    "monthlyExpenses": 9243.06
+  },
+  {
+    "company": "Zenolux",
+    "global": true,
+    "founded": "01/28/14",
+    "workHourBalance": 41,
+    "lastQuarterProfit": 26574,
+    "yearlyProfit": 1258763120,
+    "fiveYearProfit": 92895929354776580,
+    "monthlyExpenses": 8713.22
+  },
+  {
+    "company": "Isostream",
+    "global": false,
+    "founded": "06/22/15",
+    "workHourBalance": 165,
+    "lastQuarterProfit": 345,
+    "yearlyProfit": 458254993,
+    "fiveYearProfit": 7926757453838494000,
+    "monthlyExpenses": 9581.99
+  },
+  {
+    "company": "Realmo",
+    "global": false,
+    "founded": "07/16/14",
+    "workHourBalance": 184,
+    "lastQuarterProfit": 19150,
+    "yearlyProfit": 291348495,
+    "fiveYearProfit": 4062630352459948000,
+    "monthlyExpenses": 1148.89
+  },
+  {
+    "company": "Rodeocean",
+    "global": false,
+    "founded": "01/21/16",
+    "workHourBalance": 103,
+    "lastQuarterProfit": 26599,
+    "yearlyProfit": 1649202284,
+    "fiveYearProfit": 5455447514569767000,
+    "monthlyExpenses": 3471.56
+  },
+  {
+    "company": "Tribalog",
+    "global": false,
+    "founded": "05/31/14",
+    "workHourBalance": 132,
+    "lastQuarterProfit": 31714,
+    "yearlyProfit": 1971388824,
+    "fiveYearProfit": 416100379964966900,
+    "monthlyExpenses": 3333.27
+  },
+  {
+    "company": "Memora",
+    "global": false,
+    "founded": "07/21/18",
+    "workHourBalance": 189,
+    "lastQuarterProfit": 14399,
+    "yearlyProfit": 1356831852,
+    "fiveYearProfit": 8437389705681842000,
+    "monthlyExpenses": 2666.16
+  },
+  {
+    "company": "Diginetic",
+    "global": true,
+    "founded": "01/27/15",
+    "workHourBalance": 62,
+    "lastQuarterProfit": 9009,
+    "yearlyProfit": 1779087788,
+    "fiveYearProfit": 6396206738830952000,
+    "monthlyExpenses": 5016.83
+  },
+  {
+    "company": "Zolar",
+    "global": true,
+    "founded": "01/08/15",
+    "workHourBalance": 87,
+    "lastQuarterProfit": 1660,
+    "yearlyProfit": 2088859554,
+    "fiveYearProfit": 7886363900736244000,
+    "monthlyExpenses": 5453.53
+  },
+  {
+    "company": "Firewax",
+    "global": false,
+    "founded": "06/21/17",
+    "workHourBalance": 202,
+    "lastQuarterProfit": 27858,
+    "yearlyProfit": 1530281381,
+    "fiveYearProfit": 5936801811687166000,
+    "monthlyExpenses": 3298.74
+  },
+  {
+    "company": "Viasia",
+    "global": true,
+    "founded": "05/19/15",
+    "workHourBalance": 10,
+    "lastQuarterProfit": 7304,
+    "yearlyProfit": 856681557,
+    "fiveYearProfit": 6137968640625226000,
+    "monthlyExpenses": 3392.34
+  },
+  {
+    "company": "Dogtown",
+    "global": true,
+    "founded": "07/07/18",
+    "workHourBalance": 203,
+    "lastQuarterProfit": 27452,
+    "yearlyProfit": 1281460357,
+    "fiveYearProfit": 7993478754336547000,
+    "monthlyExpenses": 1104.64
+  },
+  {
+    "company": "Ginkogene",
+    "global": true,
+    "founded": "04/15/14",
+    "workHourBalance": 190,
+    "lastQuarterProfit": 30209,
+    "yearlyProfit": 1328028108,
+    "fiveYearProfit": 1431409477205262300,
+    "monthlyExpenses": 7970
+  },
+  {
+    "company": "Xurban",
+    "global": true,
+    "founded": "01/16/14",
+    "workHourBalance": 0,
+    "lastQuarterProfit": 6141,
+    "yearlyProfit": 128738080,
+    "fiveYearProfit": 1272394455045392400,
+    "monthlyExpenses": 7382.87
+  },
+  {
+    "company": "Prowaste",
+    "global": false,
+    "founded": "04/16/14",
+    "workHourBalance": 194,
+    "lastQuarterProfit": 19067,
+    "yearlyProfit": 102414426,
+    "fiveYearProfit": 2758469977324505000,
+    "monthlyExpenses": 2751.61
+  },
+  {
+    "company": "Newcube",
+    "global": true,
+    "founded": "05/01/14",
+    "workHourBalance": 253,
+    "lastQuarterProfit": 2473,
+    "yearlyProfit": 1179614562,
+    "fiveYearProfit": 8893876341157014000,
+    "monthlyExpenses": 1676.42
+  },
+  {
+    "company": "Grok",
+    "global": false,
+    "founded": "11/14/17",
+    "workHourBalance": 216,
+    "lastQuarterProfit": 29624,
+    "yearlyProfit": 541091199,
+    "fiveYearProfit": 1067341817790042100,
+    "monthlyExpenses": 7583.11
+  },
+  {
+    "company": "Neptide",
+    "global": false,
+    "founded": "03/13/18",
+    "workHourBalance": 222,
+    "lastQuarterProfit": 26506,
+    "yearlyProfit": 282642480,
+    "fiveYearProfit": 3724138834854256600,
+    "monthlyExpenses": 4726.03
+  },
+  {
+    "company": "Perkle",
+    "global": false,
+    "founded": "06/26/14",
+    "workHourBalance": 180,
+    "lastQuarterProfit": 31967,
+    "yearlyProfit": 1617950861,
+    "fiveYearProfit": 1161262508724519000,
+    "monthlyExpenses": 9828.05
+  },
+  {
+    "company": "Twiggery",
+    "global": false,
+    "founded": "06/08/16",
+    "workHourBalance": 183,
+    "lastQuarterProfit": 11140,
+    "yearlyProfit": 2013398800,
+    "fiveYearProfit": 3315137487689439000,
+    "monthlyExpenses": 7790.66
+  },
+  {
+    "company": "Comtrek",
+    "global": true,
+    "founded": "10/16/14",
+    "workHourBalance": 118,
+    "lastQuarterProfit": 24991,
+    "yearlyProfit": 235603369,
+    "fiveYearProfit": 5933964730444745000,
+    "monthlyExpenses": 4300.32
+  },
+  {
+    "company": "Hinway",
+    "global": false,
+    "founded": "02/21/15",
+    "workHourBalance": 154,
+    "lastQuarterProfit": 5741,
+    "yearlyProfit": 1519729155,
+    "fiveYearProfit": 5051423692842721000,
+    "monthlyExpenses": 5110.2
+  },
+  {
+    "company": "Eweville",
+    "global": true,
+    "founded": "10/16/16",
+    "workHourBalance": 184,
+    "lastQuarterProfit": 20883,
+    "yearlyProfit": 901196400,
+    "fiveYearProfit": 3327093134766188500,
+    "monthlyExpenses": 2439.65
+  },
+  {
+    "company": "Digifad",
+    "global": false,
+    "founded": "09/07/17",
+    "workHourBalance": 10,
+    "lastQuarterProfit": 6290,
+    "yearlyProfit": 1268519084,
+    "fiveYearProfit": 5693599104076677000,
+    "monthlyExpenses": 1419.23
+  },
+  {
+    "company": "Zilodyne",
+    "global": true,
+    "founded": "06/12/17",
+    "workHourBalance": 46,
+    "lastQuarterProfit": 31454,
+    "yearlyProfit": 1648476703,
+    "fiveYearProfit": 5137388639611978000,
+    "monthlyExpenses": 4473.72
+  },
+  {
+    "company": "Qualitex",
+    "global": true,
+    "founded": "12/15/16",
+    "workHourBalance": 26,
+    "lastQuarterProfit": 22270,
+    "yearlyProfit": 481468046,
+    "fiveYearProfit": 1674718639988435000,
+    "monthlyExpenses": 1076.38
+  },
+  {
+    "company": "Motovate",
+    "global": true,
+    "founded": "10/15/16",
+    "workHourBalance": 225,
+    "lastQuarterProfit": 11143,
+    "yearlyProfit": 236349866,
+    "fiveYearProfit": 9003578231263187000,
+    "monthlyExpenses": 9976.97
+  },
+  {
+    "company": "Verton",
+    "global": false,
+    "founded": "08/25/15",
+    "workHourBalance": 123,
+    "lastQuarterProfit": 6786,
+    "yearlyProfit": 523932016,
+    "fiveYearProfit": 3279958980020128000,
+    "monthlyExpenses": 3034.52
+  },
+  {
+    "company": "Makingway",
+    "global": false,
+    "founded": "05/23/16",
+    "workHourBalance": 126,
+    "lastQuarterProfit": 1396,
+    "yearlyProfit": 1120292593,
+    "fiveYearProfit": 2657028976704479000,
+    "monthlyExpenses": 4129.19
+  },
+  {
+    "company": "Tetratrex",
+    "global": true,
+    "founded": "05/07/18",
+    "workHourBalance": 77,
+    "lastQuarterProfit": 16491,
+    "yearlyProfit": 1652061193,
+    "fiveYearProfit": 6104934878967351000,
+    "monthlyExpenses": 6331
+  },
+  {
+    "company": "Nebulean",
+    "global": true,
+    "founded": "04/04/15",
+    "workHourBalance": 250,
+    "lastQuarterProfit": 19157,
+    "yearlyProfit": 770147380,
+    "fiveYearProfit": 4899420830922668000,
+    "monthlyExpenses": 2678.92
+  },
+  {
+    "company": "Ovium",
+    "global": false,
+    "founded": "04/26/17",
+    "workHourBalance": 162,
+    "lastQuarterProfit": 24273,
+    "yearlyProfit": 1900009937,
+    "fiveYearProfit": 5614527226837987000,
+    "monthlyExpenses": 3645.47
+  },
+  {
+    "company": "Flumbo",
+    "global": true,
+    "founded": "04/05/14",
+    "workHourBalance": 130,
+    "lastQuarterProfit": 17485,
+    "yearlyProfit": 579431759,
+    "fiveYearProfit": 2809680470689399000,
+    "monthlyExpenses": 4358.41
+  },
+  {
+    "company": "Eventage",
+    "global": false,
+    "founded": "06/10/14",
+    "workHourBalance": 98,
+    "lastQuarterProfit": 32722,
+    "yearlyProfit": 556907487,
+    "fiveYearProfit": 178247023472879600,
+    "monthlyExpenses": 9541.16
+  },
+  {
+    "company": "Xsports",
+    "global": false,
+    "founded": "04/21/16",
+    "workHourBalance": 13,
+    "lastQuarterProfit": 16210,
+    "yearlyProfit": 1496235457,
+    "fiveYearProfit": 8145771678390125000,
+    "monthlyExpenses": 3786.48
+  },
+  {
+    "company": "Cogentry",
+    "global": true,
+    "founded": "07/02/18",
+    "workHourBalance": 214,
+    "lastQuarterProfit": 26653,
+    "yearlyProfit": 1076840582,
+    "fiveYearProfit": 4704150354826197000,
+    "monthlyExpenses": 4549.3
+  },
+  {
+    "company": "Bicol",
+    "global": true,
+    "founded": "03/23/14",
+    "workHourBalance": 152,
+    "lastQuarterProfit": 18694,
+    "yearlyProfit": 96608001,
+    "fiveYearProfit": 1891801758271903700,
+    "monthlyExpenses": 4376.94
+  },
+  {
+    "company": "Accel",
+    "global": true,
+    "founded": "12/14/15",
+    "workHourBalance": 53,
+    "lastQuarterProfit": 18435,
+    "yearlyProfit": 884885964,
+    "fiveYearProfit": 3050340671123876000,
+    "monthlyExpenses": 4850.74
+  },
+  {
+    "company": "Futuris",
+    "global": true,
+    "founded": "01/23/15",
+    "workHourBalance": 205,
+    "lastQuarterProfit": 6790,
+    "yearlyProfit": 1743645239,
+    "fiveYearProfit": 6981476877606902000,
+    "monthlyExpenses": 9709.7
+  },
+  {
+    "company": "Xanide",
+    "global": false,
+    "founded": "04/15/14",
+    "workHourBalance": 136,
+    "lastQuarterProfit": 30112,
+    "yearlyProfit": 889088266,
+    "fiveYearProfit": 7780564657888633000,
+    "monthlyExpenses": 7671.54
+  },
+  {
+    "company": "Musix",
+    "global": false,
+    "founded": "12/02/16",
+    "workHourBalance": 128,
+    "lastQuarterProfit": 15332,
+    "yearlyProfit": 1728416481,
+    "fiveYearProfit": 7656435774457719000,
+    "monthlyExpenses": 3777.59
+  },
+  {
+    "company": "Duflex",
+    "global": true,
+    "founded": "06/13/15",
+    "workHourBalance": 107,
+    "lastQuarterProfit": 29312,
+    "yearlyProfit": 1555081783,
+    "fiveYearProfit": 6285530783717923000,
+    "monthlyExpenses": 6361.49
+  }
+]
