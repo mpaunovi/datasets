@@ -1,0 +1,5802 @@
+[
+  {
+    "company": "Uni",
+    "global": true,
+    "workHourBalance": 112,
+    "lastQuarterProfit": 23226,
+    "yearlyProfit": 698416534,
+    "fiveYearProfit": 887845737673992200,
+    "monthlyExpenses": 9111.67,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 851358861145687,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 510275732714238,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 372068922611908,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Equicom",
+    "global": false,
+    "workHourBalance": 191,
+    "lastQuarterProfit": 15719,
+    "yearlyProfit": 466598386,
+    "fiveYearProfit": 5138820222151416000,
+    "monthlyExpenses": 8402.98,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 948692632837823,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 690989238486364,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 628122830322663,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Renovize",
+    "global": true,
+    "workHourBalance": 107,
+    "lastQuarterProfit": 24915,
+    "yearlyProfit": 418983832,
+    "fiveYearProfit": 1112215305860759600,
+    "monthlyExpenses": 5737.93,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 347026393616640,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 896083404714345,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 115505557450938,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zilla",
+    "global": false,
+    "workHourBalance": 84,
+    "lastQuarterProfit": 30639,
+    "yearlyProfit": 517913990,
+    "fiveYearProfit": 4223825216653140000,
+    "monthlyExpenses": 5239.98,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 471719020839295,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 635332006407248,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 461254901047017,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Ceprene",
+    "global": true,
+    "workHourBalance": 129,
+    "lastQuarterProfit": 16242,
+    "yearlyProfit": 2031720973,
+    "fiveYearProfit": 1198661933834283000,
+    "monthlyExpenses": 8925.26,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 721197831138886,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 828317707017136,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 346917730382552,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Skybold",
+    "global": false,
+    "workHourBalance": 151,
+    "lastQuarterProfit": 13021,
+    "yearlyProfit": 1235996769,
+    "fiveYearProfit": 6281933622480787000,
+    "monthlyExpenses": 9498.83,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 450329460127673,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 258922217929482,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 417843625614188,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Geoforma",
+    "global": true,
+    "workHourBalance": 107,
+    "lastQuarterProfit": 135,
+    "yearlyProfit": 934644741,
+    "fiveYearProfit": 7619006163782283000,
+    "monthlyExpenses": 2408.62,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 115345346593855,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 602859134452436,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 148749287274017,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Voipa",
+    "global": false,
+    "workHourBalance": 220,
+    "lastQuarterProfit": 27518,
+    "yearlyProfit": 1003906173,
+    "fiveYearProfit": 6026705832471710000,
+    "monthlyExpenses": 9583.2,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 873054966923546,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 275335966012085,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 205728128971474,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Fuelton",
+    "global": true,
+    "workHourBalance": 40,
+    "lastQuarterProfit": 18472,
+    "yearlyProfit": 620154353,
+    "fiveYearProfit": 3964922182090105000,
+    "monthlyExpenses": 4198.99,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 795151966604373,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 188406171298874,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 662558039988012,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zillanet",
+    "global": false,
+    "workHourBalance": 171,
+    "lastQuarterProfit": 6736,
+    "yearlyProfit": 24137629,
+    "fiveYearProfit": 6633551074438840000,
+    "monthlyExpenses": 8309.2,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 418127925398947,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 163128206430639,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 691809008993615,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Uniworld",
+    "global": false,
+    "workHourBalance": 17,
+    "lastQuarterProfit": 30403,
+    "yearlyProfit": 1518790217,
+    "fiveYearProfit": 3885393937699920000,
+    "monthlyExpenses": 8896.33,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 534356599616293,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 124663107458710,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 125200432765160,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Ziggles",
+    "global": false,
+    "workHourBalance": 162,
+    "lastQuarterProfit": 11593,
+    "yearlyProfit": 227504611,
+    "fiveYearProfit": 4175405518588260400,
+    "monthlyExpenses": 3955.51,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 920613244342235,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 706635020952091,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 731184374453468,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Greeker",
+    "global": true,
+    "workHourBalance": 42,
+    "lastQuarterProfit": 17327,
+    "yearlyProfit": 403883933,
+    "fiveYearProfit": 2204962311796811800,
+    "monthlyExpenses": 8589.01,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 792494673972764,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 245775948156634,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 810752838186453,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Kiggle",
+    "global": true,
+    "workHourBalance": 113,
+    "lastQuarterProfit": 20595,
+    "yearlyProfit": 1964334221,
+    "fiveYearProfit": 1189110010297516000,
+    "monthlyExpenses": 4823.14,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 422266134933444,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 140397520493595,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 147539306581346,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Xsports",
+    "global": true,
+    "workHourBalance": 122,
+    "lastQuarterProfit": 1199,
+    "yearlyProfit": 1104189424,
+    "fiveYearProfit": 4289807279049341000,
+    "monthlyExpenses": 4681.19,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 943546896565890,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 451075601789143,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 975608228986918,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Genmom",
+    "global": false,
+    "workHourBalance": 252,
+    "lastQuarterProfit": 17421,
+    "yearlyProfit": 445483073,
+    "fiveYearProfit": 5290653345779816000,
+    "monthlyExpenses": 3786.43,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 942088982603640,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 371619096743813,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 487187030237107,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Quizka",
+    "global": false,
+    "workHourBalance": 165,
+    "lastQuarterProfit": 8053,
+    "yearlyProfit": 1310949127,
+    "fiveYearProfit": 7841850498687080000,
+    "monthlyExpenses": 3411.43,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 374483733449044,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 767040693291622,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 620353251659222,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Ovolo",
+    "global": false,
+    "workHourBalance": 82,
+    "lastQuarterProfit": 16586,
+    "yearlyProfit": 133870812,
+    "fiveYearProfit": 9098166743262757000,
+    "monthlyExpenses": 8365.51,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 659318223741122,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 285765152782190,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 354579725684643,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Qot",
+    "global": false,
+    "workHourBalance": 99,
+    "lastQuarterProfit": 3410,
+    "yearlyProfit": 737023278,
+    "fiveYearProfit": 795298043715788800,
+    "monthlyExpenses": 1081.33,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 553312912319063,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 511718028437593,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 459385501367412,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Comstruct",
+    "global": false,
+    "workHourBalance": 88,
+    "lastQuarterProfit": 21660,
+    "yearlyProfit": 1803033639,
+    "fiveYearProfit": 8651488070034371000,
+    "monthlyExpenses": 3908.21,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 895363942057989,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 855597142890550,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 678327572547194,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Providco",
+    "global": true,
+    "workHourBalance": 150,
+    "lastQuarterProfit": 9179,
+    "yearlyProfit": 618256536,
+    "fiveYearProfit": 5300767123175238000,
+    "monthlyExpenses": 3265.63,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 940300382627126,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 286643668256147,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 494100075232155,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Pyramis",
+    "global": false,
+    "workHourBalance": 70,
+    "lastQuarterProfit": 4914,
+    "yearlyProfit": 1009323288,
+    "fiveYearProfit": 8254150042384902000,
+    "monthlyExpenses": 7860.19,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 559332654322753,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 943381412555861,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 792709701229850,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Futurity",
+    "global": true,
+    "workHourBalance": 97,
+    "lastQuarterProfit": 6394,
+    "yearlyProfit": 1995741629,
+    "fiveYearProfit": 4980004092024986000,
+    "monthlyExpenses": 2381.34,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 889468535160384,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 388299011611501,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 674167904842461,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Hivedom",
+    "global": false,
+    "workHourBalance": 207,
+    "lastQuarterProfit": 21418,
+    "yearlyProfit": 718673469,
+    "fiveYearProfit": 7859808469159741000,
+    "monthlyExpenses": 7970.13,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 304463521796852,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 658267715754085,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 811022483562931,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Twiggery",
+    "global": true,
+    "workHourBalance": 126,
+    "lastQuarterProfit": 11895,
+    "yearlyProfit": 1852199166,
+    "fiveYearProfit": 7974110625251858000,
+    "monthlyExpenses": 1663.93,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 213688641000926,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 264558687794117,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 149045128151850,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Corpulse",
+    "global": true,
+    "workHourBalance": 152,
+    "lastQuarterProfit": 7598,
+    "yearlyProfit": 1806308724,
+    "fiveYearProfit": 6805035041986841000,
+    "monthlyExpenses": 2313.13,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 703274855163479,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 639663317745636,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 602674358913738,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Mantrix",
+    "global": true,
+    "workHourBalance": 134,
+    "lastQuarterProfit": 29400,
+    "yearlyProfit": 1400069573,
+    "fiveYearProfit": 2386495491750615000,
+    "monthlyExpenses": 7410.16,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 261710794564336,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 124253291245423,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 362351886688416,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Andryx",
+    "global": false,
+    "workHourBalance": 40,
+    "lastQuarterProfit": 594,
+    "yearlyProfit": 944455260,
+    "fiveYearProfit": 3156560597663879000,
+    "monthlyExpenses": 7906.37,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 222097769192390,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 765559190610264,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 934329011054603,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Songbird",
+    "global": true,
+    "workHourBalance": 36,
+    "lastQuarterProfit": 5073,
+    "yearlyProfit": 574421063,
+    "fiveYearProfit": 2527395864864944000,
+    "monthlyExpenses": 6754.85,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 577604478073186,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 131107401479693,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 535802794098160,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Sultrax",
+    "global": false,
+    "workHourBalance": 139,
+    "lastQuarterProfit": 13158,
+    "yearlyProfit": 1624955180,
+    "fiveYearProfit": 3620225335388768000,
+    "monthlyExpenses": 8309.01,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 236116909537724,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 906373275546455,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 979621159490575,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Dognosis",
+    "global": false,
+    "workHourBalance": 72,
+    "lastQuarterProfit": 18200,
+    "yearlyProfit": 1684277262,
+    "fiveYearProfit": 7887502363351824000,
+    "monthlyExpenses": 6733.77,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 957835090050059,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 465574510951853,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 924899468512267,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Roughies",
+    "global": false,
+    "workHourBalance": 148,
+    "lastQuarterProfit": 15341,
+    "yearlyProfit": 398597580,
+    "fiveYearProfit": 3866842976174248000,
+    "monthlyExpenses": 3984.17,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 845751193591050,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 682488178912958,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 820545471203803,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Filodyne",
+    "global": false,
+    "workHourBalance": 199,
+    "lastQuarterProfit": 20531,
+    "yearlyProfit": 1008138527,
+    "fiveYearProfit": 937636862883878900,
+    "monthlyExpenses": 2109.66,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 849815480009618,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 479040893304333,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 466800451737669,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Enerforce",
+    "global": true,
+    "workHourBalance": 183,
+    "lastQuarterProfit": 24262,
+    "yearlyProfit": 826520680,
+    "fiveYearProfit": 2047545633984032800,
+    "monthlyExpenses": 9114.21,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 451877791181163,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 257248379243556,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 999325185975105,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Twiist",
+    "global": true,
+    "workHourBalance": 237,
+    "lastQuarterProfit": 24669,
+    "yearlyProfit": 1011973973,
+    "fiveYearProfit": 8081680223916196000,
+    "monthlyExpenses": 7778.04,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 802310134540666,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 553444230802847,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 806158795797997,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Firewax",
+    "global": true,
+    "workHourBalance": 4,
+    "lastQuarterProfit": 29417,
+    "yearlyProfit": 1577497437,
+    "fiveYearProfit": 2486673213496131600,
+    "monthlyExpenses": 7875.24,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 167699983907951,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 132202725399077,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 102530451513943,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Omnigog",
+    "global": true,
+    "workHourBalance": 107,
+    "lastQuarterProfit": 3033,
+    "yearlyProfit": 759868710,
+    "fiveYearProfit": 6405427075791450000,
+    "monthlyExpenses": 9546.98,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 332048094622059,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 799397517523305,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 495826356878174,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Envire",
+    "global": false,
+    "workHourBalance": 45,
+    "lastQuarterProfit": 15946,
+    "yearlyProfit": 1852321933,
+    "fiveYearProfit": 5557767644843729000,
+    "monthlyExpenses": 6714.38,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 944088686225935,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 733895443794495,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 592792823525166,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Daycore",
+    "global": true,
+    "workHourBalance": 195,
+    "lastQuarterProfit": 1066,
+    "yearlyProfit": 1627545353,
+    "fiveYearProfit": 6978693811051504000,
+    "monthlyExpenses": 5257.15,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 393950250978941,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 717001249546105,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 851905963208615,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Urbanshee",
+    "global": true,
+    "workHourBalance": 75,
+    "lastQuarterProfit": 12115,
+    "yearlyProfit": 284531252,
+    "fiveYearProfit": 3164467206879891500,
+    "monthlyExpenses": 7752.16,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 143114107491394,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 613788718742271,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 875763460492170,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Futuris",
+    "global": true,
+    "workHourBalance": 78,
+    "lastQuarterProfit": 19765,
+    "yearlyProfit": 1489898341,
+    "fiveYearProfit": 860297738076235800,
+    "monthlyExpenses": 2624.58,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 329959025914461,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 844514657667465,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 857420421462526,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Insource",
+    "global": true,
+    "workHourBalance": 84,
+    "lastQuarterProfit": 1877,
+    "yearlyProfit": 250143047,
+    "fiveYearProfit": 232131184263718900,
+    "monthlyExpenses": 4650.09,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 396102593954782,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 540930336214102,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 477465931449238,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Exosis",
+    "global": true,
+    "workHourBalance": 197,
+    "lastQuarterProfit": 18707,
+    "yearlyProfit": 1957574590,
+    "fiveYearProfit": 8404653217167223000,
+    "monthlyExpenses": 6867.52,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 684047570339709,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 738507861871411,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 296195451833365,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Rodeocean",
+    "global": true,
+    "workHourBalance": 250,
+    "lastQuarterProfit": 29385,
+    "yearlyProfit": 2005227760,
+    "fiveYearProfit": 7900079907862374000,
+    "monthlyExpenses": 6952.01,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 113184285166008,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 870290756801367,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 842468590568089,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zoinage",
+    "global": false,
+    "workHourBalance": 189,
+    "lastQuarterProfit": 32543,
+    "yearlyProfit": 1874471580,
+    "fiveYearProfit": 6374625995758811000,
+    "monthlyExpenses": 3199.32,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 782295962424180,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 884169373220393,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 993567067684973,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Quarx",
+    "global": false,
+    "workHourBalance": 161,
+    "lastQuarterProfit": 3607,
+    "yearlyProfit": 813512232,
+    "fiveYearProfit": 8989457882078497000,
+    "monthlyExpenses": 6368.87,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 339822438965274,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 984726139033523,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 741525593959981,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Helixo",
+    "global": false,
+    "workHourBalance": 208,
+    "lastQuarterProfit": 17793,
+    "yearlyProfit": 1322060998,
+    "fiveYearProfit": 5070592047575968000,
+    "monthlyExpenses": 5096.94,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 915355290409670,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 895172786936473,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 440231798730718,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Bluplanet",
+    "global": false,
+    "workHourBalance": 165,
+    "lastQuarterProfit": 14259,
+    "yearlyProfit": 12906187,
+    "fiveYearProfit": 7966902597947011000,
+    "monthlyExpenses": 3636.14,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 161020955188654,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 828493425589604,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 275954880435852,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Exozent",
+    "global": false,
+    "workHourBalance": 229,
+    "lastQuarterProfit": 11921,
+    "yearlyProfit": 901125587,
+    "fiveYearProfit": 3774697491489825000,
+    "monthlyExpenses": 4736.78,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 683091066871716,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 187802110176593,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 943987014364791,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zentility",
+    "global": false,
+    "workHourBalance": 17,
+    "lastQuarterProfit": 26658,
+    "yearlyProfit": 1129167431,
+    "fiveYearProfit": 6707747624801663000,
+    "monthlyExpenses": 2227.15,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 998859889925755,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 603360631648187,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 126574312657861,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Geekwagon",
+    "global": false,
+    "workHourBalance": 134,
+    "lastQuarterProfit": 9521,
+    "yearlyProfit": 2029519677,
+    "fiveYearProfit": 9210693861251224000,
+    "monthlyExpenses": 6757.67,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 271027884770248,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 724516182271227,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 351369216208155,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Pyrami",
+    "global": true,
+    "workHourBalance": 243,
+    "lastQuarterProfit": 13796,
+    "yearlyProfit": 1672091487,
+    "fiveYearProfit": 7155632024569516000,
+    "monthlyExpenses": 5010.24,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 936172475101563,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 870168298660086,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 441346266850944,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Neocent",
+    "global": true,
+    "workHourBalance": 168,
+    "lastQuarterProfit": 17878,
+    "yearlyProfit": 2005968076,
+    "fiveYearProfit": 4650028074593135000,
+    "monthlyExpenses": 6141.33,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 661976384585156,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 711264915677243,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 836550341092522,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Interfind",
+    "global": true,
+    "workHourBalance": 64,
+    "lastQuarterProfit": 11188,
+    "yearlyProfit": 1536244640,
+    "fiveYearProfit": 2513770165192087600,
+    "monthlyExpenses": 2679.95,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 863197652060279,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 678270891944632,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 827290009645835,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Emtrak",
+    "global": false,
+    "workHourBalance": 82,
+    "lastQuarterProfit": 17878,
+    "yearlyProfit": 1085669720,
+    "fiveYearProfit": 7267028329668407000,
+    "monthlyExpenses": 1944.66,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 664186962383851,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 997669945120566,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 127554605009025,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Illumity",
+    "global": false,
+    "workHourBalance": 125,
+    "lastQuarterProfit": 12227,
+    "yearlyProfit": 2031029712,
+    "fiveYearProfit": 2968340546318532600,
+    "monthlyExpenses": 3206.81,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 650687973954848,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 149863009701854,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 303082296195409,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Micronaut",
+    "global": false,
+    "workHourBalance": 12,
+    "lastQuarterProfit": 24492,
+    "yearlyProfit": 1554885898,
+    "fiveYearProfit": 6777761008370692000,
+    "monthlyExpenses": 6893.26,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 980535625669754,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 522131929456509,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 570616842549885,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zilch",
+    "global": false,
+    "workHourBalance": 248,
+    "lastQuarterProfit": 2531,
+    "yearlyProfit": 1346318155,
+    "fiveYearProfit": 513258339411818500,
+    "monthlyExpenses": 4863.68,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 588985254581068,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 931992384630147,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 623198218504475,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Namebox",
+    "global": true,
+    "workHourBalance": 186,
+    "lastQuarterProfit": 10234,
+    "yearlyProfit": 801164202,
+    "fiveYearProfit": 3279994142972143600,
+    "monthlyExpenses": 2391.02,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 902195779905902,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 555487575162438,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 801767711926624,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Datacator",
+    "global": false,
+    "workHourBalance": 51,
+    "lastQuarterProfit": 13704,
+    "yearlyProfit": 64364383,
+    "fiveYearProfit": 1373081436411678700,
+    "monthlyExpenses": 8654.45,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 182470407305903,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 160938391620647,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 598080060244234,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Schoolio",
+    "global": true,
+    "workHourBalance": 235,
+    "lastQuarterProfit": 32050,
+    "yearlyProfit": 287518259,
+    "fiveYearProfit": 3979324679000170500,
+    "monthlyExpenses": 2646.93,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 199889150396096,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 492831114485724,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 401108966221573,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Klugger",
+    "global": false,
+    "workHourBalance": 75,
+    "lastQuarterProfit": 4023,
+    "yearlyProfit": 499751791,
+    "fiveYearProfit": 431388091539521540,
+    "monthlyExpenses": 7080.56,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 402438801218730,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 131358327683682,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 142237430159430,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zilladyne",
+    "global": true,
+    "workHourBalance": 94,
+    "lastQuarterProfit": 8577,
+    "yearlyProfit": 2023130604,
+    "fiveYearProfit": 582490070425284600,
+    "monthlyExpenses": 4872.74,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 801727539597526,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 950732766003020,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 310395128262092,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Digigene",
+    "global": false,
+    "workHourBalance": 23,
+    "lastQuarterProfit": 29665,
+    "yearlyProfit": 583106997,
+    "fiveYearProfit": 340175339260874750,
+    "monthlyExpenses": 9731.34,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 197307422699176,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 550446815409414,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 410008764071789,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Farmex",
+    "global": true,
+    "workHourBalance": 13,
+    "lastQuarterProfit": 144,
+    "yearlyProfit": 2141728755,
+    "fiveYearProfit": 5907776433339888000,
+    "monthlyExpenses": 5903.89,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 662266402819669,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 400378442288292,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 122376835614943,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Comvex",
+    "global": false,
+    "workHourBalance": 88,
+    "lastQuarterProfit": 22976,
+    "yearlyProfit": 1426820161,
+    "fiveYearProfit": 2578248518656952300,
+    "monthlyExpenses": 9319.83,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 967135575879192,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 297513368066739,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 261106727481549,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zomboid",
+    "global": false,
+    "workHourBalance": 125,
+    "lastQuarterProfit": 23490,
+    "yearlyProfit": 178781663,
+    "fiveYearProfit": 6018163725251850000,
+    "monthlyExpenses": 3221.36,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 210395810066691,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 787050244386887,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 289493295348541,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Qualitern",
+    "global": true,
+    "workHourBalance": 134,
+    "lastQuarterProfit": 25180,
+    "yearlyProfit": 341757802,
+    "fiveYearProfit": 3433431436513179600,
+    "monthlyExpenses": 3094.87,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 723662823600453,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 611683134077929,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 172380577684173,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Conjurica",
+    "global": true,
+    "workHourBalance": 142,
+    "lastQuarterProfit": 23376,
+    "yearlyProfit": 1900871386,
+    "fiveYearProfit": 6064850048377211000,
+    "monthlyExpenses": 3153.74,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 611305214818102,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 777347198074605,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 685610298026223,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Unisure",
+    "global": true,
+    "workHourBalance": 226,
+    "lastQuarterProfit": 30480,
+    "yearlyProfit": 79361285,
+    "fiveYearProfit": 8411953407180978000,
+    "monthlyExpenses": 4020.66,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 148279729229216,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 120127050911884,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 133896087425765,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Eschoir",
+    "global": false,
+    "workHourBalance": 146,
+    "lastQuarterProfit": 24385,
+    "yearlyProfit": 1509306783,
+    "fiveYearProfit": 3001475833091150000,
+    "monthlyExpenses": 2621.28,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 795494943706227,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 128737051630273,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 247432481300590,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zolavo",
+    "global": true,
+    "workHourBalance": 187,
+    "lastQuarterProfit": 29683,
+    "yearlyProfit": 2088381860,
+    "fiveYearProfit": 6687267818783531000,
+    "monthlyExpenses": 1585.58,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 755771251830342,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 163727221568749,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 426766000810229,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Cuizine",
+    "global": true,
+    "workHourBalance": 165,
+    "lastQuarterProfit": 9234,
+    "yearlyProfit": 12640236,
+    "fiveYearProfit": 2758654905243355000,
+    "monthlyExpenses": 4571.73,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 186538275993389,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 361407907799327,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 979492378487002,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Glukgluk",
+    "global": false,
+    "workHourBalance": 40,
+    "lastQuarterProfit": 25843,
+    "yearlyProfit": 207684857,
+    "fiveYearProfit": 1573895896139167700,
+    "monthlyExpenses": 8943.13,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 883750280469932,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 361760095885773,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 103376353298952,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Vitricomp",
+    "global": false,
+    "workHourBalance": 47,
+    "lastQuarterProfit": 26757,
+    "yearlyProfit": 1030576516,
+    "fiveYearProfit": 9162872876302797000,
+    "monthlyExpenses": 4374.83,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 153700472705965,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 105954902631282,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 642192559725779,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Bolax",
+    "global": false,
+    "workHourBalance": 92,
+    "lastQuarterProfit": 31669,
+    "yearlyProfit": 1026668497,
+    "fiveYearProfit": 6642419352806234000,
+    "monthlyExpenses": 5107.78,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 843808008351984,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 873102664206959,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 217070452984829,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Corepan",
+    "global": true,
+    "workHourBalance": 29,
+    "lastQuarterProfit": 24622,
+    "yearlyProfit": 143933644,
+    "fiveYearProfit": 417534983203778560,
+    "monthlyExpenses": 3707.07,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 142504997484385,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 735695186299800,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 170148205039499,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Lunchpad",
+    "global": true,
+    "workHourBalance": 67,
+    "lastQuarterProfit": 13578,
+    "yearlyProfit": 1719756392,
+    "fiveYearProfit": 8539106336769444000,
+    "monthlyExpenses": 4659.17,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 411224100466090,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 544882994755354,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 520558203910582,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zentry",
+    "global": false,
+    "workHourBalance": 223,
+    "lastQuarterProfit": 16620,
+    "yearlyProfit": 1861673091,
+    "fiveYearProfit": 4374479739394054000,
+    "monthlyExpenses": 2815.39,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 167760147436323,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 372332157143715,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 983353339301010,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Deepends",
+    "global": false,
+    "workHourBalance": 98,
+    "lastQuarterProfit": 29443,
+    "yearlyProfit": 1073750532,
+    "fiveYearProfit": 8808853483738853000,
+    "monthlyExpenses": 1340.74,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 331188364162740,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 670961675904362,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 493131864373386,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Omatom",
+    "global": true,
+    "workHourBalance": 83,
+    "lastQuarterProfit": 4960,
+    "yearlyProfit": 1101017334,
+    "fiveYearProfit": 3610898172728776700,
+    "monthlyExpenses": 1202.41,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 858525781709546,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 333980531820856,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 259592097934600,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Intrawear",
+    "global": true,
+    "workHourBalance": 112,
+    "lastQuarterProfit": 11680,
+    "yearlyProfit": 1122691502,
+    "fiveYearProfit": 3697645201243175000,
+    "monthlyExpenses": 8287.7,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 833318570507341,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 524661908373398,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 802547684090057,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Viagreat",
+    "global": false,
+    "workHourBalance": 77,
+    "lastQuarterProfit": 19014,
+    "yearlyProfit": 493455331,
+    "fiveYearProfit": 4630673685945606000,
+    "monthlyExpenses": 2576.76,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 298672893447677,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 614142859664226,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 599590090292568,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Fleetmix",
+    "global": false,
+    "workHourBalance": 215,
+    "lastQuarterProfit": 26587,
+    "yearlyProfit": 1906040827,
+    "fiveYearProfit": 5743538354468170000,
+    "monthlyExpenses": 4784.6,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 501393064757782,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 849578871145627,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 152213474443923,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Canopoly",
+    "global": true,
+    "workHourBalance": 83,
+    "lastQuarterProfit": 774,
+    "yearlyProfit": 1577517033,
+    "fiveYearProfit": 2656245217628291000,
+    "monthlyExpenses": 5298.21,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 137869811207487,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 798693817665112,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 892210076725484,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Rugstars",
+    "global": true,
+    "workHourBalance": 42,
+    "lastQuarterProfit": 24,
+    "yearlyProfit": 1884445642,
+    "fiveYearProfit": 9100985518083574000,
+    "monthlyExpenses": 8564,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 398914759819771,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 917117572126516,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 874487457560963,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Kog",
+    "global": true,
+    "workHourBalance": 168,
+    "lastQuarterProfit": 10165,
+    "yearlyProfit": 1051711642,
+    "fiveYearProfit": 7804364228641513000,
+    "monthlyExpenses": 6717.86,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 991001974365075,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 326283146933876,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 290108497783290,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Bleeko",
+    "global": false,
+    "workHourBalance": 179,
+    "lastQuarterProfit": 16390,
+    "yearlyProfit": 908796511,
+    "fiveYearProfit": 8189269321107249000,
+    "monthlyExpenses": 1436.85,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 965931128192153,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 961468572624190,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 765569286714975,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Enormo",
+    "global": false,
+    "workHourBalance": 219,
+    "lastQuarterProfit": 1205,
+    "yearlyProfit": 993313188,
+    "fiveYearProfit": 5253701779230999000,
+    "monthlyExpenses": 2137.8,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 407507421011425,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 896242903294688,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 388693863212505,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Magmina",
+    "global": false,
+    "workHourBalance": 75,
+    "lastQuarterProfit": 28121,
+    "yearlyProfit": 712391364,
+    "fiveYearProfit": 2503920897110606000,
+    "monthlyExpenses": 3287.66,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 438303846450919,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 271064485622018,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 881428044708835,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Frolix",
+    "global": false,
+    "workHourBalance": 84,
+    "lastQuarterProfit": 26846,
+    "yearlyProfit": 574399169,
+    "fiveYearProfit": 5314537858326616000,
+    "monthlyExpenses": 1309.17,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 644072151830989,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 444273895062128,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 672557214121118,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Portico",
+    "global": false,
+    "workHourBalance": 140,
+    "lastQuarterProfit": 6431,
+    "yearlyProfit": 2010788689,
+    "fiveYearProfit": 1011993532789465100,
+    "monthlyExpenses": 9980.48,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 518245712019885,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 220184660532993,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 544569600116765,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Grupoli",
+    "global": true,
+    "workHourBalance": 138,
+    "lastQuarterProfit": 32629,
+    "yearlyProfit": 1483677124,
+    "fiveYearProfit": 2107137568276437000,
+    "monthlyExpenses": 1182.6,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 657250555612848,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 221354047889562,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 885440286485511,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Bullzone",
+    "global": false,
+    "workHourBalance": 39,
+    "lastQuarterProfit": 12375,
+    "yearlyProfit": 1390857698,
+    "fiveYearProfit": 855448439845728300,
+    "monthlyExpenses": 4184.29,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 986999729107679,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 184420861130616,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 839349399552707,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Lovepad",
+    "global": false,
+    "workHourBalance": 167,
+    "lastQuarterProfit": 12910,
+    "yearlyProfit": 2135070013,
+    "fiveYearProfit": 1414178374162970600,
+    "monthlyExpenses": 1592.1,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 914044193222979,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 925173483420348,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 806025004563357,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Accuprint",
+    "global": false,
+    "workHourBalance": 61,
+    "lastQuarterProfit": 20862,
+    "yearlyProfit": 553064670,
+    "fiveYearProfit": 8961640009843055000,
+    "monthlyExpenses": 1862.06,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 146986500570530,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 358597370392450,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 295240568995834,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Printspan",
+    "global": true,
+    "workHourBalance": 146,
+    "lastQuarterProfit": 8075,
+    "yearlyProfit": 2035371871,
+    "fiveYearProfit": 3442581430180997000,
+    "monthlyExpenses": 8222.08,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 154245919455793,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 617868726263964,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 555266044132475,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Pharmacon",
+    "global": true,
+    "workHourBalance": 164,
+    "lastQuarterProfit": 11478,
+    "yearlyProfit": 1608003650,
+    "fiveYearProfit": 3692796115212697600,
+    "monthlyExpenses": 8367.41,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 887103934988480,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 452910224458915,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 879454275290245,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Radiantix",
+    "global": false,
+    "workHourBalance": 76,
+    "lastQuarterProfit": 3634,
+    "yearlyProfit": 97272155,
+    "fiveYearProfit": 117084883375083520,
+    "monthlyExpenses": 3252.88,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 787025469648755,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 251243581367026,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 529411840780671,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Calcula",
+    "global": false,
+    "workHourBalance": 58,
+    "lastQuarterProfit": 5897,
+    "yearlyProfit": 854051441,
+    "fiveYearProfit": 6379913998759154000,
+    "monthlyExpenses": 6871.6,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 290754856309965,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 520209447027819,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 517609241670945,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Elentrix",
+    "global": true,
+    "workHourBalance": 58,
+    "lastQuarterProfit": 798,
+    "yearlyProfit": 1227966894,
+    "fiveYearProfit": 6987787089117749000,
+    "monthlyExpenses": 6794.2,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 475915784307450,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 456036828867371,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 452769455272838,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Frosnex",
+    "global": true,
+    "workHourBalance": 170,
+    "lastQuarterProfit": 31918,
+    "yearlyProfit": 1665736597,
+    "fiveYearProfit": 6588477672012030000,
+    "monthlyExpenses": 3531.93,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 343851823718434,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 413329699768721,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 167980909787359,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Stucco",
+    "global": true,
+    "workHourBalance": 173,
+    "lastQuarterProfit": 893,
+    "yearlyProfit": 61682348,
+    "fiveYearProfit": 3101302665216327700,
+    "monthlyExpenses": 5233.76,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 206906756042944,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 784048619707942,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 360330368401239,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Retrotex",
+    "global": true,
+    "workHourBalance": 101,
+    "lastQuarterProfit": 18853,
+    "yearlyProfit": 1212250982,
+    "fiveYearProfit": 5708544102548251000,
+    "monthlyExpenses": 3061.56,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 796527987403449,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 603510761607118,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 767551493510105,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Ramjob",
+    "global": true,
+    "workHourBalance": 88,
+    "lastQuarterProfit": 24348,
+    "yearlyProfit": 1421605199,
+    "fiveYearProfit": 8757469259082285000,
+    "monthlyExpenses": 5743.4,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 960246927090696,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 838111043940558,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 460518753294788,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Cablam",
+    "global": false,
+    "workHourBalance": 156,
+    "lastQuarterProfit": 25740,
+    "yearlyProfit": 957765415,
+    "fiveYearProfit": 33087310788843520,
+    "monthlyExpenses": 7596.52,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 881199962709311,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 292936847738174,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 179041724056996,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Cormoran",
+    "global": true,
+    "workHourBalance": 137,
+    "lastQuarterProfit": 8591,
+    "yearlyProfit": 1884117034,
+    "fiveYearProfit": 2110040436998566000,
+    "monthlyExpenses": 4886.85,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 517020430720403,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 407886261280359,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 206006168282912,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Sustenza",
+    "global": true,
+    "workHourBalance": 11,
+    "lastQuarterProfit": 11831,
+    "yearlyProfit": 1216534726,
+    "fiveYearProfit": 8638588130495052000,
+    "monthlyExpenses": 6665.69,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 999057224210876,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 245740720209677,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 260883344950043,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Sybixtex",
+    "global": false,
+    "workHourBalance": 183,
+    "lastQuarterProfit": 9687,
+    "yearlyProfit": 637364151,
+    "fiveYearProfit": 723841576941838300,
+    "monthlyExpenses": 4926.6,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 565328502647691,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 852740577334409,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 811536653105008,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zillar",
+    "global": true,
+    "workHourBalance": 132,
+    "lastQuarterProfit": 18524,
+    "yearlyProfit": 481449300,
+    "fiveYearProfit": 3454575991560313000,
+    "monthlyExpenses": 8862.41,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 273072722432797,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 606149929129740,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 137581252464873,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Quotezart",
+    "global": true,
+    "workHourBalance": 232,
+    "lastQuarterProfit": 23068,
+    "yearlyProfit": 155554638,
+    "fiveYearProfit": 3682468677961984000,
+    "monthlyExpenses": 6558.15,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 607687815018372,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 316998271033466,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 784238354129492,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Techmania",
+    "global": false,
+    "workHourBalance": 113,
+    "lastQuarterProfit": 1258,
+    "yearlyProfit": 1293957090,
+    "fiveYearProfit": 6844208293972867000,
+    "monthlyExpenses": 6213.83,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 592241428210701,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 490425995000289,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 318232924091749,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Pyramia",
+    "global": true,
+    "workHourBalance": 119,
+    "lastQuarterProfit": 19926,
+    "yearlyProfit": 1115994217,
+    "fiveYearProfit": 3855974589700473000,
+    "monthlyExpenses": 6496.87,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 138404404148455,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 691416423376967,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 360806506836243,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Supportal",
+    "global": false,
+    "workHourBalance": 245,
+    "lastQuarterProfit": 22854,
+    "yearlyProfit": 854171170,
+    "fiveYearProfit": 8436187946071341000,
+    "monthlyExpenses": 7734.82,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 390169850047441,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 517298375537207,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 331915225740223,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Pawnagra",
+    "global": true,
+    "workHourBalance": 206,
+    "lastQuarterProfit": 28966,
+    "yearlyProfit": 1932054474,
+    "fiveYearProfit": 5049022851119534000,
+    "monthlyExpenses": 4414.45,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 531132439736596,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 127755447865345,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 850344510370518,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zorromop",
+    "global": true,
+    "workHourBalance": 94,
+    "lastQuarterProfit": 10352,
+    "yearlyProfit": 425285692,
+    "fiveYearProfit": 1018801418750158800,
+    "monthlyExpenses": 3579.15,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 526639909217393,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 995326658686696,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 194658467514771,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Biohab",
+    "global": true,
+    "workHourBalance": 149,
+    "lastQuarterProfit": 17682,
+    "yearlyProfit": 1985688051,
+    "fiveYearProfit": 546441240403986400,
+    "monthlyExpenses": 5573.52,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 244266972218178,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 147836588880856,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 329501597555803,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Gushkool",
+    "global": true,
+    "workHourBalance": 115,
+    "lastQuarterProfit": 8406,
+    "yearlyProfit": 2048201158,
+    "fiveYearProfit": 8400041635162153000,
+    "monthlyExpenses": 3760.23,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 966799865403657,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 610754570459338,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 574617897228655,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Netagy",
+    "global": false,
+    "workHourBalance": 81,
+    "lastQuarterProfit": 14012,
+    "yearlyProfit": 1114315192,
+    "fiveYearProfit": 8400965928789301000,
+    "monthlyExpenses": 3406.61,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 820181112347121,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 579436426859341,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 255169754734792,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Geologix",
+    "global": true,
+    "workHourBalance": 130,
+    "lastQuarterProfit": 8065,
+    "yearlyProfit": 2081605957,
+    "fiveYearProfit": 1337437020033697800,
+    "monthlyExpenses": 3181.55,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 963692967812687,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 429036430006460,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 911438461866151,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Nexgene",
+    "global": false,
+    "workHourBalance": 233,
+    "lastQuarterProfit": 1564,
+    "yearlyProfit": 1562741855,
+    "fiveYearProfit": 8351024260438563000,
+    "monthlyExpenses": 2522.03,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 338566887850696,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 350662395542281,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 444551424171265,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Avenetro",
+    "global": false,
+    "workHourBalance": 236,
+    "lastQuarterProfit": 29158,
+    "yearlyProfit": 1787388378,
+    "fiveYearProfit": 2242645318017278000,
+    "monthlyExpenses": 7293.94,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 804251664168454,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 379917656033027,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 760306299716030,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Overfork",
+    "global": false,
+    "workHourBalance": 63,
+    "lastQuarterProfit": 3326,
+    "yearlyProfit": 54956320,
+    "fiveYearProfit": 3732124514473316400,
+    "monthlyExpenses": 1137.54,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 608655293068923,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 197131833726829,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 318298560880901,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Yogasm",
+    "global": false,
+    "workHourBalance": 42,
+    "lastQuarterProfit": 11378,
+    "yearlyProfit": 129451901,
+    "fiveYearProfit": 1362729705015836700,
+    "monthlyExpenses": 2356.22,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 655797440188196,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 823916888913599,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 237360407995899,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Extragene",
+    "global": true,
+    "workHourBalance": 158,
+    "lastQuarterProfit": 32361,
+    "yearlyProfit": 1962446731,
+    "fiveYearProfit": 2513958917573888000,
+    "monthlyExpenses": 9323.33,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 968091730738304,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 462955276262663,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 110195394221341,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Paprikut",
+    "global": false,
+    "workHourBalance": 23,
+    "lastQuarterProfit": 15078,
+    "yearlyProfit": 1786148534,
+    "fiveYearProfit": 747719265596211200,
+    "monthlyExpenses": 4034.14,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 457814531103293,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 957098511541573,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 629653177325258,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Moreganic",
+    "global": true,
+    "workHourBalance": 52,
+    "lastQuarterProfit": 12953,
+    "yearlyProfit": 1732957855,
+    "fiveYearProfit": 2366297362727344000,
+    "monthlyExpenses": 1639.14,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 755073859940682,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 318642647287801,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 878494345705163,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Ezent",
+    "global": true,
+    "workHourBalance": 208,
+    "lastQuarterProfit": 5320,
+    "yearlyProfit": 1209960553,
+    "fiveYearProfit": 2889694582448830500,
+    "monthlyExpenses": 2001.37,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 964497393693966,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 113849229236592,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 544505043049053,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Xoggle",
+    "global": false,
+    "workHourBalance": 116,
+    "lastQuarterProfit": 1716,
+    "yearlyProfit": 921357332,
+    "fiveYearProfit": 182831628249913340,
+    "monthlyExpenses": 8086.99,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 613988641852866,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 676577741000012,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 469998840176567,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Uncorp",
+    "global": false,
+    "workHourBalance": 199,
+    "lastQuarterProfit": 9810,
+    "yearlyProfit": 1543207740,
+    "fiveYearProfit": 5698632863158946000,
+    "monthlyExpenses": 5462.08,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 452151032362000,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 217498335483104,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 502474569127012,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Navir",
+    "global": true,
+    "workHourBalance": 153,
+    "lastQuarterProfit": 24275,
+    "yearlyProfit": 246480441,
+    "fiveYearProfit": 3757046386922883000,
+    "monthlyExpenses": 4827.44,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 381560635242721,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 900466827244816,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 708780554694883,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Motovate",
+    "global": false,
+    "workHourBalance": 126,
+    "lastQuarterProfit": 1102,
+    "yearlyProfit": 1709611197,
+    "fiveYearProfit": 6433975297513775000,
+    "monthlyExpenses": 3863.76,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 305495174515793,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 793333622936143,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 838466341392650,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Eplode",
+    "global": true,
+    "workHourBalance": 83,
+    "lastQuarterProfit": 31176,
+    "yearlyProfit": 860748230,
+    "fiveYearProfit": 8804745497621359000,
+    "monthlyExpenses": 2784.5,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 190748236843137,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 438287229651047,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 770481949583503,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Cowtown",
+    "global": false,
+    "workHourBalance": 173,
+    "lastQuarterProfit": 27875,
+    "yearlyProfit": 852719121,
+    "fiveYearProfit": 7333014096080331000,
+    "monthlyExpenses": 7664.56,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 833945797280936,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 950681733651794,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 138078149878148,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Geeky",
+    "global": false,
+    "workHourBalance": 96,
+    "lastQuarterProfit": 14787,
+    "yearlyProfit": 135005187,
+    "fiveYearProfit": 7075539465673005000,
+    "monthlyExpenses": 6972.71,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 656163007827693,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 705116638549789,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 192993982857898,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Exoplode",
+    "global": true,
+    "workHourBalance": 103,
+    "lastQuarterProfit": 17321,
+    "yearlyProfit": 1531742038,
+    "fiveYearProfit": 2927561174273517600,
+    "monthlyExpenses": 1525.6,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 331832457351065,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 220742591794648,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 870347251657199,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Premiant",
+    "global": true,
+    "workHourBalance": 224,
+    "lastQuarterProfit": 5022,
+    "yearlyProfit": 1706550796,
+    "fiveYearProfit": 7228621707717147000,
+    "monthlyExpenses": 1405.19,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 807422010367775,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 297663255301286,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 516519003274036,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Isologix",
+    "global": false,
+    "workHourBalance": 195,
+    "lastQuarterProfit": 27412,
+    "yearlyProfit": 576498257,
+    "fiveYearProfit": 101670260782712830,
+    "monthlyExpenses": 5495.12,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 194353290210387,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 925030832039397,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 763685951951354,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Kage",
+    "global": false,
+    "workHourBalance": 153,
+    "lastQuarterProfit": 239,
+    "yearlyProfit": 306661308,
+    "fiveYearProfit": 1924935967213670400,
+    "monthlyExpenses": 7598.31,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 834597758191831,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 776822304896143,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 264775306418714,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Bluegrain",
+    "global": false,
+    "workHourBalance": 16,
+    "lastQuarterProfit": 31796,
+    "yearlyProfit": 1966030082,
+    "fiveYearProfit": 1866836749167159300,
+    "monthlyExpenses": 2694.99,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 902120282047825,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 622511407103512,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 725537146776345,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Vantage",
+    "global": true,
+    "workHourBalance": 12,
+    "lastQuarterProfit": 19188,
+    "yearlyProfit": 1827164992,
+    "fiveYearProfit": 8593748397330788000,
+    "monthlyExpenses": 3660.35,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 746306379646120,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 483253208717553,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 169524275622585,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Centice",
+    "global": true,
+    "workHourBalance": 166,
+    "lastQuarterProfit": 7728,
+    "yearlyProfit": 1885280191,
+    "fiveYearProfit": 9212093324557150000,
+    "monthlyExpenses": 6639.41,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 859633300011841,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 207782163215647,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 404122063435801,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Imageflow",
+    "global": false,
+    "workHourBalance": 61,
+    "lastQuarterProfit": 2029,
+    "yearlyProfit": 1668829428,
+    "fiveYearProfit": 5314700948487006000,
+    "monthlyExpenses": 2404.15,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 127364615425066,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 578728810664874,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 250113620756365,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Ecstasia",
+    "global": true,
+    "workHourBalance": 237,
+    "lastQuarterProfit": 5997,
+    "yearlyProfit": 1129779525,
+    "fiveYearProfit": 316944812625053700,
+    "monthlyExpenses": 6912.88,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 242651412446702,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 749635602622630,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 655006385137895,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Xymonk",
+    "global": false,
+    "workHourBalance": 2,
+    "lastQuarterProfit": 21752,
+    "yearlyProfit": 26718888,
+    "fiveYearProfit": 3296264330139957000,
+    "monthlyExpenses": 7917.84,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 588682505237369,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 469522365054313,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 200821326456603,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Myopium",
+    "global": true,
+    "workHourBalance": 30,
+    "lastQuarterProfit": 28651,
+    "yearlyProfit": 479462136,
+    "fiveYearProfit": 6495606089364189000,
+    "monthlyExpenses": 5102.36,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 882484603751708,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 561065121248757,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 393427656630102,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Thredz",
+    "global": true,
+    "workHourBalance": 227,
+    "lastQuarterProfit": 28454,
+    "yearlyProfit": 1338211746,
+    "fiveYearProfit": 5434422906122516000,
+    "monthlyExpenses": 2512.67,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 600500223785476,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 409602961384435,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 315233013275814,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Comtent",
+    "global": true,
+    "workHourBalance": 118,
+    "lastQuarterProfit": 17161,
+    "yearlyProfit": 1454995549,
+    "fiveYearProfit": 4353041660637937700,
+    "monthlyExpenses": 9852.46,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 844604752559174,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 592838683046482,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 818100031360401,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zolarity",
+    "global": false,
+    "workHourBalance": 128,
+    "lastQuarterProfit": 25738,
+    "yearlyProfit": 468931966,
+    "fiveYearProfit": 2139182084695308300,
+    "monthlyExpenses": 1368.74,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 735853537450671,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 363702069599898,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 440141457003402,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Tourmania",
+    "global": true,
+    "workHourBalance": 233,
+    "lastQuarterProfit": 5131,
+    "yearlyProfit": 441842421,
+    "fiveYearProfit": 3168553141138839600,
+    "monthlyExpenses": 6142.32,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 493556308580481,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 185925938551192,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 192161658448623,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Isologia",
+    "global": false,
+    "workHourBalance": 8,
+    "lastQuarterProfit": 15383,
+    "yearlyProfit": 690473506,
+    "fiveYearProfit": 476042524312963100,
+    "monthlyExpenses": 4882.77,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 224575134033876,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 485311044374500,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 694752615012648,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zinca",
+    "global": false,
+    "workHourBalance": 45,
+    "lastQuarterProfit": 21401,
+    "yearlyProfit": 519908535,
+    "fiveYearProfit": 856720274987173900,
+    "monthlyExpenses": 4911.59,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 680673239155053,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 748913833866112,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 764497950100730,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Neurocell",
+    "global": false,
+    "workHourBalance": 205,
+    "lastQuarterProfit": 25801,
+    "yearlyProfit": 473914172,
+    "fiveYearProfit": 3118047470081126400,
+    "monthlyExpenses": 8063.56,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 901979044752022,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 708650184815806,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 121242008218227,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Bicol",
+    "global": false,
+    "workHourBalance": 89,
+    "lastQuarterProfit": 24488,
+    "yearlyProfit": 888075407,
+    "fiveYearProfit": 106380861674143740,
+    "monthlyExpenses": 1566.53,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 529164537082825,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 356948377483615,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 265171574671340,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Icology",
+    "global": true,
+    "workHourBalance": 219,
+    "lastQuarterProfit": 24652,
+    "yearlyProfit": 1654768094,
+    "fiveYearProfit": 7128605298495959000,
+    "monthlyExpenses": 8434.65,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 377677978348913,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 208269662482959,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 436156562092828,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Comveyor",
+    "global": true,
+    "workHourBalance": 67,
+    "lastQuarterProfit": 20903,
+    "yearlyProfit": 2132859166,
+    "fiveYearProfit": 333516323664986100,
+    "monthlyExpenses": 7487.88,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 870610067376290,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 386980166588362,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 540086315754239,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Ovium",
+    "global": true,
+    "workHourBalance": 19,
+    "lastQuarterProfit": 5090,
+    "yearlyProfit": 362970911,
+    "fiveYearProfit": 450467714907453440,
+    "monthlyExpenses": 3142.99,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 268777036859970,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 168258316939441,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 259049978601789,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Xurban",
+    "global": false,
+    "workHourBalance": 175,
+    "lastQuarterProfit": 19930,
+    "yearlyProfit": 23964470,
+    "fiveYearProfit": 7986945118429555000,
+    "monthlyExpenses": 9452.76,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 942960760847322,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 382476164630151,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 496933577452887,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Senmei",
+    "global": true,
+    "workHourBalance": 89,
+    "lastQuarterProfit": 6018,
+    "yearlyProfit": 824945940,
+    "fiveYearProfit": 7957832579393186000,
+    "monthlyExpenses": 6180.03,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 489750089308789,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 912796903363955,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 306253030045714,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Quordate",
+    "global": true,
+    "workHourBalance": 55,
+    "lastQuarterProfit": 19354,
+    "yearlyProfit": 549286881,
+    "fiveYearProfit": 6130198972176187000,
+    "monthlyExpenses": 8868.52,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 230162273000919,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 168673029367200,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 802983220239350,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Vixo",
+    "global": true,
+    "workHourBalance": 250,
+    "lastQuarterProfit": 11996,
+    "yearlyProfit": 1874653304,
+    "fiveYearProfit": 8160648282534824000,
+    "monthlyExpenses": 4688.55,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 676369183809854,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 842203441691949,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 408382038652548,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zenthall",
+    "global": false,
+    "workHourBalance": 223,
+    "lastQuarterProfit": 16228,
+    "yearlyProfit": 560553443,
+    "fiveYearProfit": 7913210369615684000,
+    "monthlyExpenses": 7362.68,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 124524446886937,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 821395314155104,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 528636156526469,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Furnafix",
+    "global": false,
+    "workHourBalance": 144,
+    "lastQuarterProfit": 7126,
+    "yearlyProfit": 434569620,
+    "fiveYearProfit": 5951794572937748000,
+    "monthlyExpenses": 1066.58,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 305905098491225,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 259937217355054,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 205053381017675,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Orbaxter",
+    "global": true,
+    "workHourBalance": 192,
+    "lastQuarterProfit": 28644,
+    "yearlyProfit": 1622337758,
+    "fiveYearProfit": 3197046962470351000,
+    "monthlyExpenses": 9994.04,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 679118754081650,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 566720185284252,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 216651954523504,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Candecor",
+    "global": false,
+    "workHourBalance": 194,
+    "lastQuarterProfit": 18666,
+    "yearlyProfit": 1786847110,
+    "fiveYearProfit": 3281789457602928600,
+    "monthlyExpenses": 4617.87,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 282379811958834,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 885063239658352,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 222515450550038,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Roboid",
+    "global": false,
+    "workHourBalance": 70,
+    "lastQuarterProfit": 7218,
+    "yearlyProfit": 399753553,
+    "fiveYearProfit": 9201474063002243000,
+    "monthlyExpenses": 5500.01,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 398238701058158,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 231896797405390,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 439899829397075,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Recognia",
+    "global": true,
+    "workHourBalance": 17,
+    "lastQuarterProfit": 1974,
+    "yearlyProfit": 1097425052,
+    "fiveYearProfit": 2513871470213310500,
+    "monthlyExpenses": 6588.63,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 145569319557505,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 698150844228503,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 675640685617609,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Flotonic",
+    "global": false,
+    "workHourBalance": 11,
+    "lastQuarterProfit": 29291,
+    "yearlyProfit": 2075524120,
+    "fiveYearProfit": 5701684181914167000,
+    "monthlyExpenses": 5134.72,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 387707657105114,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 380781863217731,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 379750593358478,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Proxsoft",
+    "global": true,
+    "workHourBalance": 172,
+    "lastQuarterProfit": 13385,
+    "yearlyProfit": 714562961,
+    "fiveYearProfit": 3187281236454656000,
+    "monthlyExpenses": 1426.95,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 410874145394850,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 944624214651028,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 601040099120473,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Insuresys",
+    "global": false,
+    "workHourBalance": 85,
+    "lastQuarterProfit": 14082,
+    "yearlyProfit": 726326637,
+    "fiveYearProfit": 1763128504263901200,
+    "monthlyExpenses": 2989.37,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 275337207636116,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 733988134219007,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 565595090609750,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Retrack",
+    "global": false,
+    "workHourBalance": 58,
+    "lastQuarterProfit": 3325,
+    "yearlyProfit": 1002970964,
+    "fiveYearProfit": 99804236763209730,
+    "monthlyExpenses": 3840.51,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 396937492232649,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 952609005043066,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 106551129020759,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Furnigeer",
+    "global": false,
+    "workHourBalance": 113,
+    "lastQuarterProfit": 2235,
+    "yearlyProfit": 561776162,
+    "fiveYearProfit": 249898468964685820,
+    "monthlyExpenses": 5354.18,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 657110679025098,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 537267322800077,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 128183404959539,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zidox",
+    "global": false,
+    "workHourBalance": 3,
+    "lastQuarterProfit": 32460,
+    "yearlyProfit": 1274731369,
+    "fiveYearProfit": 274171393167904770,
+    "monthlyExpenses": 4975.19,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 610490240415527,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 198832380610753,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 199684517937727,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Gink",
+    "global": false,
+    "workHourBalance": 47,
+    "lastQuarterProfit": 10812,
+    "yearlyProfit": 2051770756,
+    "fiveYearProfit": 4531484749637966000,
+    "monthlyExpenses": 2933.02,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 296969140184893,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 855520053531247,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 382489419488215,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zialactic",
+    "global": false,
+    "workHourBalance": 214,
+    "lastQuarterProfit": 27084,
+    "yearlyProfit": 2005196010,
+    "fiveYearProfit": 1772425996660447200,
+    "monthlyExpenses": 6409.29,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 735700178062512,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 387554942537067,
+          "authenticatedState": "authenticated",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 462245247452681,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Viocular",
+    "global": true,
+    "workHourBalance": 15,
+    "lastQuarterProfit": 20037,
+    "yearlyProfit": 1271658756,
+    "fiveYearProfit": 2303883906850566100,
+    "monthlyExpenses": 2674.22,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 505694347401144,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 699696035761169,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 551064547918711,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zerbina",
+    "global": false,
+    "workHourBalance": 47,
+    "lastQuarterProfit": 19608,
+    "yearlyProfit": 821029847,
+    "fiveYearProfit": 2068424095598096400,
+    "monthlyExpenses": 7103.74,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 398752889059704,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 723436160994031,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 587604346911958,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Netility",
+    "global": true,
+    "workHourBalance": 206,
+    "lastQuarterProfit": 14055,
+    "yearlyProfit": 786130686,
+    "fiveYearProfit": 7149655680687055000,
+    "monthlyExpenses": 8476.94,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 370134643389546,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 341884018663414,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 332835183176145,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Futurize",
+    "global": false,
+    "workHourBalance": 43,
+    "lastQuarterProfit": 23074,
+    "yearlyProfit": 1424649526,
+    "fiveYearProfit": 6757816880578834000,
+    "monthlyExpenses": 7097.37,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 816493866165412,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 858255257017064,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 320073254495237,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Digigen",
+    "global": false,
+    "workHourBalance": 34,
+    "lastQuarterProfit": 18138,
+    "yearlyProfit": 1064195281,
+    "fiveYearProfit": 6724798150441662000,
+    "monthlyExpenses": 2442.24,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 597414601861996,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 952532679983273,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 303747213346596,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Emtrac",
+    "global": false,
+    "workHourBalance": 195,
+    "lastQuarterProfit": 29088,
+    "yearlyProfit": 318216453,
+    "fiveYearProfit": 7437006527991339000,
+    "monthlyExpenses": 1395.22,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 947638688549852,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 642658328307230,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 377537621929584,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Minga",
+    "global": false,
+    "workHourBalance": 10,
+    "lastQuarterProfit": 2235,
+    "yearlyProfit": 1126853021,
+    "fiveYearProfit": 7419069447563307000,
+    "monthlyExpenses": 6035.83,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 490313573015724,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 267791195461305,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 817598715082717,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Terrasys",
+    "global": false,
+    "workHourBalance": 147,
+    "lastQuarterProfit": 27512,
+    "yearlyProfit": 1407490786,
+    "fiveYearProfit": 7769609473347611000,
+    "monthlyExpenses": 1135.15,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 288683313963470,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 352175360758063,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 994004989936565,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Shadease",
+    "global": false,
+    "workHourBalance": 85,
+    "lastQuarterProfit": 25107,
+    "yearlyProfit": 189802119,
+    "fiveYearProfit": 524631818708770800,
+    "monthlyExpenses": 3496.01,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 463276799411282,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 607526649896848,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 798861276164633,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Biflex",
+    "global": false,
+    "workHourBalance": 71,
+    "lastQuarterProfit": 20268,
+    "yearlyProfit": 1434502770,
+    "fiveYearProfit": 2168990135874347000,
+    "monthlyExpenses": 7843.35,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 478835049272323,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        },
+        {
+          "id": 561186561427569,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 105706935466514,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Suretech",
+    "global": true,
+    "workHourBalance": 235,
+    "lastQuarterProfit": 25245,
+    "yearlyProfit": 1914133962,
+    "fiveYearProfit": 114645124921964540,
+    "monthlyExpenses": 3113.84,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 952465977943596,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 125915842173136,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 609328369764808,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Recritube",
+    "global": false,
+    "workHourBalance": 217,
+    "lastQuarterProfit": 29770,
+    "yearlyProfit": 1431072155,
+    "fiveYearProfit": 4597465199554627600,
+    "monthlyExpenses": 9116.77,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 136865629778983,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 421724821338241,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 457115282528683,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Medesign",
+    "global": false,
+    "workHourBalance": 250,
+    "lastQuarterProfit": 29234,
+    "yearlyProfit": 1500874668,
+    "fiveYearProfit": 8751277634420316000,
+    "monthlyExpenses": 9449.36,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 585317883569392,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 311269314081295,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 338989025068792,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Datagene",
+    "global": false,
+    "workHourBalance": 240,
+    "lastQuarterProfit": 27149,
+    "yearlyProfit": 1848514552,
+    "fiveYearProfit": 5415865103896984000,
+    "monthlyExpenses": 1550.17,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 470179813668970,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 959906067270927,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 321365801777949,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Utarian",
+    "global": true,
+    "workHourBalance": 236,
+    "lastQuarterProfit": 7941,
+    "yearlyProfit": 1157541211,
+    "fiveYearProfit": 7270071480643551000,
+    "monthlyExpenses": 2010.88,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 656916959882104,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 224142685064198,
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 888594922376172,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Digirang",
+    "global": true,
+    "workHourBalance": 223,
+    "lastQuarterProfit": 25174,
+    "yearlyProfit": 490896929,
+    "fiveYearProfit": 7569408771071846000,
+    "monthlyExpenses": 1774.32,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 498171751192554,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 635720559410416,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 711091930374573,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Rodeology",
+    "global": true,
+    "workHourBalance": 57,
+    "lastQuarterProfit": 14591,
+    "yearlyProfit": 48252749,
+    "fiveYearProfit": 5384468838048528000,
+    "monthlyExpenses": 9928.21,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 794998944874750,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 476570372356195,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 117131987113033,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Isoternia",
+    "global": true,
+    "workHourBalance": 176,
+    "lastQuarterProfit": 23013,
+    "yearlyProfit": 1520612278,
+    "fiveYearProfit": 3611815856770222000,
+    "monthlyExpenses": 3309.62,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 646209200720623,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 371409898637256,
+          "authenticatedState": "loggedOut",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 271464383020575,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Olucore",
+    "global": true,
+    "workHourBalance": 36,
+    "lastQuarterProfit": 26145,
+    "yearlyProfit": 1051651989,
+    "fiveYearProfit": 7215988681619489000,
+    "monthlyExpenses": 3578.29,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 951616967293509,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        },
+        {
+          "id": 105713816461293,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 420460537103141,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Memora",
+    "global": true,
+    "workHourBalance": 117,
+    "lastQuarterProfit": 22676,
+    "yearlyProfit": 144733141,
+    "fiveYearProfit": 6235992405058642000,
+    "monthlyExpenses": 4724.31,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 541613561131412,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 362223720629346,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 128444238221044,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Intergeek",
+    "global": true,
+    "workHourBalance": 78,
+    "lastQuarterProfit": 22419,
+    "yearlyProfit": 809837441,
+    "fiveYearProfit": 1343819722230720500,
+    "monthlyExpenses": 4428.4,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 163296414031242,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 119262365401968,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 764681473514851,
+          "authenticatedState": "ambiguous"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Bleendot",
+    "global": true,
+    "workHourBalance": 116,
+    "lastQuarterProfit": 25510,
+    "yearlyProfit": 352697497,
+    "fiveYearProfit": 852571190018783200,
+    "monthlyExpenses": 5428.38,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 101659902715582,
+          "authenticatedState": "loggedOut",
+          "primary": false
+        },
+        {
+          "id": 359890267049341,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 632752548591709,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Neptide",
+    "global": true,
+    "workHourBalance": 248,
+    "lastQuarterProfit": 25896,
+    "yearlyProfit": 2056267975,
+    "fiveYearProfit": 6805348620378730000,
+    "monthlyExpenses": 2735.81,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 708815755189007,
+          "authenticatedState": "authenticated",
+          "primary": false
+        },
+        {
+          "id": 299614595636286,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 306366628010450,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Endicil",
+    "global": true,
+    "workHourBalance": 146,
+    "lastQuarterProfit": 6533,
+    "yearlyProfit": 2031978067,
+    "fiveYearProfit": 4349263076539885600,
+    "monthlyExpenses": 3011.88,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 579103339841251,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        },
+        {
+          "id": 290443281240126,
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": 123110628242799,
+          "authenticatedState": "loggedOut"
+        }
+      ]
+    }
+  },
+  {
+    "company": "Zolar",
+    "global": true,
+    "workHourBalance": 92,
+    "lastQuarterProfit": 12629,
+    "yearlyProfit": 1162305716,
+    "fiveYearProfit": 2905863789633847300,
+    "monthlyExpenses": 1557.2,
+    "identifiers": {
+      "ECID": [
+        {
+          "id": 379917700211743,
+          "authenticatedState": "authenticated",
+          "primary": true
+        },
+        {
+          "id": 945284756467795,
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": 404075940322324,
+          "authenticatedState": "authenticated"
+        }
+      ]
+    }
+  }
+]
