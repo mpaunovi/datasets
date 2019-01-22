@@ -1,0 +1,46 @@
+[
+  {
+    "repositoryCreatedBy": "Mavis",
+    "repositoryLastModifiedBy": "Lorraine",
+    "createdByBatchID": "82858ID",
+    "modifiedByBatchID": "20603ID",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": "866947810600358ID",
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": "816599696993103ID",
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ]
+    }
+  },
+  {
+    "repositoryCreatedBy": "Calderon",
+    "repositoryLastModifiedBy": "Leila",
+    "createdByBatchID": "22363ID",
+    "modifiedByBatchID": "25579ID",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": "946000918342308ID",
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": "796674566775211ID",
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ]
+    }
+  }
+]
