@@ -1,0 +1,42 @@
+[
+  {
+    "repositoryCreatedBy": "Carly",
+    "repositoryLastModifiedBy": "Megan",
+    "createdByBatchID": "45593ID",
+    "modifiedByBatchID": "10188ID",
+    "identityMap": {
+      "ECID": [
+        {
+          "xdm:id": "417288744083807ID",
+          "xdm:authenticatedState": "loggedOut"
+        }
+      ],
+      "AVID": [
+        {
+          "xdm:id": "281429771602267ID",
+          "xdm:authenticatedState": "authenticated"
+        }
+      ]
+    }
+  },
+  {
+    "repositoryCreatedBy": "Barber",
+    "repositoryLastModifiedBy": "Rachelle",
+    "createdByBatchID": "21183ID",
+    "modifiedByBatchID": "24791ID",
+    "identityMap": {
+      "ECID": [
+        {
+          "xdm:id": "667984849188141ID",
+          "xdm:authenticatedState": "authenticated"
+        }
+      ],
+      "AVID": [
+        {
+          "xdm:id": "438037245036719ID",
+          "xdm:authenticatedState": "authenticated"
+        }
+      ]
+    }
+  }
+]
