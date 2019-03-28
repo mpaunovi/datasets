@@ -1,0 +1,80 @@
+[
+  {
+    "_plat_ads": {
+      "Field1": "f1",
+      "Field2": "f2",
+      "Field3": "f3"
+    },
+    "_id": "60484ID",
+    "eventType": "16316ID",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": "629271550188788ID",
+          "authenticatedState": "loggedOut",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": "409716888900960ID",
+          "authenticatedState": "ambiguous",
+          "primary": false
+        }
+      ]
+    },
+    "timestamp": "08/17/18"
+  },
+  {
+    "_plat_ads": {
+      "Field1": "f1",
+      "Field2": "f2",
+      "Field3": "f3"
+    },
+    "_id": "59126ID",
+    "eventType": "25911ID",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": "852874032764094ID",
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ],
+      "AVID": [
+        {
+          "id": "264147099951645ID",
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ]
+    },
+    "timestamp": "10/26/14"
+  },
+  {
+    "_plat_ads": {
+      "Field1": "f1",
+      "Field2": "f2",
+      "Field3": "f3"
+    },
+    "_id": "81938ID",
+    "eventType": "18752ID",
+    "identityMap": {
+      "ECID": [
+        {
+          "id": "344362020148051ID",
+          "authenticatedState": "ambiguous",
+          "primary": true
+        }
+      ],
+      "AVID": [
+        {
+          "id": "160331453593061ID",
+          "authenticatedState": "authenticated",
+          "primary": false
+        }
+      ]
+    },
+    "timestamp": "02/27/18"
+  }
+]
